@@ -2069,7 +2069,10 @@
         "marker-color": "#659c34",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "Budapest"
+        "title": "Budapest",
+        "moscow-kazanalt": "",
+        "country": "Hungary",
+        "location": ""
       },
       "geometry": {
         "type": "Point",
