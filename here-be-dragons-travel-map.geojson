@@ -2507,7 +2507,7 @@
       "properties": {
         "marker-color": "#0056d5",
         "marker-size": "small",
-        "marker-symbol": "ferry",
+        "marker-symbol": "harbor",
         "location": "Baltic Sea",
         "title": "Baltic Ferry",
         "description": ""
