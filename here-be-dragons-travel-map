@@ -2067,10 +2067,10 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#659c34",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "title": "Budapest",
-        "moscow-kazanalt": "",
+        "description": "",
         "country": "Hungary",
         "location": ""
       },
