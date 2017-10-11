@@ -2218,25 +2218,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ust-Kut",
-        "description": "riverstation",
-        "location": "Lena river",
-        "marker-size": "small",
-        "marker-color": "#b22222",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.745029,
-          56.777866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Dapparai",
         "description": "riverstation",
         "location": "Lena river",
@@ -2250,44 +2231,6 @@
         "coordinates": [
           119.933365,
           60.187408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kirensk",
-        "description": "riverstation",
-        "location": "Lena river",
-        "marker-size": "small",
-        "marker-color": "#b22222",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.128408,
-          57.769943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kystatyam",
-        "description": "riverstation",
-        "location": "Lena river",
-        "marker-size": "small",
-        "marker-color": "#b22222",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.345069,
-          67.314873
         ]
       }
     },
@@ -2497,44 +2440,6 @@
         "coordinates": [
           128.763885,
           61.263383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mouth of the river Natara",
-        "description": "riverstation",
-        "location": "Lena river",
-        "marker-size": "small",
-        "marker-color": "#b22222",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.919722,
-          68.3975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mouth of the river Vilyuy",
-        "description": "riverstation",
-        "location": "Lena river",
-        "marker-size": "small",
-        "marker-color": "#b22222",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.403266,
-          64.377222
         ]
       }
     },
