@@ -2049,11 +2049,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#5d2feb",
-        "marker-size": "medium",
-        "marker-symbol": "star",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle",
         "title": "Berlin",
-        "country": "Germany"
+        "country": "Germany",
+        "moscow-kazanalt": "",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2066,13 +2068,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#659c34",
+        "marker-color": "#74a7fe",
         "marker-size": "small",
         "marker-symbol": "circle",
         "title": "Budapest",
         "description": "",
         "country": "Hungary",
-        "location": ""
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
