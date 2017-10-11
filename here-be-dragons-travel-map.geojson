@@ -2070,7 +2070,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "circle",
         "title": "Budapest",
         "description": "",
         "country": "Hungary",
@@ -2522,7 +2522,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2533,7 +2538,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2544,7 +2554,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2555,7 +2570,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2566,7 +2586,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2577,7 +2602,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2588,7 +2618,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2599,7 +2633,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle",
+        "location": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2610,7 +2649,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2621,7 +2664,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2632,7 +2679,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2643,7 +2694,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2654,7 +2709,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2665,7 +2724,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2676,7 +2739,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
