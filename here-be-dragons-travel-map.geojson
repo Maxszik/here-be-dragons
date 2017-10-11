@@ -2081,6 +2081,519 @@
           47.491804845637155
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tiksi",
+        "description": "riverstation",
+        "location": "Buor-Khaya Gulf",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.856548,
+          71.746906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk",
+        "description": "riverstation",
+        "location": "Enisey river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.864349,
+          56.014107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Listvyanka",
+        "description": "riverstation",
+        "location": "Lake Baikal",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.866669,
+          51.849998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Circum-Baikal Railway",
+        "description": "riverstation",
+        "location": "Lake Baikal",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767659,
+          51.709528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yakutsk",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.733337,
+          62.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lenskie Shyoki",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.895836,
+          58.710556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Polar Circle",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.510243,
+          66.593696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ust-Kut",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.745029,
+          56.777866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dapparai",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.933365,
+          60.187408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kirensk",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.128408,
+          57.769943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kystatyam",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.345069,
+          67.314873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kyusyur",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.366501,
+          70.684196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lena Pillars",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.985031,
+          60.948444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lensk",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.91568,
+          60.728085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olyokminsk",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.433334,
+          60.383331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siktyakh",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1069832,
+          69.90973124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sottintsy",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.03699,
+          62.52762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vitim",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.557602,
+          59.425941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhigansk",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.373596,
+          66.767303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Stop",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.102437,
+          60.572158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Stop",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.677982,
+          63.28476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mouth of the river Buotama",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.763885,
+          61.263383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mouth of the river Natara",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.919722,
+          68.3975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mouth of the river Vilyuy",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.403266,
+          64.377222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ura River",
+        "description": "riverstation",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05778,
+          60.26111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bykov Mys'",
+        "description": "riverstation",
+        "location": "Neelova bay",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099951,
+          72.003894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Novosibirsk",
+        "description": "riverstation",
+        "location": "Ob river",
+        "marker-size": "small",
+        "marker-color": "#b22222",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.92043,
+          55.030199
+        ]
+      }
     }
   ]
 }
