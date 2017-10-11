@@ -2147,7 +2147,7 @@
         "location": "Lake Baikal",
         "marker-size": "small",
         "marker-color": "#b22222",
-        "marker-symbol": "harbor",
+        "marker-symbol": "circle",
         "country": "Russia"
       },
       "geometry": {
