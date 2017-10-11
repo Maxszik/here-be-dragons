@@ -2070,7 +2070,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Budapest",
         "description": "",
         "country": "Hungary",
@@ -2499,6 +2499,24 @@
         "coordinates": [
           82.92043,
           55.030199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0042a9",
+        "marker-size": "small",
+        "marker-symbol": "ferry",
+        "location": "Baltic Sea",
+        "title": "Baltic Ferry",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7861328125,
+          59.46740794183742
         ]
       }
     }
