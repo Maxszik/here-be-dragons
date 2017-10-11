@@ -2505,7 +2505,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0042a9",
+        "marker-color": "#0056d5",
         "marker-size": "small",
         "marker-symbol": "ferry",
         "location": "Baltic Sea",
