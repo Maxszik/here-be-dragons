@@ -2062,6 +2062,22 @@
           52.52126087913385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#659c34",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Budapest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051837921142578,
+          47.491804845637155
+        ]
+      }
     }
   ]
 }
