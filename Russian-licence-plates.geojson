@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Adygea",
-        "description": 1,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 1
       },
       "geometry": {
         "type": "Point",
@@ -22,10 +22,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Buryatia",
-        "description": 3,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 3
       },
       "geometry": {
         "type": "Point",
@@ -39,10 +39,10 @@
       "type": "Feature",
       "properties": {
         "title": "Altai Republic",
-        "description": 4,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 4
       },
       "geometry": {
         "type": "Point",
@@ -56,10 +56,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Dagestan",
-        "description": 5,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 5
       },
       "geometry": {
         "type": "Point",
@@ -73,10 +73,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Ingushetia",
-        "description": 6,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 6
       },
       "geometry": {
         "type": "Point",
@@ -90,10 +90,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kabardino-Balkar Republic",
-        "description": 7,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 7
       },
       "geometry": {
         "type": "Point",
@@ -107,10 +107,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Kalmykia",
-        "description": 8,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 8
       },
       "geometry": {
         "type": "Point",
@@ -124,10 +124,10 @@
       "type": "Feature",
       "properties": {
         "title": "Karachay–Cherkess Republic",
-        "description": 9,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 9
       },
       "geometry": {
         "type": "Point",
@@ -141,10 +141,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Karelia",
-        "description": 10,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 10
       },
       "geometry": {
         "type": "Point",
@@ -158,10 +158,10 @@
       "type": "Feature",
       "properties": {
         "title": "Komi Republic",
-        "description": 11,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 11
       },
       "geometry": {
         "type": "Point",
@@ -175,10 +175,10 @@
       "type": "Feature",
       "properties": {
         "title": "Mari El Republic",
-        "description": 12,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 12
       },
       "geometry": {
         "type": "Point",
@@ -192,10 +192,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sakha Republic",
-        "description": 14,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 14
       },
       "geometry": {
         "type": "Point",
@@ -209,10 +209,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of North Ossetia–Alania",
-        "description": 15,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 15
       },
       "geometry": {
         "type": "Point",
@@ -226,10 +226,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tuva Republic",
-        "description": 17,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 17
       },
       "geometry": {
         "type": "Point",
@@ -243,10 +243,10 @@
       "type": "Feature",
       "properties": {
         "title": "Udmurt Republic",
-        "description": 18,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 18
       },
       "geometry": {
         "type": "Point",
@@ -260,10 +260,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Khakassia",
-        "description": 19,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 19
       },
       "geometry": {
         "type": "Point",
@@ -277,10 +277,10 @@
       "type": "Feature",
       "properties": {
         "title": "Altai Krai",
-        "description": 22,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 22
       },
       "geometry": {
         "type": "Point",
@@ -294,10 +294,10 @@
       "type": "Feature",
       "properties": {
         "title": "Khabarovsk Krai",
-        "description": 27,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 27
       },
       "geometry": {
         "type": "Point",
@@ -311,10 +311,10 @@
       "type": "Feature",
       "properties": {
         "title": "Amur Oblast",
-        "description": 28,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 28
       },
       "geometry": {
         "type": "Point",
@@ -328,10 +328,10 @@
       "type": "Feature",
       "properties": {
         "title": "Arkhangelsk Oblast",
-        "description": 29,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 29
       },
       "geometry": {
         "type": "Point",
@@ -345,10 +345,10 @@
       "type": "Feature",
       "properties": {
         "title": "Astrakhan Oblast",
-        "description": 30,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 30
       },
       "geometry": {
         "type": "Point",
@@ -362,10 +362,10 @@
       "type": "Feature",
       "properties": {
         "title": "Belgorod Oblast",
-        "description": 31,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 31
       },
       "geometry": {
         "type": "Point",
@@ -379,10 +379,10 @@
       "type": "Feature",
       "properties": {
         "title": "Bryansk Oblast",
-        "description": 32,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 32
       },
       "geometry": {
         "type": "Point",
@@ -396,10 +396,10 @@
       "type": "Feature",
       "properties": {
         "title": "Vladimir Oblast",
-        "description": 33,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 33
       },
       "geometry": {
         "type": "Point",
@@ -413,10 +413,10 @@
       "type": "Feature",
       "properties": {
         "title": "Vologda Oblast",
-        "description": 35,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 35
       },
       "geometry": {
         "type": "Point",
@@ -430,10 +430,10 @@
       "type": "Feature",
       "properties": {
         "title": "Ivanovo Oblast",
-        "description": 37,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 37
       },
       "geometry": {
         "type": "Point",
@@ -447,10 +447,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kaluga Oblast",
-        "description": 40,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 40
       },
       "geometry": {
         "type": "Point",
@@ -464,10 +464,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kirov Oblast",
-        "description": 43,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 43
       },
       "geometry": {
         "type": "Point",
@@ -481,10 +481,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kostroma Oblast",
-        "description": 44,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 44
       },
       "geometry": {
         "type": "Point",
@@ -498,10 +498,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kurgan Oblast",
-        "description": 45,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 45
       },
       "geometry": {
         "type": "Point",
@@ -515,10 +515,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kursk Oblast",
-        "description": 46,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 46
       },
       "geometry": {
         "type": "Point",
@@ -532,10 +532,10 @@
       "type": "Feature",
       "properties": {
         "title": "Leningrad Oblast",
-        "description": 47,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 47
       },
       "geometry": {
         "type": "Point",
@@ -549,10 +549,10 @@
       "type": "Feature",
       "properties": {
         "title": "Lipetsk Oblast",
-        "description": 48,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 48
       },
       "geometry": {
         "type": "Point",
@@ -566,10 +566,10 @@
       "type": "Feature",
       "properties": {
         "title": "Magadan Oblast",
-        "description": 49,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 49
       },
       "geometry": {
         "type": "Point",
@@ -583,10 +583,10 @@
       "type": "Feature",
       "properties": {
         "title": "Murmansk Oblast",
-        "description": 51,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 51
       },
       "geometry": {
         "type": "Point",
@@ -600,10 +600,10 @@
       "type": "Feature",
       "properties": {
         "title": "Novgorod Oblast",
-        "description": 53,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 53
       },
       "geometry": {
         "type": "Point",
@@ -617,10 +617,10 @@
       "type": "Feature",
       "properties": {
         "title": "Omsk Oblast",
-        "description": 55,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 55
       },
       "geometry": {
         "type": "Point",
@@ -634,10 +634,10 @@
       "type": "Feature",
       "properties": {
         "title": "Orenburg Oblast",
-        "description": 56,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 56
       },
       "geometry": {
         "type": "Point",
@@ -651,10 +651,10 @@
       "type": "Feature",
       "properties": {
         "title": "Oryol Oblast",
-        "description": 57,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 57
       },
       "geometry": {
         "type": "Point",
@@ -668,10 +668,10 @@
       "type": "Feature",
       "properties": {
         "title": "Penza Oblast",
-        "description": 58,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 58
       },
       "geometry": {
         "type": "Point",
@@ -685,10 +685,10 @@
       "type": "Feature",
       "properties": {
         "title": "Pskov Oblast",
-        "description": 60,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 60
       },
       "geometry": {
         "type": "Point",
@@ -702,10 +702,10 @@
       "type": "Feature",
       "properties": {
         "title": "Ryazan Oblast",
-        "description": 62,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 62
       },
       "geometry": {
         "type": "Point",
@@ -719,10 +719,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sakhalin Oblast",
-        "description": 65,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 65
       },
       "geometry": {
         "type": "Point",
@@ -736,10 +736,10 @@
       "type": "Feature",
       "properties": {
         "title": "Smolensk Oblast",
-        "description": 67,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 67
       },
       "geometry": {
         "type": "Point",
@@ -753,10 +753,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tambov Oblast",
-        "description": 68,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 68
       },
       "geometry": {
         "type": "Point",
@@ -770,10 +770,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tver Oblast",
-        "description": 69,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 69
       },
       "geometry": {
         "type": "Point",
@@ -787,10 +787,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tomsk Oblast",
-        "description": 70,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 70
       },
       "geometry": {
         "type": "Point",
@@ -804,10 +804,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tula Oblast",
-        "description": 71,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 71
       },
       "geometry": {
         "type": "Point",
@@ -821,10 +821,10 @@
       "type": "Feature",
       "properties": {
         "title": "Tyumen Oblast",
-        "description": 72,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 72
       },
       "geometry": {
         "type": "Point",
@@ -838,10 +838,10 @@
       "type": "Feature",
       "properties": {
         "title": "Yaroslavl Oblast",
-        "description": 76,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 76
       },
       "geometry": {
         "type": "Point",
@@ -855,10 +855,10 @@
       "type": "Feature",
       "properties": {
         "title": "Jewish Autonomous Oblast",
-        "description": 79,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 79
       },
       "geometry": {
         "type": "Point",
@@ -872,10 +872,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Crimea",
-        "description": 82,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 82
       },
       "geometry": {
         "type": "Point",
@@ -889,10 +889,10 @@
       "type": "Feature",
       "properties": {
         "title": "Nenets Autonomous Okrug",
-        "description": 83,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 83
       },
       "geometry": {
         "type": "Point",
@@ -906,10 +906,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chukotka Autonomous Okrug",
-        "description": 87,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 87
       },
       "geometry": {
         "type": "Point",
@@ -923,10 +923,10 @@
       "type": "Feature",
       "properties": {
         "title": "Yamalo-Nenets Autonomous Okrug",
-        "description": 89,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 89
       },
       "geometry": {
         "type": "Point",
@@ -940,10 +940,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sevastopol",
-        "description": 92,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 92
       },
       "geometry": {
         "type": "Point",
@@ -957,10 +957,10 @@
       "type": "Feature",
       "properties": {
         "title": "Baikonur",
-        "description": 94,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 94
       },
       "geometry": {
         "type": "Point",
@@ -974,10 +974,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chechen Republic",
-        "description": 95,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 95
       },
       "geometry": {
         "type": "Point",
@@ -991,10 +991,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Bashkortostan",
-        "description": 2,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 2
       },
       "geometry": {
         "type": "Point",
@@ -1008,10 +1008,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Bashkortostan",
-        "description": 102,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 102
       },
       "geometry": {
         "type": "Point",
@@ -1025,10 +1025,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Mordovia",
-        "description": 13,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 13
       },
       "geometry": {
         "type": "Point",
@@ -1042,10 +1042,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Mordovia",
-        "description": 113,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 113
       },
       "geometry": {
         "type": "Point",
@@ -1059,10 +1059,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Tatarstan",
-        "description": 16,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 16
       },
       "geometry": {
         "type": "Point",
@@ -1076,10 +1076,10 @@
       "type": "Feature",
       "properties": {
         "title": "Republic of Tatarstan",
-        "description": 116,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 116
       },
       "geometry": {
         "type": "Point",
@@ -1093,10 +1093,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chuvash Republic",
-        "description": 21,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 21
       },
       "geometry": {
         "type": "Point",
@@ -1110,10 +1110,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chuvash Republic",
-        "description": 121,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 121
       },
       "geometry": {
         "type": "Point",
@@ -1127,10 +1127,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnodar Krai",
-        "description": 23,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 23
       },
       "geometry": {
         "type": "Point",
@@ -1144,10 +1144,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnodar Krai",
-        "description": 93,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 93
       },
       "geometry": {
         "type": "Point",
@@ -1161,10 +1161,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnodar Krai",
-        "description": 123,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 123
       },
       "geometry": {
         "type": "Point",
@@ -1178,10 +1178,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnoyarsk Krai",
-        "description": 24,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 24
       },
       "geometry": {
         "type": "Point",
@@ -1195,10 +1195,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnoyarsk Krai",
-        "description": 84,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 84
       },
       "geometry": {
         "type": "Point",
@@ -1212,10 +1212,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnoyarsk Krai",
-        "description": 88,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 88
       },
       "geometry": {
         "type": "Point",
@@ -1229,10 +1229,10 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnoyarsk Krai",
-        "description": 124,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 124
       },
       "geometry": {
         "type": "Point",
@@ -1246,10 +1246,10 @@
       "type": "Feature",
       "properties": {
         "title": "Primorsky Krai",
-        "description": 25,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 25
       },
       "geometry": {
         "type": "Point",
@@ -1263,10 +1263,10 @@
       "type": "Feature",
       "properties": {
         "title": "Primorsky Krai",
-        "description": 125,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 125
       },
       "geometry": {
         "type": "Point",
@@ -1280,10 +1280,10 @@
       "type": "Feature",
       "properties": {
         "title": "Stavropol Krai",
-        "description": 26,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 26
       },
       "geometry": {
         "type": "Point",
@@ -1297,10 +1297,10 @@
       "type": "Feature",
       "properties": {
         "title": "Stavropol Krai",
-        "description": 126,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 126
       },
       "geometry": {
         "type": "Point",
@@ -1314,10 +1314,10 @@
       "type": "Feature",
       "properties": {
         "title": "Volgograd Oblast",
-        "description": 34,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 34
       },
       "geometry": {
         "type": "Point",
@@ -1331,10 +1331,10 @@
       "type": "Feature",
       "properties": {
         "title": "Volgograd Oblast",
-        "description": 134,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 134
       },
       "geometry": {
         "type": "Point",
@@ -1348,10 +1348,10 @@
       "type": "Feature",
       "properties": {
         "title": "Voronezh Oblast",
-        "description": 36,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 36
       },
       "geometry": {
         "type": "Point",
@@ -1365,10 +1365,10 @@
       "type": "Feature",
       "properties": {
         "title": "Voronezh Oblast",
-        "description": 136,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 136
       },
       "geometry": {
         "type": "Point",
@@ -1382,10 +1382,10 @@
       "type": "Feature",
       "properties": {
         "title": "Irkutsk Oblast",
-        "description": 38,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 38
       },
       "geometry": {
         "type": "Point",
@@ -1399,10 +1399,10 @@
       "type": "Feature",
       "properties": {
         "title": "Irkutsk Oblast",
-        "description": 85,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 85
       },
       "geometry": {
         "type": "Point",
@@ -1416,10 +1416,10 @@
       "type": "Feature",
       "properties": {
         "title": "Irkutsk Oblast",
-        "description": 138,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 138
       },
       "geometry": {
         "type": "Point",
@@ -1433,10 +1433,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kaliningrad Oblast",
-        "description": 39,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 39
       },
       "geometry": {
         "type": "Point",
@@ -1450,10 +1450,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kaliningrad Oblast",
-        "description": 91,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 91
       },
       "geometry": {
         "type": "Point",
@@ -1467,10 +1467,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kamchatka Krai",
-        "description": 41,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 41
       },
       "geometry": {
         "type": "Point",
@@ -1484,10 +1484,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kamchatka Krai",
-        "description": 82,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 82
       },
       "geometry": {
         "type": "Point",
@@ -1501,10 +1501,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kemerovo Oblast",
-        "description": 42,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 42
       },
       "geometry": {
         "type": "Point",
@@ -1518,10 +1518,10 @@
       "type": "Feature",
       "properties": {
         "title": "Kemerovo Oblast",
-        "description": 142,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 142
       },
       "geometry": {
         "type": "Point",
@@ -1535,10 +1535,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow Oblast",
-        "description": 50,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 50
       },
       "geometry": {
         "type": "Point",
@@ -1552,10 +1552,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow Oblast",
-        "description": 90,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 90
       },
       "geometry": {
         "type": "Point",
@@ -1569,10 +1569,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow Oblast",
-        "description": 150,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 150
       },
       "geometry": {
         "type": "Point",
@@ -1586,10 +1586,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow Oblast",
-        "description": 190,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 190
       },
       "geometry": {
         "type": "Point",
@@ -1603,10 +1603,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow Oblast",
-        "description": 750,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 750
       },
       "geometry": {
         "type": "Point",
@@ -1620,10 +1620,10 @@
       "type": "Feature",
       "properties": {
         "title": "Nizhny Novgorod Oblast",
-        "description": 52,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 52
       },
       "geometry": {
         "type": "Point",
@@ -1637,10 +1637,10 @@
       "type": "Feature",
       "properties": {
         "title": "Nizhny Novgorod Oblast",
-        "description": 152,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 152
       },
       "geometry": {
         "type": "Point",
@@ -1654,10 +1654,10 @@
       "type": "Feature",
       "properties": {
         "title": "Novosibirsk Oblast",
-        "description": 54,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 54
       },
       "geometry": {
         "type": "Point",
@@ -1671,10 +1671,10 @@
       "type": "Feature",
       "properties": {
         "title": "Novosibirsk Oblast",
-        "description": 154,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 154
       },
       "geometry": {
         "type": "Point",
@@ -1688,10 +1688,10 @@
       "type": "Feature",
       "properties": {
         "title": "Perm Krai",
-        "description": 59,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 59
       },
       "geometry": {
         "type": "Point",
@@ -1705,10 +1705,10 @@
       "type": "Feature",
       "properties": {
         "title": "Perm Krai",
-        "description": 81,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 81
       },
       "geometry": {
         "type": "Point",
@@ -1722,10 +1722,10 @@
       "type": "Feature",
       "properties": {
         "title": "Perm Krai",
-        "description": 159,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 159
       },
       "geometry": {
         "type": "Point",
@@ -1739,10 +1739,10 @@
       "type": "Feature",
       "properties": {
         "title": "Rostov Oblast",
-        "description": 61,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 61
       },
       "geometry": {
         "type": "Point",
@@ -1756,10 +1756,10 @@
       "type": "Feature",
       "properties": {
         "title": "Rostov Oblast",
-        "description": 161,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 161
       },
       "geometry": {
         "type": "Point",
@@ -1773,10 +1773,10 @@
       "type": "Feature",
       "properties": {
         "title": "Samara Oblast",
-        "description": 63,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 63
       },
       "geometry": {
         "type": "Point",
@@ -1790,10 +1790,10 @@
       "type": "Feature",
       "properties": {
         "title": "Samara Oblast",
-        "description": 163,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 163
       },
       "geometry": {
         "type": "Point",
@@ -1807,10 +1807,10 @@
       "type": "Feature",
       "properties": {
         "title": "Saratov Oblast",
-        "description": 64,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 64
       },
       "geometry": {
         "type": "Point",
@@ -1824,10 +1824,10 @@
       "type": "Feature",
       "properties": {
         "title": "Saratov Oblast",
-        "description": 164,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 164
       },
       "geometry": {
         "type": "Point",
@@ -1841,10 +1841,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sverdlovsk Oblast",
-        "description": 66,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 66
       },
       "geometry": {
         "type": "Point",
@@ -1858,10 +1858,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sverdlovsk Oblast",
-        "description": 96,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 96
       },
       "geometry": {
         "type": "Point",
@@ -1875,10 +1875,10 @@
       "type": "Feature",
       "properties": {
         "title": "Sverdlovsk Oblast",
-        "description": 196,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 196
       },
       "geometry": {
         "type": "Point",
@@ -1892,10 +1892,10 @@
       "type": "Feature",
       "properties": {
         "title": "Ulyanovsk Oblast",
-        "description": 73,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 73
       },
       "geometry": {
         "type": "Point",
@@ -1909,10 +1909,10 @@
       "type": "Feature",
       "properties": {
         "title": "Ulyanovsk Oblast",
-        "description": 173,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 173
       },
       "geometry": {
         "type": "Point",
@@ -1926,10 +1926,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chelyabinsk Oblast",
-        "description": 74,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 74
       },
       "geometry": {
         "type": "Point",
@@ -1943,10 +1943,10 @@
       "type": "Feature",
       "properties": {
         "title": "Chelyabinsk Oblast",
-        "description": 174,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 174
       },
       "geometry": {
         "type": "Point",
@@ -1960,10 +1960,10 @@
       "type": "Feature",
       "properties": {
         "title": "Zabaykalsky Krai",
-        "description": 75,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 75
       },
       "geometry": {
         "type": "Point",
@@ -1977,10 +1977,10 @@
       "type": "Feature",
       "properties": {
         "title": "Zabaykalsky Krai",
-        "description": 80,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 80
       },
       "geometry": {
         "type": "Point",
@@ -1994,10 +1994,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 77,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 77
       },
       "geometry": {
         "type": "Point",
@@ -2011,10 +2011,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 97,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 97
       },
       "geometry": {
         "type": "Point",
@@ -2028,10 +2028,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 99,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 99
       },
       "geometry": {
         "type": "Point",
@@ -2045,10 +2045,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 177,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 177
       },
       "geometry": {
         "type": "Point",
@@ -2062,10 +2062,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 197,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 197
       },
       "geometry": {
         "type": "Point",
@@ -2079,10 +2079,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 199,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 199
       },
       "geometry": {
         "type": "Point",
@@ -2096,10 +2096,10 @@
       "type": "Feature",
       "properties": {
         "title": "Moscow",
-        "description": 777,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 777
       },
       "geometry": {
         "type": "Point",
@@ -2113,10 +2113,10 @@
       "type": "Feature",
       "properties": {
         "title": "St. Petersburg",
-        "description": 78,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 78
       },
       "geometry": {
         "type": "Point",
@@ -2130,10 +2130,10 @@
       "type": "Feature",
       "properties": {
         "title": "St. Petersburg",
-        "description": 98,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 98
       },
       "geometry": {
         "type": "Point",
@@ -2147,10 +2147,10 @@
       "type": "Feature",
       "properties": {
         "title": "St. Petersburg",
-        "description": 178,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 178
       },
       "geometry": {
         "type": "Point",
@@ -2164,10 +2164,10 @@
       "type": "Feature",
       "properties": {
         "title": "Khanty–Mansi Autonomous Okrug",
-        "description": 86,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 86
       },
       "geometry": {
         "type": "Point",
@@ -2181,10 +2181,10 @@
       "type": "Feature",
       "properties": {
         "title": "Khanty–Mansi Autonomous Okrug",
-        "description": 186,
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "state": 186
       },
       "geometry": {
         "type": "Point",
