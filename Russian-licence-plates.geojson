@@ -1,0 +1,2198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Adygea",
+        "description": 1,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40,
+          44.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Buryatia",
+        "description": 3,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.333333,
+          53.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Altai Republic",
+        "description": 4,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8572186,
+          50.7114101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Dagestan",
+        "description": 5,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1,
+          46.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Ingushetia",
+        "description": 6,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2,
+          44.966667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kabardino-Balkar Republic",
+        "description": 7,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.583333,
+          43.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Kalmykia",
+        "description": 8,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3275745,
+          46.2313018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Karachay–Cherkess Republic",
+        "description": 9,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.783333,
+          43.916667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Karelia",
+        "description": 10,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.30923086,
+          63.6734464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Komi Republic",
+        "description": 11,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3326073,
+          63.9881421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mari El Republic",
+        "description": 12,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.866667,
+          56.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sakha Republic",
+        "description": 14,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.6684119,
+          65.23571905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of North Ossetia–Alania",
+        "description": 15,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.183333,
+          44.233333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tuva Republic",
+        "description": 17,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.75,
+          51.783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Udmurt Republic",
+        "description": 18,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.75,
+          57.283333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Khakassia",
+        "description": 19,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0664303,
+          53.4399379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Altai Krai",
+        "description": 22,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6931424,
+          52.6932243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Khabarovsk Krai",
+        "description": 27,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.121524,
+          51.6312684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amur Oblast",
+        "description": 28,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.437295,
+          52.8032368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arkhangelsk Oblast",
+        "description": 29,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7199849,
+          63.4736289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Astrakhan Oblast",
+        "description": 30,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.608851,
+          47.1878186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belgorod Oblast",
+        "description": 31,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5837615,
+          50.7080119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bryansk Oblast",
+        "description": 32,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.415853,
+          52.8873315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vladimir Oblast",
+        "description": 33,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6561633,
+          56.0503336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vologda Oblast",
+        "description": 35,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7150729,
+          59.9780506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ivanovo Oblast",
+        "description": 37,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4352137,
+          56.9167446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaluga Oblast",
+        "description": 40,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5272854,
+          54.4382773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kirov Oblast",
+        "description": 43,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7686354,
+          58.2155351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kostroma Oblast",
+        "description": 44,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2533273,
+          58.424756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kurgan Oblast",
+        "description": 45,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5632681,
+          55.7655302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kursk Oblast",
+        "description": 46,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4852695,
+          51.6568453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leningrad Oblast",
+        "description": 47,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8322298,
+          60.1716709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lipetsk Oblast",
+        "description": 48,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1122664,
+          52.6935178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Magadan Oblast",
+        "description": 49,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.014726,
+          63.5515028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murmansk Oblast",
+        "description": 51,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9999151,
+          68.0000418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Novgorod Oblast",
+        "description": 53,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5169757,
+          58.2843833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Omsk Oblast",
+        "description": 55,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5099936,
+          56.0935263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orenburg Oblast",
+        "description": 56,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7276647,
+          52.0269262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oryol Oblast",
+        "description": 57,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4251709,
+          52.8392765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Penza Oblast",
+        "description": 58,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7879181,
+          53.1655415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pskov Oblast",
+        "description": 60,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8586826,
+          57.5358729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ryazan Oblast",
+        "description": 62,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5705246,
+          54.4226732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sakhalin Oblast",
+        "description": 65,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.448533,
+          49.7219665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smolensk Oblast",
+        "description": 67,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0192065,
+          55.0343496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tambov Oblast",
+        "description": 68,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.3578918,
+          52.9019574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tver Oblast",
+        "description": 69,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1744428,
+          57.1134475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tomsk Oblast",
+        "description": 70,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0475315,
+          58.6124279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tula Oblast",
+        "description": 71,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3690909,
+          53.9570701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tyumen Oblast",
+        "description": 72,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.83987967,
+          57.568367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yaroslavl Oblast",
+        "description": 76,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0021095,
+          57.7781976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jewish Autonomous Oblast",
+        "description": 79,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.328378,
+          48.5499353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Crimea",
+        "description": 82,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7401104,
+          45.1890034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nenets Autonomous Okrug",
+        "description": 83,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0626853,
+          67.6783253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chukotka Autonomous Okrug",
+        "description": 87,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.4900869,
+          66.0006475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yamalo-Nenets Autonomous Okrug",
+        "description": 89,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3415488,
+          67.1471631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sevastopol",
+        "description": 92,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5224182,
+          44.6114503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baikonur",
+        "description": 94,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3069738,
+          45.630083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chechen Republic",
+        "description": 95,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.76582489,
+          43.24421605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Bashkortostan",
+        "description": 2,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9784582,
+          54.4747553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Bashkortostan",
+        "description": 102,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9784582,
+          54.4747553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Mordovia",
+        "description": 13,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7729228,
+          54.3376037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Mordovia",
+        "description": 113,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7729228,
+          54.3376037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Tatarstan",
+        "description": 16,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.933333,
+          55.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic of Tatarstan",
+        "description": 116,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.933333,
+          55.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chuvash Republic",
+        "description": 21,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1704548,
+          53.9533961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chuvash Republic",
+        "description": 121,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1704548,
+          53.9533961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnodar Krai",
+        "description": 23,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.00650155,
+          45.113726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnodar Krai",
+        "description": 93,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.00650155,
+          45.113726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnodar Krai",
+        "description": 123,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.00650155,
+          45.113726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk Krai",
+        "description": 24,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0979974,
+          63.3233807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk Krai",
+        "description": 84,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0979974,
+          63.3233807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk Krai",
+        "description": 88,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0979974,
+          63.3233807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk Krai",
+        "description": 124,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0979974,
+          63.3233807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Primorsky Krai",
+        "description": 25,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.726645,
+          45.0819456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Primorsky Krai",
+        "description": 125,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.726645,
+          45.0819456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stavropol Krai",
+        "description": 26,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4406913,
+          44.8632577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stavropol Krai",
+        "description": 126,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4406913,
+          44.8632577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Volgograd Oblast",
+        "description": 34,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2903582,
+          49.6048339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Volgograd Oblast",
+        "description": 134,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2903582,
+          49.6048339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Voronezh Oblast",
+        "description": 36,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1506507,
+          50.9800393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Voronezh Oblast",
+        "description": 136,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1506507,
+          50.9800393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irkutsk Oblast",
+        "description": 38,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.719221,
+          56.6370122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irkutsk Oblast",
+        "description": 85,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.719221,
+          56.6370122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irkutsk Oblast",
+        "description": 138,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.719221,
+          56.6370122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaliningrad Oblast",
+        "description": 39,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1489473,
+          54.7293041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaliningrad Oblast",
+        "description": 91,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1489473,
+          54.7293041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kamchatka Krai",
+        "description": 41,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0854276,
+          57.8121015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kamchatka Krai",
+        "description": 82,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0854276,
+          57.8121015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kemerovo Oblast",
+        "description": 42,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.342861,
+          54.5335781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kemerovo Oblast",
+        "description": 142,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.342861,
+          54.5335781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow Oblast",
+        "description": 50,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0353929,
+          55.5043158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow Oblast",
+        "description": 90,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0353929,
+          55.5043158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow Oblast",
+        "description": 150,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0353929,
+          55.5043158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow Oblast",
+        "description": 190,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0353929,
+          55.5043158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow Oblast",
+        "description": 750,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0353929,
+          55.5043158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nizhny Novgorod Oblast",
+        "description": 52,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5855442,
+          56.4601702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nizhny Novgorod Oblast",
+        "description": 152,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5855442,
+          56.4601702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Novosibirsk Oblast",
+        "description": 54,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4813924,
+          54.9720169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Novosibirsk Oblast",
+        "description": 154,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4813924,
+          54.9720169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Perm Krai",
+        "description": 59,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3159546,
+          58.5951603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Perm Krai",
+        "description": 81,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3159546,
+          58.5951603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Perm Krai",
+        "description": 159,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3159546,
+          58.5951603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rostov Oblast",
+        "description": 61,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7957942,
+          47.6222451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rostov Oblast",
+        "description": 161,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7957942,
+          47.6222451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Samara Oblast",
+        "description": 63,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4785577,
+          53.2852213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Samara Oblast",
+        "description": 163,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4785577,
+          53.2852213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saratov Oblast",
+        "description": 64,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8631952,
+          51.6520555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saratov Oblast",
+        "description": 164,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8631952,
+          51.6520555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sverdlovsk Oblast",
+        "description": 66,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8021546,
+          58.6414755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sverdlovsk Oblast",
+        "description": 96,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8021546,
+          58.6414755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sverdlovsk Oblast",
+        "description": 196,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8021546,
+          58.6414755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulyanovsk Oblast",
+        "description": 73,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2324921,
+          54.1463177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulyanovsk Oblast",
+        "description": 173,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2324921,
+          54.1463177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chelyabinsk Oblast",
+        "description": 74,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1865846,
+          54.4223954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chelyabinsk Oblast",
+        "description": 174,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1865846,
+          54.4223954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zabaykalsky Krai",
+        "description": 75,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.956325,
+          52.248521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zabaykalsky Krai",
+        "description": 80,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.956325,
+          52.248521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 77,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 97,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 99,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 177,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 197,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 199,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow",
+        "description": 777,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6187012,
+          55.7516147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Petersburg",
+        "description": 78,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3153628,
+          59.9393657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Petersburg",
+        "description": 98,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3153628,
+          59.9393657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Petersburg",
+        "description": 178,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3153628,
+          59.9393657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Khanty–Mansi Autonomous Okrug",
+        "description": 86,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.25,
+          70.166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Khanty–Mansi Autonomous Okrug",
+        "description": 186,
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.25,
+          70.166667
+        ]
+      }
+    }
+  ]
+}
