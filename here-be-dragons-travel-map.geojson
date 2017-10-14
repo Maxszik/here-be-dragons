@@ -2051,7 +2051,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked-stroked",
         "title": "Berlin",
         "country": "Germany",
         "moscow-kazanalt": "",
@@ -2070,7 +2070,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Budapest",
         "description": "",
         "country": "Hungary",
@@ -2149,7 +2149,7 @@
         "location": "Lake Baikal",
         "marker-size": "small",
         "marker-color": "#b22222",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "country": "Russia"
       },
       "geometry": {
@@ -2201,7 +2201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Polar Circle",
+        "title": "Polar circle-stroked",
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
@@ -2526,7 +2526,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2542,7 +2542,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2558,7 +2558,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2574,7 +2574,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2590,7 +2590,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2606,7 +2606,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -2621,7 +2621,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "location": "Central Europe",
         "title": "Piran",
         "country": "Slovenia"
@@ -2639,7 +2639,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "location": "Central Europe",
         "title": "Trieste",
         "country": "Italy"
@@ -2657,7 +2657,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Debrecen",
         "location": "Central Europe",
         "country": "Hungary"
@@ -2675,7 +2675,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Bratislava",
         "location": "Central Europe",
         "country": "Slovakia"
@@ -2693,7 +2693,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Warzaw",
         "location": "Central Europe"
       },
@@ -2710,7 +2710,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Gdansk",
         "location": "Central Europe"
       },
@@ -2727,7 +2727,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "location": "Central Europe"
       },
       "geometry": {
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "location": "Central Europe"
       },
       "geometry": {
@@ -2759,7 +2759,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Dresden",
         "location": "Central Europe",
         "country": "Germany"
@@ -2777,7 +2777,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Amsterdam",
         "location": "West",
         "country": "The Netherlands"
@@ -2795,7 +2795,7 @@
       "properties": {
         "marker-color": "#008040",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "title": "Yerevan",
         "location": "Caucasus",
         "country": "Armenia"
@@ -2813,7 +2813,7 @@
       "properties": {
         "marker-color": "#804000",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "circle-stroked",
         "location": "Central Asia",
         "country": "Uzbekistan",
         "title": "Tashkent"
