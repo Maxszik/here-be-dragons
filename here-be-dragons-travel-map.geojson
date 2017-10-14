@@ -2623,7 +2623,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle",
         "location": "Central Europe",
-        "title": "Piran"
+        "title": "Piran",
+        "country": "Slovenia"
       },
       "geometry": {
         "type": "Point",
@@ -2640,7 +2641,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle",
         "location": "Central Europe",
-        "title": "Trieste"
+        "title": "Trieste",
+        "country": "Italy"
       },
       "geometry": {
         "type": "Point",
@@ -2657,7 +2659,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle",
         "title": "Debrecen",
-        "location": "Central Europe"
+        "location": "Central Europe",
+        "country": "Hungary"
       },
       "geometry": {
         "type": "Point",
@@ -2674,7 +2677,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle",
         "title": "Bratislava",
-        "location": "Central Europe"
+        "location": "Central Europe",
+        "country": "Slovakia"
       },
       "geometry": {
         "type": "Point",
@@ -2757,13 +2761,32 @@
         "marker-color": "#004080",
         "marker-symbol": "circle",
         "title": "Dresden",
-        "location": "Central Europe"
+        "location": "Central Europe",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           13.741868734359741,
           51.05232425799958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "title": "Amsterdam",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900224208831786,
+          52.372376573760796
         ]
       }
     }
