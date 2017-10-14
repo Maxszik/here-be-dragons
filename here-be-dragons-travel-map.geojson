@@ -2051,7 +2051,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked-stroked",
+        "marker-symbol": "circle-stroked",
         "title": "Berlin",
         "country": "Germany",
         "moscow-kazanalt": "",
