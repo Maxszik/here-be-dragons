@@ -2620,7 +2620,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#74a7fe",
+        "marker-color": "#004080",
         "marker-symbol": "circle",
         "location": "Central Europe",
         "title": "Piran"
@@ -2637,7 +2637,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#74a7fe",
+        "marker-color": "#004080",
         "marker-symbol": "circle",
         "location": "Central Europe",
         "title": "Trieste"
@@ -2671,9 +2671,10 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#74a7fe",
+        "marker-color": "#004080",
         "marker-symbol": "circle",
-        "title": "Bratislava"
+        "title": "Bratislava",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2689,7 +2690,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle",
-        "title": "Warzaw"
+        "title": "Warzaw",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2705,7 +2707,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle",
-        "title": "Gdansk"
+        "title": "Gdansk",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2720,7 +2723,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2735,7 +2739,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2749,7 +2754,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#74a7fe",
+        "marker-color": "#004080",
         "marker-symbol": "circle",
         "title": "Dresden",
         "location": "Central Europe"
