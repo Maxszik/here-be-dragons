@@ -2621,7 +2621,9 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "location": "Central Europe",
+        "title": "Piran"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2639,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle",
-        "location": ""
+        "location": "Central Europe",
+        "title": "Trieste"
       },
       "geometry": {
         "type": "Point",
@@ -2669,7 +2672,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "title": "Bratislava"
       },
       "geometry": {
         "type": "Point",
@@ -2684,7 +2688,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "title": "Warzaw"
       },
       "geometry": {
         "type": "Point",
@@ -2699,7 +2704,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "title": "Gdansk"
       },
       "geometry": {
         "type": "Point",
@@ -2744,7 +2750,9 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "title": "Dresden",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
