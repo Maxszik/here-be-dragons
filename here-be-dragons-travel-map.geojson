@@ -2789,6 +2789,42 @@
           52.372376573760796
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008040",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "title": "Yerevan",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51440215110778,
+          40.18471766285408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "location": "Central Asia",
+        "country": "Uzbekistan",
+        "title": "Tashkent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27966713905334,
+          41.31139605689106
+        ]
+      }
     }
   ]
 }
