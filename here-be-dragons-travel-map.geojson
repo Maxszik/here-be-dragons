@@ -1476,7 +1476,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "location": "West"
+        "location": "West",
+        "title": ""
       },
       "geometry": {
         "type": "Point",
@@ -1492,7 +1493,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "location": "West"
+        "location": "West",
+        "title": ""
       },
       "geometry": {
         "type": "Point",
