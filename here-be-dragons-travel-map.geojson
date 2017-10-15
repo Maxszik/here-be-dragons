@@ -2846,7 +2846,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2857,7 +2862,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2868,7 +2878,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2879,7 +2894,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2890,7 +2910,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2901,7 +2926,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2915,7 +2945,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "small",
-        "marker-symbol": "harbor"
+        "marker-symbol": "harbor",
+        "location": "Central Asia"
       },
       "geometry": {
         "type": "Point",
@@ -2927,7 +2958,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2938,7 +2974,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2949,7 +2990,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2960,7 +3006,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2971,7 +3022,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2982,7 +3038,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2993,7 +3054,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3004,7 +3070,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3015,7 +3086,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3026,7 +3102,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3037,7 +3118,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3048,7 +3134,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3059,7 +3150,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3070,7 +3166,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3081,7 +3182,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
