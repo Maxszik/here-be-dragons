@@ -2810,7 +2810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804000",
+        "marker-color": "#808000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "location": "Mongolia",
