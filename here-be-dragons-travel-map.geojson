@@ -3296,18 +3296,69 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#804000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": "circle-stroked",
         "title": "May-Saz",
-        "country": "x",
+        "country": "Kyrgyzstan",
         "location": "Central Asia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.2031,
-          78.9927
+          78.9927,
+          42.2031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia",
+        "title": "Raduga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94459438323975,
+          42.5999141128937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.47901916503906,
+          42.76390203072845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.29136657714844,
+          42.827638636242284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84033966064453,
+          42.768186784785875
         ]
       }
     }
