@@ -2709,7 +2709,7 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "location": "Central Europe"
+        "location": "West"
       },
       "geometry": {
         "type": "Point",
@@ -2725,7 +2725,7 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "location": "Central Europe"
+        "location": "West"
       },
       "geometry": {
         "type": "Point",
@@ -3391,7 +3391,8 @@
         "marker-symbol": "circle-stroked",
         "location": "Central Asia",
         "country": "Kyrgyzstan",
-        "title": "Kochkor"
+        "title": "Kochkor",
+        "moscow-kazanalt": ""
       },
       "geometry": {
         "type": "Point",
@@ -3678,6 +3679,23 @@
         "coordinates": [
           44.94884490966797,
           40.621510014009715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "location": "West",
+        "title": "Gdynia-Karlskrona ferry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77587890625,
+          55.32914440840507
         ]
       }
     }
