@@ -3382,6 +3382,24 @@
           42.7294
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Asia",
+        "country": "Kyrgyzstan",
+        "title": "Kochkor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.75759887695312,
+          42.21682214109948
+        ]
+      }
     }
   ]
 }
