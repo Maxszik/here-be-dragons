@@ -3292,6 +3292,24 @@
           56.83861522077344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "May-Saz",
+        "country": "x",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2031,
+          78.9927
+        ]
+      }
     }
   ]
 }
