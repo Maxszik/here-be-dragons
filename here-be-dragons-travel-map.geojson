@@ -2825,6 +2825,24 @@
           41.31139605689106
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Mongolia",
+        "country": "Mongolia",
+        "title": "Ulaanbaatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91679954528807,
+          47.919160688958485
+        ]
+      }
     }
   ]
 }
