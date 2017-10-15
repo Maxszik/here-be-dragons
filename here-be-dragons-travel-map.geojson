@@ -3440,7 +3440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008080",
+        "marker-color": "#008040",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Baku",
@@ -3452,6 +3452,77 @@
         "coordinates": [
           49.8430609703064,
           40.36773532535434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008040",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Caucasus",
+        "title": "Tbilisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.80979919433594,
+          41.69174180482722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008040",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Haghpat",
+        "locattion": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.71119,
+          41.09363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008040",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia",
+        "location": "Caucasus",
+        "title": "Sanahin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66606,
+          41.08734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008040",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Mikyan's birtplace",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66690182685852,
+          41.090308662057126
         ]
       }
     }
