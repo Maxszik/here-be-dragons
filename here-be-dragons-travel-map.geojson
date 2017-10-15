@@ -2851,8 +2851,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Tajikistan",
+        "title": "Dushanbe"
       },
       "geometry": {
         "type": "Point",
@@ -2869,8 +2869,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Tajikistan",
+        "title": "Khudjand"
       },
       "geometry": {
         "type": "Point",
@@ -2887,8 +2887,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Tajikistan",
+        "title": "Istaravshan"
       },
       "geometry": {
         "type": "Point",
@@ -2905,8 +2905,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Bishkek"
       },
       "geometry": {
         "type": "Point",
@@ -2923,8 +2923,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kazakhstan",
+        "title": "Almaty"
       },
       "geometry": {
         "type": "Point",
@@ -2941,8 +2941,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Karakol"
       },
       "geometry": {
         "type": "Point",
@@ -2959,8 +2959,8 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "location": "Central Asia",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Cholpon-Ata"
       },
       "geometry": {
         "type": "Point",
@@ -2977,8 +2977,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Bokonbaevo"
       },
       "geometry": {
         "type": "Point",
@@ -2995,8 +2995,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Alma-Too"
       },
       "geometry": {
         "type": "Point",
@@ -3013,8 +3013,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Tamga"
       },
       "geometry": {
         "type": "Point",
@@ -3031,8 +3031,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Jeti-Oguz"
       },
       "geometry": {
         "type": "Point",
@@ -3049,8 +3049,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Kyrgyzstan",
+        "title": "Son-Kul"
       },
       "geometry": {
         "type": "Point",
@@ -3067,8 +3067,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Uzbekistan",
+        "title": "Samarkand"
       },
       "geometry": {
         "type": "Point",
@@ -3085,8 +3085,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Uzbekistan",
+        "title": "Bukhara"
       },
       "geometry": {
         "type": "Point",
@@ -3103,8 +3103,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Uzbekistan",
+        "title": "Nukus"
       },
       "geometry": {
         "type": "Point",
@@ -3121,8 +3121,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Uzbekistan",
+        "title": "Muynak"
       },
       "geometry": {
         "type": "Point",
@@ -3139,8 +3139,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Turkmenistan",
+        "title": "Konya-Urgench"
       },
       "geometry": {
         "type": "Point",
@@ -3157,8 +3157,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Turkmenistan",
+        "title": "Dashoguz"
       },
       "geometry": {
         "type": "Point",
@@ -3175,8 +3175,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Uzbekistan",
+        "title": "Khiva"
       },
       "geometry": {
         "type": "Point",
@@ -3193,8 +3193,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Turkmenistan",
+        "title": "Ashgabat"
       },
       "geometry": {
         "type": "Point",
@@ -3211,8 +3211,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Turkmenistan",
+        "title": "Mary"
       },
       "geometry": {
         "type": "Point",
@@ -3229,8 +3229,8 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "marker-symbol": "circle-stroked",
-        "country": "x",
-        "title": "x"
+        "country": "Turkmenistan",
+        "title": "Turkmenabat"
       },
       "geometry": {
         "type": "Point",
