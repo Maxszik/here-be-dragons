@@ -3331,12 +3331,19 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Grigorievka Valley",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.47901916503906,
-          42.76390203072845
+          77.3843,
+          42.8401
         ]
       }
     },
