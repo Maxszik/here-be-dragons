@@ -3436,6 +3436,24 @@
           39.058091943505104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Baku",
+        "country": "Azerbaijan",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8430609703064,
+          40.36773532535434
+        ]
+      }
     }
   ]
 }
