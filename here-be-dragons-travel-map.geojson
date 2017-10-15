@@ -3462,7 +3462,8 @@
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "location": "Caucasus",
-        "title": "Tbilisi"
+        "title": "Tbilisi",
+        "country": "Georgia"
       },
       "geometry": {
         "type": "Point",
@@ -3479,7 +3480,7 @@
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Haghpat",
-        "locattion": "Caucasus",
+        "location": "Caucasus",
         "country": "Armenia"
       },
       "geometry": {
@@ -3529,7 +3530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008040",
+        "marker-color": "#fff",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Sevanavank",
@@ -3546,7 +3547,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3557,7 +3564,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3568,7 +3581,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3579,7 +3598,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3590,7 +3615,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3601,12 +3632,52 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           41.62569522857665,
           41.64925034504577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8626708984375,
+          40.73529128534676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#fff",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.94884490966797,
+          40.621510014009715
         ]
       }
     }
