@@ -2111,7 +2111,7 @@
         "location": "Enisey river",
         "marker-size": "small",
         "marker-color": "#999999",
-        "marker-symbol": "harbor",
+        "marker-symbol": "circle-stroked",
         "country": "Russia"
       },
       "geometry": {
@@ -2480,25 +2480,6 @@
         "coordinates": [
           129.099951,
           72.003894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Novosibirsk",
-        "description": "riverstation",
-        "location": "Ob river",
-        "marker-size": "small",
-        "marker-color": "#999999",
-        "marker-symbol": "harbor",
-        "country": "Russia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.92043,
-          55.030199
         ]
       }
     },
@@ -3237,6 +3218,78 @@
         "coordinates": [
           63.57367515563965,
           39.096096161002315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ulan-Ude",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57926225662231,
+          51.84487232546464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Irkutsk",
+        "location": "Siberia",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2797589302063,
+          52.29271609801493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "Siberia",
+        "title": "Novosibirsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.93750762939453,
+          55.008031226507335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "Siberia",
+        "title": "Yekaterinburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6044590473175,
+          56.83861522077344
         ]
       }
     }
