@@ -1319,10 +1319,11 @@
     {
       "type": "Feature",
       "properties": {
-        "location": "West",
+        "location": "Central Europe",
         "marker-size": "small",
-        "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Feldkirch"
       },
       "geometry": {
         "type": "Point",
@@ -1368,7 +1369,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
-        "marker-color": "#004080",
+        "marker-color": "#10053b",
         "marker-symbol": "circle-stroked",
         "location": "Central Europe",
         "title": "Piran",
