@@ -2299,7 +2299,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Sevanavank",
@@ -2319,9 +2319,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Ananuri"
       },
       "geometry": {
         "type": "Point",
@@ -2336,9 +2337,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Mtskheta"
       },
       "geometry": {
         "type": "Point",
@@ -2353,9 +2355,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Gudauri"
       },
       "geometry": {
         "type": "Point",
@@ -2370,9 +2373,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Stepansminda"
       },
       "geometry": {
         "type": "Point",
@@ -2387,9 +2391,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Gori"
       },
       "geometry": {
         "type": "Point",
@@ -2404,9 +2409,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Georgia"
+        "country": "Georgia",
+        "title": "Batumi"
       },
       "geometry": {
         "type": "Point",
@@ -2421,9 +2427,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Armenia"
+        "country": "Armenia",
+        "title": "Dilijan"
       },
       "geometry": {
         "type": "Point",
@@ -2438,9 +2445,10 @@
       "properties": {
         "location": "Caucasus",
         "marker-size": "small",
-        "marker-color": "#fff",
+        "marker-color": "#008f51",
         "marker-symbol": "circle-stroked",
-        "country": "Armenia"
+        "country": "Armenia",
+        "title": "Lake Sevan eatery"
       },
       "geometry": {
         "type": "Point",
@@ -2464,6 +2472,24 @@
         "coordinates": [
           17.77587890625,
           55.32914440840507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008f51",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sighnagi",
+        "country": "Georgia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.92409610748291,
+          41.61929232960735
         ]
       }
     }
