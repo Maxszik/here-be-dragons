@@ -2877,6 +2877,60 @@
           47.330446391855595
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Freiburg",
+        "location": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846083641052246,
+          47.99480410499141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "country": "France",
+        "title": "Kembs",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.507739067077637,
+          47.68684248248156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "country": "France",
+        "title": "Strasbourg",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74585485458374,
+          48.58337854409589
+        ]
+      }
     }
   ]
 }
