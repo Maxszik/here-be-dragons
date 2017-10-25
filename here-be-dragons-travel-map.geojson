@@ -1290,7 +1290,8 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "country": ""
       },
       "geometry": {
         "type": "Point",
@@ -1306,7 +1307,8 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "country": ""
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1325,8 @@
         "marker-size": "small",
         "marker-color": "#004080",
         "marker-symbol": "circle-stroked",
-        "title": "Feldkirch"
+        "title": "Feldkirch",
+        "country": "Austria"
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2483,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#375719",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "circle-stroked",
         "title": "Sighnagi",
         "country": "Georgia",
@@ -2619,6 +2622,168 @@
         "coordinates": [
           87.71484375,
           59.265880628258095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "location": "Central Europe",
+        "title": "Bucharest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.097614765167236,
+          44.43674459073639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Brasov",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.589089393615723,
+          45.64197793192625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Rasnov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.468926429748535,
+          45.590561566105116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Bran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36995828151703,
+          45.51578633060227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Sibiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.151768684387207,
+          45.796538862863876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Medias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35072422027588,
+          46.164049762952914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Sighisoara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79362666606903,
+          46.21768845065342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Viscri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08819222450256,
+          46.05436682639843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "The Romas of Viscri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.09130895137787,
+          46.04828347762427
         ]
       }
     }
