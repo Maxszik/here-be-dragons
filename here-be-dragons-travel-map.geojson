@@ -1291,7 +1291,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "country": ""
+        "country": "Switzerland",
+        "title": "Chur"
       },
       "geometry": {
         "type": "Point",
@@ -2784,6 +2785,96 @@
         "coordinates": [
           25.09130895137787,
           46.04828347762427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Basel",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591445446014403,
+          47.556618186569025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Lausanne",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.626193523406982,
+          46.50645658475189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Bern",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.455757856369018,
+          46.9486949137639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Lüzern",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.307133913040161,
+          47.05127991405642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "x",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409103393554688,
+          47.330446391855595
         ]
       }
     }
