@@ -2931,6 +2931,42 @@
           48.58337854409589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Speyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45023512840271,
+          49.31718464845774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Koblenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605371475219727,
+          50.363751223238445
+        ]
+      }
     }
   ]
 }
