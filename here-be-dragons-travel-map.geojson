@@ -1253,10 +1253,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#74a7fe",
+        "marker-color": "#006666",
         "marker-size": "small",
         "marker-symbol": "harbor",
-        "location": "Baltic Sea",
+        "location": "Scandinavia",
         "title": "Baltic Ferry",
         "description": ""
       },
@@ -2466,10 +2466,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#74a7fe",
+        "marker-color": "#006666",
         "marker-size": "small",
         "marker-symbol": "harbor",
-        "location": "West",
+        "location": "Scandinavia",
         "title": "Gdynia-Karlskrona ferry"
       },
       "geometry": {
@@ -2504,7 +2504,8 @@
         "marker-color": "#804000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "Central Asia"
+        "title": "Central Asia",
+        "location": "Central Asia"
       },
       "geometry": {
         "type": "Point",
@@ -2520,7 +2521,8 @@
         "marker-color": "#375719",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "Caucasus"
+        "title": "Caucasus",
+        "location": "Caucasus"
       },
       "geometry": {
         "type": "Point",
@@ -2536,7 +2538,8 @@
         "marker-color": "#b22222",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "East"
+        "title": "East",
+        "location": "East"
       },
       "geometry": {
         "type": "Point",
@@ -2552,7 +2555,8 @@
         "marker-color": "#10053b",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "The Balkans"
+        "title": "The Balkans",
+        "location": "The Balkans"
       },
       "geometry": {
         "type": "Point",
@@ -2568,7 +2572,8 @@
         "marker-color": "#b0dd8b",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "The Baltics"
+        "title": "The Baltics",
+        "location": "The Baltics"
       },
       "geometry": {
         "type": "Point",
@@ -2584,7 +2589,8 @@
         "marker-color": "#004080",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "Central Europe"
+        "title": "Central Europe",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -2600,7 +2606,8 @@
         "marker-color": "#74a7fe",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "West"
+        "title": "West",
+        "location": "West"
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2623,8 @@
         "marker-color": "#999999",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "title": "Siberia"
+        "title": "Siberia",
+        "location": "Siberia"
       },
       "geometry": {
         "type": "Point",
@@ -3253,6 +3261,150 @@
         "coordinates": [
           6.963057518005371,
           50.9372966523592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Strömstad",
+        "location": "Scandinavia",
+        "country": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.171690225601196,
+          58.93573365952485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sandefjord",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22875428199768,
+          59.12703158380608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kristansand",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.996029853820801,
+          58.14627294340876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Egersund",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.001346111297607,
+          58.45266448378466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stavanger",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730528831481933,
+          58.970499269258184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lauvvik",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.055043935775757,
+          58.89434057227734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lysebotn",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.652157306671143,
+          59.046570071012106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Vrådal",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.493654727935791,
+          59.32310816370157
         ]
       }
     }
