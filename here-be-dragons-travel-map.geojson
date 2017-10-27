@@ -2971,10 +2971,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Bremen"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bremen",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -2987,10 +2989,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Wilhelmshaven"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Wilhelmshaven",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3003,10 +3007,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Emden"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Emden",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3019,10 +3025,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Jever"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Jever",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3035,10 +3043,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Langeoog"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Langeoog",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3051,10 +3061,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Flensburg"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Flensburg",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3067,10 +3079,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Husum"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Husum",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3083,10 +3097,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Kropp"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kropp",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3099,10 +3115,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Westerland"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Westerland",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3115,10 +3133,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "List"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "List",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3131,10 +3151,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Hörnum"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hörnum",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3147,10 +3169,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Rostock"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Rostock",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3163,10 +3187,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Puttgarden"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Puttgarden",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3179,10 +3205,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Stralsund"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stralsund",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3195,10 +3223,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Neubrandenburg"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Neubrandenburg",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -3211,10 +3241,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Cologne"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Cologne",
+        "location": "West",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
