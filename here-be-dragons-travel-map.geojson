@@ -1482,24 +1482,7 @@
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
         "location": "West",
-        "title": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.959514141082764,
-          53.54598137293013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked",
-        "location": "West",
-        "title": ""
+        "title": "Lûbeck"
       },
       "geometry": {
         "type": "Point",
@@ -3405,6 +3388,24 @@
         "coordinates": [
           8.493654727935791,
           59.32310816370157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": " #74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hamburg",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95361328125,
+          53.54525463575623
         ]
       }
     }
