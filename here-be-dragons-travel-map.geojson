@@ -2967,6 +2967,262 @@
           50.363751223238445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809361457824705,
+          53.07626429626342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Wilhelmshaven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.141244649887085,
+          53.512468368013984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Emden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.206113934516907,
+          53.36527530212792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Jever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.90440559387207,
+          53.57369007089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Langeoog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.481517791748047,
+          53.74897091071104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Flensburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.434326887130736,
+          54.78960100515044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Husum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049547910690308,
+          54.47587923481497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Kropp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.509375095367432,
+          54.411094732634716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Westerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.309386968612671,
+          54.907575632189975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "List"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.438937664031982,
+          55.01681614216379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Hörnum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.293642401695251,
+          54.757553910945234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Rostock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132360935211182,
+          54.09140336138744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Puttgarden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.225988864898682,
+          54.50432728824159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Stralsund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09768795967102,
+          54.316103938379065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Neubrandenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262343406677246,
+          53.557161352708725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Cologne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.963057518005371,
+          50.9372966523592
+        ]
+      }
     }
   ]
 }
