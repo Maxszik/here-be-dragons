@@ -1258,7 +1258,8 @@
         "marker-symbol": "harbor",
         "location": "Scandinavia",
         "title": "Baltic Ferry",
-        "description": ""
+        "description": "",
+        "country": ""
       },
       "geometry": {
         "type": "Point",
@@ -3406,6 +3407,186 @@
         "coordinates": [
           9.95361328125,
           53.54525463575623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Pechory",
+        "country": "Russia",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6141357421875,
+          57.817332325351025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "title": "Pskov",
+        "marker-color": "#b22222",
+        "location": "East",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.329877853393555,
+          57.82048653374497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Narva",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19514513015747,
+          59.37579102381507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Narva",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74518060684204,
+          59.43734022280603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Haapsalu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.528906106948853,
+          58.95569649118698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Riga",
+        "location": "The Baltics",
+        "country": "Latvia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.113681316375732,
+          56.94960866230919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Vilnius",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.287179946899414,
+          54.6786944055201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Pärnu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.505949020385742,
+          58.385878008137354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tartu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.735047101974487,
+          58.37929730139323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hill of Crosses",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.417417407035828,
+          56.01544045047749
         ]
       }
     }
