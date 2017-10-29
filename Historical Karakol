@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of merchant Sulaimanova",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3909327,
+          42.4896786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The former house of the merchant Abramov. In 1902 the first public library.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4028631,
+          42.4897537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The women's gymnasium, opened in 1911.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3963239,
+          42.4869807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The former house of merchant I.Babkin. From 1918 to 1959 the building was occupied by the Party",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3950365,
+          42.4880567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The building of the pedagogical school, on Gagarin street. A local architectural monument.\n",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3941138,
+          42.4896548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Urmeev.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3956104,
+          42.4875504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of merchant Ivanov - now the guest house “Yak-tur\".",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3931911,
+          42.4886659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "House 2.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3939636,
+          42.4872853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the notary Piankov I. Now a kindergarten.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3954495,
+          42.4861975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Korovin B.A. - Now children's school of Olympic reserve.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3930784,
+          42.4876335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of Breusov Z.G.- now the pharmacy.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3946341,
+          42.4880211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Ibrahimov V. - now a optics shop.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.390069,
+          42.4882229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Abduvaliev H. Khamza Abduvaliyev - Chingiz Aitmatov's grandfather on the mother line.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3915067,
+          42.4903748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of merchant Osipov I.A. Now the music school.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3972788,
+          42.4862608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of merchant Karimov N.G.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3897042,
+          42.4892988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Ibrahimov I.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3896613,
+          42.4884602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Ibrahimov Sh. Now a kindergarten.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3871722,
+          42.4927956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the merchant Karimov. Now forensic medical examination.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3915228,
+          42.4888439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the honorary teacher Kiseleva M.S. Now the International Red Crescent Movement.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.393867,
+          42.4870678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of the writer Kolkova - now an anti-plague station.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3993065,
+          42.4828823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Shop of the merchant Stvolova.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3926225,
+          42.4896232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The monument of Julius Fucik",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3959055,
+          42.4791951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dungan MosqueThe mosque was built in early 1900s and is a unique architectural sight. This wooden one-floor mosque is a unique piece of art constructed by thirty craftsmen of architect Chow Sze. There was not a single nail used to build Dungan Mosque.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.390922,
+          42.4972652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Church of the Holy Trinity.",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3947039,
+          42.4892355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Przhevalsk Hippodrome",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4004974,
+          42.46795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Bank",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3913833,
+          42.48902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Children's youth organization",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3932769,
+          42.4891327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The house of merchant Ilyin D.M. - now the Museum of Local History",
+        "marker-color": "#b51a00",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3915496,
+          42.48937
+        ]
+      }
+    }
+  ]
+}
