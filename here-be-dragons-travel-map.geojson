@@ -3589,6 +3589,293 @@
           56.01544045047749
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stettin",
+        "country": "Poland",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.562077522277832,
+          53.42377834195493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Krakow",
+        "country": "Poland",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.940743446350098,
+          50.06169852334754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Prague",
+        "country": "Czechia",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419319629669188,
+          50.087753776548794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Vienna",
+        "country": "Austria",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.407265663146973,
+          48.22492996513955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lvov",
+        "country": "Ukraine",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02682065963745,
+          49.843026560732795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Poltava",
+        "country": "Ukraine",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.552109241485596,
+          49.58755413119622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zmievka - Gammalsvenskby",
+        "country": "Ukraine",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58293056488037,
+          46.86529674959398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Pula",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.841485977172852,
+          44.871153818885595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Rovinj",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.632059097290039,
+          45.083092954932745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Porec",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.595935106277466,
+          45.227966777376146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Opatija",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.301629662513733,
+          45.329235115051816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lake Bled",
+        "country": "Slovenia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.093554615974426,
+          46.35973480189232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ljubljana",
+        "country": "Slovenia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.509527683258058,
+          46.05113536347768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Dubrovnik",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.111664652824402,
+          42.64140941909794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Split",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43902838230133,
+          43.50737094090731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "The Corinth Canal",
+        "country": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.003482818603516,
+          37.920300127029186
+        ]
+      }
     }
   ]
 }
