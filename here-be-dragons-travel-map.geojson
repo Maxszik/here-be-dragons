@@ -2468,7 +2468,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#375719",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Sighnagi",
         "country": "Georgia",
