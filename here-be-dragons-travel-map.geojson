@@ -968,7 +968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Polar circle-stroked",
+        "title": "Polar circle",
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
