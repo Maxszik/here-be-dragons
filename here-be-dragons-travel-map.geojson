@@ -28,7 +28,8 @@
         "marker-color": "#b22222",
         "marker-symbol": "harbor",
         "country": "Russia",
-        "title": "Sevastopol"
+        "title": "Sevastopol",
+        "description": ""
       },
       "geometry": {
         "type": "Point",
@@ -2523,8 +2524,7 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "title": "East",
-        "location": "East",
-        "marker-opacity": 0.1
+        "location": "East"
       },
       "geometry": {
         "type": "Point",
