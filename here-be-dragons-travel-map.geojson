@@ -3931,6 +3931,42 @@
           42.15323126625016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Chisinau",
+        "location": "East",
+        "country": "Moldavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85437846183777,
+          47.01424911057734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tiraspol",
+        "location": "East",
+        "country": "Transnistria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6120810508728,
+          46.83627710312707
+        ]
+      }
     }
   ]
 }
