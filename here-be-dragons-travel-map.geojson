@@ -2037,11 +2037,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#b22222",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "country": "Russia",
-        "location": "Siberia",
+        "location": "East",
         "title": "Yekaterinburg"
       },
       "geometry": {
@@ -4038,6 +4038,78 @@
         "coordinates": [
           29.087870121002197,
           36.57866133286715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Velikiye Novgorod",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.276187896728512,
+          58.52129089471434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Staraya Russa",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.353456974029537,
+          57.98951723225566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Velikiye Luki",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.517938137054443,
+          56.344266752974875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b22222",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Arkhangelsk",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.56336879730224,
+          64.55181496363863
         ]
       }
     }
