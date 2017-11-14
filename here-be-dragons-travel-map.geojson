@@ -2523,7 +2523,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "title": "East",
-        "location": "East"
+        "location": "East",
+        "marker-opacity": 0.1
       },
       "geometry": {
         "type": "Point",
