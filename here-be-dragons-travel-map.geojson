@@ -44,7 +44,7 @@
       "properties": {
         "location": "Black Sea",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#3333cc",
         "marker-symbol": "harbor",
         "country": "Turkey",
         "title": "Istanbul"
@@ -3864,7 +3864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#3333cc",
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "The Corinth Canal",
@@ -3972,7 +3972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#3333cc",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Dalaman",
@@ -3990,9 +3990,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#3333cc",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Göcek",
         "location": "Mediterraneo",
         "country": "Turkey"
@@ -4008,9 +4008,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#3333cc",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Fethiye",
         "location": "Mediterraneo",
         "country": "Turkey"
@@ -4026,7 +4026,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#3333cc",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Kayaköy",
