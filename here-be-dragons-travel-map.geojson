@@ -3867,13 +3867,68 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "The Corinth Canal",
-        "country": "Greece"
+        "country": "Greece",
+        "location": "Mediterraneo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           23.003482818603516,
           37.920300127029186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sofia",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32170009613037,
+          42.69702465043094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ruse",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95341920852661,
+          43.848641360290195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Plovdiv",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7482168674469,
+          42.15323126625016
         ]
       }
     }
