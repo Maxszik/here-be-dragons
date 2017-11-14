@@ -1517,7 +1517,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Amsterdam",
         "location": "West",
         "country": "The Netherlands"
@@ -2785,7 +2785,7 @@
       "type": "Feature",
       "properties": {
         "country": "Switzerland",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "marker-size": "small",
         "location": "West",
         "title": "Basel",
@@ -2892,7 +2892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "country": "France",
         "title": "Kembs",
         "location": "West",
@@ -2910,7 +2910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "country": "France",
         "title": "Strasbourg",
         "location": "West",
@@ -2931,7 +2931,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "country": "Germany",
         "title": "Speyer"
       },
@@ -2949,7 +2949,7 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "country": "Germany",
         "title": "Koblenz"
       },
@@ -3182,7 +3182,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Puttgarden",
         "location": "West",
         "country": "Germany"
@@ -3236,7 +3236,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Cologne",
         "location": "West",
         "country": "Germany"
@@ -3254,7 +3254,7 @@
       "properties": {
         "marker-color": "#006666",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Strömstad",
         "location": "Scandinavia",
         "country": "Sweden"
@@ -3272,7 +3272,7 @@
       "properties": {
         "marker-color": "#006666",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Sandefjord",
         "location": "Scandinavia",
         "country": "Norway"
@@ -4128,6 +4128,78 @@
         "coordinates": [
           24.953534603118893,
           60.165041439763215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rudesheim",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.926292419433593,
+          49.97781810035125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Assmanshausen",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.867417931556702,
+          49.98814560949752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lublin",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.569254636764526,
+          51.24874070550547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hildesheim",
+        "country": "Germany",
+        "location": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.953066110610962,
+          52.1526612269682
         ]
       }
     }
