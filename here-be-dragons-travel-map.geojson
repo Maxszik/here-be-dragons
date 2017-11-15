@@ -4202,6 +4202,24 @@
           52.1526612269682
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Kotor",
+        "location": "The Balkans",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.768446445465088,
+          42.42495334300206
+        ]
+      }
     }
   ]
 }
