@@ -1376,7 +1376,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "location": "Central Europe",
         "title": "Piran",
         "country": "Slovenia"
@@ -2201,7 +2201,7 @@
       "properties": {
         "marker-color": "#375719",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Baku",
         "country": "Azerbaijan",
         "location": "Caucasus"
@@ -2400,7 +2400,7 @@
         "location": "Caucasus",
         "marker-size": "small",
         "marker-color": "#375719",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "country": "Georgia",
         "title": "Batumi"
       },
@@ -2984,7 +2984,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Wilhelmshaven",
         "location": "West",
         "country": "Germany"
@@ -3038,7 +3038,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Langeoog",
         "location": "West",
         "country": "Germany"
@@ -3056,7 +3056,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Flensburg",
         "location": "West",
         "country": "Germany"
@@ -3074,7 +3074,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Husum",
         "location": "West",
         "country": "Germany"
@@ -3164,7 +3164,7 @@
       "properties": {
         "marker-color": "#74a7fe",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Rostock",
         "location": "West",
         "country": "Germany"
@@ -3470,7 +3470,7 @@
       "properties": {
         "marker-color": "#b0dd8b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Narva",
         "location": "The Baltics",
         "country": "Estonia"
@@ -3506,7 +3506,7 @@
       "properties": {
         "marker-color": "#b0dd8b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Riga",
         "location": "The Baltics",
         "country": "Latvia"
@@ -3722,7 +3722,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Pula",
         "country": "Croatia",
         "location": "The Balkans"
@@ -3740,7 +3740,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Rovinj",
         "country": "Croatia",
         "location": "The Balkans"
@@ -3758,7 +3758,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Porec",
         "country": "Croatia",
         "location": "The Balkans"
@@ -3776,7 +3776,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Opatija",
         "country": "Croatia",
         "location": "The Balkans"
@@ -3830,7 +3830,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Dubrovnik",
         "country": "Croatia",
         "location": "The Balkans"
@@ -3848,7 +3848,7 @@
       "properties": {
         "marker-color": "#10053b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Split",
         "country": "Croatia",
         "location": "The Balkans"
@@ -4100,7 +4100,7 @@
       "properties": {
         "marker-color": "#b22222",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Arkhangelsk",
         "location": "East",
         "country": "Russia"
@@ -4118,7 +4118,7 @@
       "properties": {
         "marker-color": "#b0dd8b",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Helsinki",
         "location": "The Baltics",
         "country": "Finland"
