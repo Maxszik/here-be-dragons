@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Ladd Army Airfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.875,
+          78.9039293885709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Galena Airport",
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.703125,
+          77.76758238272801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marks Army Airfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.84375,
+          78.63000556774836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gambell Army Airfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.171875,
+          78.63000556774836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uelkal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.078125,
+          77.91566898632584
+        ]
+      }
+    }
+  ]
+}
