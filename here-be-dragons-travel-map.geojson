@@ -4256,6 +4256,116 @@
           38.70741489866617
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Veliko Tarnovo",
+        "country": "Bulgaria",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.632841587066647,
+          43.082351585470704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "Title": "Linz",
+        "title": "Linz",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.286539554595947,
+          48.305406177863944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Schlögen",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.870523571968077,
+          48.424775863636306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "Title": "Melk",
+        "title": "Melk",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.334489345550535,
+          48.22839645163034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Krems and der Donau",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.613374710083008,
+          48.412083439755385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kirchberg in Tirol",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314134240150452,
+          47.44761550506372
+        ]
+      }
     }
   ]
 }
