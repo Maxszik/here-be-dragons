@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 1,
         "title": "Ladd Army Airfield",
         "unit": "1st regiment"
       },
@@ -23,7 +23,9 @@
       "properties": {
         "title": "Galena Airport",
         "marker-size": "small",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "marker-symbol": 1,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +40,9 @@
       "properties": {
         "title": "Marks Army Airfield",
         "unit": "1st regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-symbol": 1,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +57,9 @@
       "properties": {
         "title": "Gambell Army Airfield",
         "unit": "1st regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-symbol": 1,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -66,9 +72,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 1,
         "title": "Uelkal",
         "unit": "1st regiment"
       },
@@ -83,9 +89,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 2,
         "title": "Anadyr",
         "unit": "2nd regiment"
       },
@@ -100,9 +106,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 2,
         "title": "Markovo",
         "unit": "2nd regiment"
       },
@@ -117,9 +123,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 2,
         "title": "Seymchan",
         "unit": "2nd regiment"
       },
@@ -136,7 +142,9 @@
       "properties": {
         "title": "Zyryanka",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-symbol": 3,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +159,9 @@
       "properties": {
         "title": "Susuman",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-symbol": 3,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +177,8 @@
         "title": "Oymyakon",
         "marker-size": "small",
         "unit": "3rd regiment",
-        "marker-color": ""
+        "marker-color": "#821000",
+        "marker-symbol": 3
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +193,9 @@
       "properties": {
         "title": "Khandyga",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-symbol": 3,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -197,7 +210,9 @@
       "properties": {
         "title": "Ust-Maya",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-symbol": 3,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +227,9 @@
       "properties": {
         "title": "Yakutsk",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-symbol": 3,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -225,9 +242,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#821000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": 4,
         "title": "Aldan",
         "unit": "4th regiment"
       },
@@ -244,7 +261,9 @@
       "properties": {
         "title": "Olyokminsk",
         "unit": "4th regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-color": "#821000",
+        "marker-symbol": 4
       },
       "geometry": {
         "type": "Point",
@@ -259,7 +278,9 @@
       "properties": {
         "title": "Bodaybo",
         "unit": "4th regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-symbol": 4,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -274,7 +295,9 @@
       "properties": {
         "title": "Vitim",
         "unit": "4th regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-symbol": 4,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
@@ -289,13 +312,49 @@
       "properties": {
         "title": "Kirensk",
         "unit": "4th regiment",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-symbol": 4,
+        "marker-color": "#821000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           108.06,
           57.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ust-Kut",
+        "unit": "5th regiment",
+        "marker-size": "small",
+        "marker-symbol": 5,
+        "marker-color": "#821000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.73,
+          56.856667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#821000",
+        "marker-symbol": 5,
+        "title": "Krasnoyarsk",
+        "unit": "5th regiment",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.906667,
+          56.041667
         ]
       }
     }
