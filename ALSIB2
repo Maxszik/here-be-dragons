@@ -790,12 +790,13 @@
       "properties": {
         "stroke": "#821000",
         "stroke-width": 3,
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.6,
         "arc": 1,
         "start": "undefined,undefined",
         "end": "undefined,undefined",
         "unit": "5th regiment",
-        "title": ""
+        "title": "",
+        "marker-color": ""
       }
     },
     {
@@ -1213,7 +1214,8 @@
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "5th regiment",
-        "title": ""
+        "title": "",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -1630,7 +1632,8 @@
         "marker-color": "",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "4th regiment"
+        "unit": "4th regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -2046,7 +2049,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "4th regiment"
+        "unit": "4th regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -2462,7 +2466,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "4th regiment"
+        "unit": "4th regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -2878,7 +2883,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "4th regiment"
+        "unit": "4th regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -3294,7 +3300,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -3710,7 +3717,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -4126,7 +4134,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -4542,7 +4551,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -4958,7 +4968,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -5374,7 +5385,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -5787,7 +5799,7 @@
       "properties": {
         "stroke": "#821000",
         "stroke-color": "#ff6a00",
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.6,
         "arc": 2,
         "start": "undefined,undefined",
         "end": "undefined,undefined",
@@ -6208,7 +6220,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "2nd regiment"
+        "unit": "2nd regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -6624,7 +6637,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -7040,7 +7054,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -7456,7 +7471,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -7872,7 +7888,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "stroke-opacity": 0.6
       }
     },
     {
@@ -8288,7 +8305,8 @@
         "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "stroke-opacity": 0.6
       }
     }
   ]
