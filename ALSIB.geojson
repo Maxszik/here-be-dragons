@@ -166,7 +166,8 @@
       "properties": {
         "title": "Oymyakon",
         "marker-size": "small",
-        "unit": "3rd regiment"
+        "unit": "3rd regiment",
+        "marker-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -218,6 +219,83 @@
         "coordinates": [
           129.771667,
           62.093333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "Aldan",
+        "unit": "4th regiment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35,
+          58.666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olyokminsk",
+        "unit": "4th regiment",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.433333,
+          60.366667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bodaybo",
+        "unit": "4th regiment",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2425,
+          57.866389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vitim",
+        "unit": "4th regiment",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.562778,
+          59.457778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kirensk",
+        "unit": "4th regiment",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.06,
+          57.77
         ]
       }
     }
