@@ -37,7 +37,8 @@
       "type": "Feature",
       "properties": {
         "title": "Marks Army Airfield",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +52,8 @@
       "type": "Feature",
       "properties": {
         "title": "Gambell Army Airfield",
-        "unit": "1st regiment"
+        "unit": "1st regiment",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Point",
@@ -75,6 +77,57 @@
         "coordinates": [
           -179.283333,
           65.533333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "Anadyr",
+        "unit": "2nd regiment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.516667,
+          64.733333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "Markovo",
+        "unit": "2nd regiment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.416667,
+          64.666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "Seymchan",
+        "unit": "2nd regiment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42,
+          62.916667
         ]
       }
     }
