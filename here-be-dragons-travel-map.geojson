@@ -838,7 +838,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Budapest",
         "description": "",
         "country": "Hungary",
@@ -1430,7 +1430,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#004080",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Bratislava",
         "location": "Central Europe",
         "country": "Slovakia"
@@ -2803,7 +2803,7 @@
       "type": "Feature",
       "properties": {
         "country": "Switzerland",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "marker-size": "small",
         "location": "West",
         "title": "Lausanne",
@@ -2839,7 +2839,7 @@
       "type": "Feature",
       "properties": {
         "country": "Switzerland",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "marker-size": "small",
         "location": "West",
         "title": "Lüzern",
@@ -3650,7 +3650,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Vienna",
         "country": "Austria",
         "location": "Central Europe"
@@ -4280,7 +4280,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Linz",
         "location": "Central Europe",
         "country": "Austria"
@@ -4298,7 +4298,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "harbor",
         "title": "Schlögen",
         "location": "Central Europe",
         "country": "Austria"
@@ -4316,8 +4316,7 @@
       "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked",
-        "Title": "Melk",
+        "marker-symbol": "harbor",
         "title": "Melk",
         "location": "Central Europe",
         "country": "Austria"
