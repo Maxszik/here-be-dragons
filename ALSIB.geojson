@@ -60,7 +60,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Uelkal"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Uelkal",
+        "unit": "1st regiment"
       },
       "geometry": {
         "type": "Point",
