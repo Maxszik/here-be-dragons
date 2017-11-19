@@ -7,7 +7,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "title": "Ladd Army Airfield"
+        "title": "Ladd Army Airfield",
+        "unit": "1st regiment"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "type": "Feature",
       "properties": {
         "title": "Galena Airport",
-        "marker-size": ""
+        "marker-size": "",
+        "unit": "1st regiment"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +36,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marks Army Airfield"
+        "title": "Marks Army Airfield",
+        "unit": "1st regiment"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gambell Army Airfield"
+        "title": "Gambell Army Airfield",
+        "unit": "1st regiment"
       },
       "geometry": {
         "type": "Point",
