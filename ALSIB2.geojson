@@ -63,7 +63,6 @@
         "marker-size": "small",
         "marker-symbol": "airfield",
         "marker-color": "#821000",
-        "arc": "",
         "stroke": "#821000"
       },
       "geometry": {
@@ -386,9 +385,6 @@
         "stroke": "#821000",
         "stroke-width": 3,
         "stroke-opacity": 0.6,
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "unit": "5th regiment",
         "title": "",
         "marker-color": ""
@@ -802,9 +798,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 2,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "marker-color": "",
         "stroke-width": 3,
         "stroke": "#821000",
@@ -1221,9 +1214,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "marker-color": "",
         "stroke-width": 3,
         "stroke": "#821000",
@@ -1639,13 +1629,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "4th regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2056,13 +2044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 2,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "4th regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2473,13 +2459,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 3,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "4th regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2890,13 +2874,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 4,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3307,13 +3289,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3724,13 +3704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 2,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4141,13 +4119,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 3,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4558,13 +4534,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4975,13 +4949,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "3rd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5393,13 +5365,10 @@
       "type": "Feature",
       "properties": {
         "stroke": "#821000",
-        "stroke-color": "#ff6a00",
         "stroke-opacity": 0.6,
-        "arc": 2,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
-        "unit": "2nd regiment"
+        "unit": "2nd regiment",
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5810,13 +5779,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 3,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "2nd regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6227,13 +6194,11 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "1st regiment",
-        "stroke-opacity": 0.6
+        "stroke-opacity": 0.6,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6644,9 +6609,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 2,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "1st regiment",
@@ -7061,9 +7023,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 3,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "1st regiment",
@@ -7478,9 +7437,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 4,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "1st regiment",
@@ -7895,9 +7851,6 @@
     {
       "type": "Feature",
       "properties": {
-        "arc": 1,
-        "start": "undefined,undefined",
-        "end": "undefined,undefined",
         "stroke-width": 3,
         "stroke": "#821000",
         "unit": "1st regiment",
