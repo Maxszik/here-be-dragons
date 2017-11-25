@@ -4364,6 +4364,24 @@
           47.44761550506372
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Dürnstein",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.51967978477478,
+          48.3931510669101
+        ]
+      }
     }
   ]
 }
