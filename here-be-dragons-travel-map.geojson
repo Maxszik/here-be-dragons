@@ -1276,7 +1276,9 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "title": "Tirano",
+        "country": "Italy"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1313,8 @@
         "marker-size": "small",
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "country": ""
+        "country": "Liechtenstein",
+        "title": "Vaduz"
       },
       "geometry": {
         "type": "Point",
@@ -1345,7 +1348,9 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "title": "Lindau",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -1361,7 +1366,9 @@
         "location": "West",
         "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "title": "Mainau",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -1450,7 +1457,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle-stroked",
         "title": "Warzaw",
-        "location": "Central Europe"
+        "location": "Central Europe",
+        "country": "Poland"
       },
       "geometry": {
         "type": "Point",
@@ -1467,7 +1475,8 @@
         "marker-color": "#004080",
         "marker-symbol": "circle-stroked",
         "title": "Gdansk",
-        "location": "Central Europe"
+        "location": "Central Europe",
+        "country": "Poland"
       },
       "geometry": {
         "type": "Point",
@@ -1484,7 +1493,8 @@
         "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
         "location": "West",
-        "title": "Lûbeck"
+        "title": "Lübeck",
+        "country": "Germany"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2870,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "location": "West",
-        "title": "x",
+        "title": "Appenzell",
         "marker-color": "#74a7fe"
       },
       "geometry": {
@@ -4380,6 +4390,186 @@
         "coordinates": [
           15.51967978477478,
           48.3931510669101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Wrocław",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0308256149292,
+          51.11015047774303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Wieliczka",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.055123567581177,
+          49.983044221260094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Torun",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.603758811950684,
+          53.01036809843098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kętrzyn",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.493608355522156,
+          54.07986150062328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Brig",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.988090515136719,
+          46.316621232403044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zermatt",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747979164123534,
+          46.02367519394668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gornergrat",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783840298652649,
+          45.983394976783835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Laax",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.257569313049316,
+          46.806316499418024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "St. Moritz",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.839286804199219,
+          46.494330102900896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Davos",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.819062948226929,
+          46.7916347770813
         ]
       }
     }
