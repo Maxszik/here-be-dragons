@@ -4860,6 +4860,24 @@
           23.150619867578374
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "New York",
+        "location": "North America",
+        "country": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95593762397766,
+          40.719444831389104
+        ]
+      }
     }
   ]
 }
