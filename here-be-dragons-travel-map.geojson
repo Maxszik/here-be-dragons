@@ -4734,6 +4734,132 @@
           41.9
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Havana",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37205505371092,
+          23.13152007723789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Cienfuegos",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45116424560547,
+          22.143527814513806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Trinidad",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98445987701416,
+          21.804969980879065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Camagüey",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91687369346619,
+          21.37996634865908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Santiago de Cuba ",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83046913146973,
+          20.021843021668037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sancti Spiritus ",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44190263748169,
+          21.934944705401335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Varadero",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25556945800781,
+          23.150619867578374
+        ]
+      }
     }
   ]
 }
