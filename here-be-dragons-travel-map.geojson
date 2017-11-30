@@ -4588,6 +4588,38 @@
           41.96673
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Jvari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.733208,
+          41.838053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Amberd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2264,
+          40.3886
+        ]
+      }
     }
   ]
 }
