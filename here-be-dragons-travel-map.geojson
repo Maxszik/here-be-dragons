@@ -4878,6 +4878,132 @@
           40.719444831389104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "David Gareja",
+        "location": "Caucasus",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3765,
+          41.4473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gremi",
+        "location": "Caucasus",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.660031,
+          42.002047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Shaki",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.170556,
+          41.191944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Shamakhi",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.641389,
+          40.630278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Noravank",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.232872,
+          39.684061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Areni",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.183889,
+          39.720833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gobustan",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3889,
+          40.1056
+        ]
+      }
     }
   ]
 }
