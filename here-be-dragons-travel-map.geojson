@@ -2496,142 +2496,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "Central Asia",
-        "location": "Central Asia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          67.1484375,
-          47.517200697839414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#375719",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "Caucasus",
-        "location": "Caucasus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.4609375,
-          40.212440718286466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#b22222",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "East",
-        "location": "East"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.515625,
-          61.10078883158897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#10053b",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "The Balkans",
-        "location": "The Balkans"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0390625,
-          42.16340342422401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#b0dd8b",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "The Baltics",
-        "location": "The Baltics"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.71875,
-          56.26776108757582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#004080",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "Central Europe",
-        "location": "Central Europe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.951171875,
-          48.8936153614802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#74a7fe",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "West",
-        "location": "West"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1533203125,
-          46.40756396630067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#999999",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "Siberia",
-        "location": "Siberia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.71484375,
-          59.265880628258095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#004080",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
@@ -5002,6 +4866,24 @@
         "coordinates": [
           49.3889,
           40.1056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "The Burana tower",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.250456,
+          42.746406
         ]
       }
     }
