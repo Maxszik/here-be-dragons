@@ -4886,6 +4886,24 @@
           42.746406
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc6633",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "The Gobi desert",
+        "location": "Mongolia",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25976562499999,
+          45.82114340079471
+        ]
+      }
     }
   ]
 }
