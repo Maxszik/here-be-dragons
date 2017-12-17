@@ -4922,6 +4922,24 @@
           49.37716901748125
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Trakai",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93344485759735,
+          54.65216793954194
+        ]
+      }
     }
   ]
 }
