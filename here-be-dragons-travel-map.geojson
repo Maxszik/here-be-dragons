@@ -4940,6 +4940,42 @@
           54.65216793954194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "location": "Central Asia",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Gijduvon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.68080520629883,
+          40.10065983986402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#804000",
+        "country": "Tajikistan",
+        "title": "The Anzob tunnel",
+        "marker-size": "small",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.69304656982422,
+          39.08530414503412
+        ]
+      }
     }
   ]
 }
