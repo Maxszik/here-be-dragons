@@ -12,11 +12,13 @@
         ]
       },
       "properties": {
-        "name": "Jaroslavl",
+        "name": "Yaroslavl",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -34,7 +36,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -52,7 +56,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -70,7 +76,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -87,8 +95,10 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "name": "Jekaterinburg",
-        "stroke": "#990000"
+        "name": "Yekaterinburg",
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -106,7 +116,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -124,7 +136,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -138,11 +152,13 @@
         ]
       },
       "properties": {
-        "name": "Novosibirsk oblast",
+        "name": "Novosibirsk",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -160,7 +176,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -178,7 +196,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -196,7 +216,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -214,7 +236,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -228,11 +252,13 @@
         ]
       },
       "properties": {
-        "name": "Tjita",
+        "name": "Chita",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -246,11 +272,13 @@
         ]
       },
       "properties": {
-        "name": "Chabarovsk kraj",
+        "name": "Khabarovsk",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -677,7 +705,9 @@
         "name": "Trans-Siberian southern route",
         "marker-color": "#990000",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -822,7 +852,9 @@
         "name": "Trans-Siberian",
         "marker-color": "#990000",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -840,7 +872,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -858,7 +892,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -903,7 +939,9 @@
         "name": "Trans-Mongolian",
         "marker-color": "#990000",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -921,7 +959,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -991,7 +1031,9 @@
         "name": "Trans-Manchurian",
         "marker-color": "#990000",
         "marker-size": "small",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -1005,11 +1047,13 @@
         ]
       },
       "properties": {
-        "name": "Nishny Novgorod",
+        "name": "Nizhny Novgorod",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -1027,7 +1071,9 @@
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "name": "Kazan",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -1041,11 +1087,13 @@
         ]
       },
       "properties": {
-        "name": "Bajkalsjön",
+        "name": "Lake Baikal",
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -1063,7 +1111,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     },
     {
@@ -1081,7 +1131,9 @@
         "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "stroke": "#990000"
+        "stroke": "#990000",
+        "stroke-opacity": 0.6,
+        "stroke-width": 2
       }
     }
   ]
