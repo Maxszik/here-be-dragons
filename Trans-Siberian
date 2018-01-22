@@ -6,24 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.617188,
-          55.652798,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Moskva",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "<img src=\"https://lh6.googleusercontent.com/proxy/BkznoA_7K7rCi_e2FBxTritEmWa7fS-j6cGPpPX2NL1DyQPJdJNKBkmHqv2SjXtBN2ogCAbj52sZM4y0wC-5x7-A05WLV0kmJuOphhDT6gxHFlVwRIsBltuaGfD8Y61NIa_zMP0GRRSk\" height=\"200\" width=\"auto\" /><br><br>Ryssland",
-        "gx_media_links": "https://lh6.googleusercontent.com/proxy/BkznoA_7K7rCi_e2FBxTritEmWa7fS-j6cGPpPX2NL1DyQPJdJNKBkmHqv2SjXtBN2ogCAbj52sZM4y0wC-5x7-A05WLV0kmJuOphhDT6gxHFlVwRIsBltuaGfD8Y61NIa_zMP0GRRSk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           39.9682177,
           57.5923197,
           0
@@ -203,59 +185,6 @@
         "styleUrl": "#icon-959-F8971B-labelson",
         "styleHash": "-14bef68e",
         "description": "Burjatien, Ryssland"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.938551,
-          60.169845,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Helsingfors",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "<img src=\"https://lh6.googleusercontent.com/proxy/z3FVepkepWkbQiiDQek9mYv0AtXWec2Fkaf4UjMqcZQc4mdlbKhAmECfffq_1vOzeKxHOwALfcKtdrlJfjgcMVrgE-BGhsviGWUMZlkE6AiE6NnXjiYlKtRACBqEpmFLNE2lcXZrnCGQ\" height=\"200\" width=\"auto\" /><br><br>Finland",
-        "gx_media_links": "https://lh6.googleusercontent.com/proxy/z3FVepkepWkbQiiDQek9mYv0AtXWec2Fkaf4UjMqcZQc4mdlbKhAmECfffq_1vOzeKxHOwALfcKtdrlJfjgcMVrgE-BGhsviGWUMZlkE6AiE6NnXjiYlKtRACBqEpmFLNE2lcXZrnCGQ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.121383,
-          60.076238,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Sankt Petersburg",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Ryssland"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.06491,
-          59.32893,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Stockholm",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "<img src=\"https://lh3.googleusercontent.com/proxy/57fcC4yuzU_gbkSfaLhJaHZg5KLHvbK2kaYLrsmhPXuavhZKnFY9GV4iIbY9csoapIPKDqoNRzzGLVUBHovZU3NyWXBbzn4jAk8DiIC9Qx3qLn5E_deGKOwDD_K6DOgqtM0caow8A-1t\" height=\"200\" width=\"auto\" /><br><br>",
-        "gx_media_links": "https://lh3.googleusercontent.com/proxy/57fcC4yuzU_gbkSfaLhJaHZg5KLHvbK2kaYLrsmhPXuavhZKnFY9GV4iIbY9csoapIPKDqoNRzzGLVUBHovZU3NyWXBbzn4jAk8DiIC9Qx3qLn5E_deGKOwDD_K6DOgqtM0caow8A-1t"
       }
     },
     {
@@ -1090,70 +1019,6 @@
         "name": "Listvyanka",
         "styleUrl": "#icon-503-F8971B-labelson-nodesc",
         "styleHash": "-5589c683"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          85.0309755,
-          63.5861316,
-          0
-        ]
-      },
-      "properties": {
-        "name": "RYSSLAND",
-        "styleUrl": "#icon-960-000000-labelson-nodesc",
-        "styleHash": "-1f74751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.5375316,
-          48.1127784,
-          0
-        ]
-      },
-      "properties": {
-        "name": "MONGOLIET",
-        "styleUrl": "#icon-960-000000-labelson-nodesc",
-        "styleHash": "-1f74751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.8381321,
-          38.7318292,
-          0
-        ]
-      },
-      "properties": {
-        "name": "KINA",
-        "styleUrl": "#icon-960-000000-labelson-nodesc",
-        "styleHash": "-1f74751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.3350986,
-          59.9342802,
-          0
-        ]
-      },
-      "properties": {
-        "name": "S:t Petersburg",
-        "styleUrl": "#icon-959-F8971B-labelson-nodesc",
-        "styleHash": "-60c56cd5"
       }
     },
     {
