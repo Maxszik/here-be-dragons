@@ -12,7 +12,11 @@
         ]
       },
       "properties": {
-        "name": "Jaroslavl"
+        "name": "Jaroslavl",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -26,7 +30,11 @@
         ]
       },
       "properties": {
-        "name": "Kirov"
+        "name": "Kirov",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -40,7 +48,11 @@
         ]
       },
       "properties": {
-        "name": "Vladimir"
+        "name": "Vladimir",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -54,7 +66,11 @@
         ]
       },
       "properties": {
-        "name": "Perm"
+        "name": "Perm",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -68,10 +84,11 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "name": "Jekaterinburg"
+        "name": "Jekaterinburg",
+        "stroke": "#990000"
       }
     },
     {
@@ -85,7 +102,11 @@
         ]
       },
       "properties": {
-        "name": "Tiumen"
+        "name": "Tiumen",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -99,7 +120,11 @@
         ]
       },
       "properties": {
-        "name": "Omsk"
+        "name": "Omsk",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -113,7 +138,11 @@
         ]
       },
       "properties": {
-        "name": "Novosibirsk oblast"
+        "name": "Novosibirsk oblast",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -127,7 +156,11 @@
         ]
       },
       "properties": {
-        "name": "Krasnojarsk"
+        "name": "Krasnojarsk",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -141,7 +174,11 @@
         ]
       },
       "properties": {
-        "name": "Irkutsk"
+        "name": "Irkutsk",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -155,7 +192,11 @@
         ]
       },
       "properties": {
-        "name": "Ulan-Ude"
+        "name": "Ulan-Ude",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -169,7 +210,11 @@
         ]
       },
       "properties": {
-        "name": "Vladivostok"
+        "name": "Vladivostok",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -183,7 +228,11 @@
         ]
       },
       "properties": {
-        "name": "Tjita"
+        "name": "Tjita",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -197,7 +246,11 @@
         ]
       },
       "properties": {
-        "name": "Chabarovsk kraj"
+        "name": "Chabarovsk kraj",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -583,8 +636,13 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "name": "Trans-Siberian"
+        "stroke-width": 2,
+        "stroke-opacity": 0.6,
+        "stroke": "#990000",
+        "name": "Trans-Siberian",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
       }
     },
     {
@@ -615,8 +673,11 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "name": "Trans-Siberian southern route"
+        "stroke": "#990000",
+        "name": "Trans-Siberian southern route",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
       }
     },
     {
@@ -757,8 +818,11 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "name": "Trans-Siberian"
+        "stroke": "#990000",
+        "name": "Trans-Siberian",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
       }
     },
     {
@@ -772,7 +836,11 @@
         ]
       },
       "properties": {
-        "name": "Ulan Bator"
+        "name": "Ulan Bator",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -786,7 +854,11 @@
         ]
       },
       "properties": {
-        "name": "Peking"
+        "name": "Peking",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -827,8 +899,11 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "name": "Trans-Mongolian"
+        "stroke": "#990000",
+        "name": "Trans-Mongolian",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
       }
     },
     {
@@ -842,7 +917,11 @@
         ]
       },
       "properties": {
-        "name": "Harbin, Heilongjiang"
+        "name": "Harbin, Heilongjiang",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -908,8 +987,11 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
-        "name": "Trans-Manchurian"
+        "stroke": "#990000",
+        "name": "Trans-Manchurian",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
       }
     },
     {
@@ -923,7 +1005,11 @@
         ]
       },
       "properties": {
-        "name": "Nishny Novgorod"
+        "name": "Nishny Novgorod",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -937,10 +1023,11 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "name": "Kazan"
+        "name": "Kazan",
+        "stroke": "#990000"
       }
     },
     {
@@ -954,7 +1041,11 @@
         ]
       },
       "properties": {
-        "name": "Bajkalsjön"
+        "name": "Bajkalsjön",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -968,7 +1059,11 @@
         ]
       },
       "properties": {
-        "name": "Listvyanka"
+        "name": "Listvyanka",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     },
     {
@@ -982,7 +1077,11 @@
         ]
       },
       "properties": {
-        "name": "Moskva"
+        "name": "Moskva",
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "stroke": "#990000"
       }
     }
   ]
