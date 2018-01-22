@@ -12991,10 +12991,13 @@
         ]
       },
       "properties": {
+        "stroke": "#ffff99",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 1,
         "updated_at": "2013/02/26",
         "created_at": "2013/02/26",
-        "description": null,
+        "description": "Trans-Siberian",
         "name": "Path Skovorodino - Vladivostok"
       }
     },
@@ -49914,10 +49917,13 @@
         ]
       },
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 144,
-        "updated_at": null,
-        "created_at": null,
-        "description": null,
+        "updated_at": "null",
+        "created_at": "null",
+        "description": "Trans-Mongolian",
         "name": ""
       }
     },
@@ -71903,10 +71909,13 @@
         ]
       },
       "properties": {
+        "stroke": "#cc0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 150,
         "updated_at": "2013-02-25T23:00:00.000Z",
         "created_at": "2013-02-25T23:00:00.000Z",
-        "description": null,
+        "description": "Southern route",
         "name": "Moscow to Kotelnich"
       }
     },
@@ -80444,10 +80453,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 154,
         "updated_at": "2013/03/23",
         "created_at": "2013/03/23",
-        "description": null,
+        "description": "Turksib",
         "name": "TurkSib Path"
       }
     },
@@ -98191,11 +98203,14 @@
         ]
       },
       "properties": {
+        "stroke": "#cc0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 20,
         "updated_at": "2013-02-26T21:32:03.825Z",
         "created_at": "2013-02-26T21:32:03.569Z",
-        "description": null,
-        "name": null
+        "description": "BAM",
+        "name": "null"
       }
     },
     {
@@ -131308,11 +131323,14 @@
         ]
       },
       "properties": {
+        "stroke": "#cc3300",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 106,
         "updated_at": "2013-03-23T20:54:03Z",
         "created_at": "2013-03-23T20:54:03Z",
-        "description": null,
-        "name": null
+        "description": "null",
+        "name": "null"
       }
     },
     {
@@ -136218,11 +136236,14 @@
         ]
       },
       "properties": {
+        "stroke": "#ffff99",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 117,
         "updated_at": "2013-03-23T20:54:03Z",
         "created_at": "2013-03-23T20:54:03Z",
-        "description": null,
-        "name": null
+        "description": "null",
+        "name": "null"
       }
     },
     {
@@ -138683,11 +138704,14 @@
         ]
       },
       "properties": {
+        "stroke": "#cc6633",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 119,
         "updated_at": "2013-03-23T20:54:03Z",
         "created_at": "2013-03-23T20:54:03Z",
-        "description": null,
-        "name": null
+        "description": "Trans-Manchurian",
+        "name": "null"
       }
     },
     {
@@ -148356,10 +148380,13 @@
         ]
       },
       "properties": {
+        "stroke": "#66ff00",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 152,
-        "updated_at": null,
-        "created_at": null,
-        "description": null,
+        "updated_at": "null",
+        "created_at": "null",
+        "description": "Northern route",
         "name": "TSRR path Moscow to Kotelnich"
       }
     },
@@ -156698,10 +156725,13 @@
         ]
       },
       "properties": {
+        "stroke": "#990000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 224,
-        "updated_at": null,
-        "created_at": null,
-        "description": null,
+        "updated_at": "null",
+        "created_at": "null",
+        "description": "null",
         "name": "Амуро-Якутская магистраль"
       }
     },
@@ -167778,10 +167808,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "cartodb_id": 459,
-        "updated_at": null,
-        "created_at": null,
-        "description": null,
+        "updated_at": "null",
+        "created_at": "null",
+        "description": "Amur-Yakutsk",
         "name": "Амуро-Якутская магистраль"
       }
     },
