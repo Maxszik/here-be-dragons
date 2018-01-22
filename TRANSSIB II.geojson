@@ -153179,23 +153179,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.65672209184695,
-          55.77582196439216,
-          169.9892506683095
-        ]
-      },
-      "properties": {
-        "name": "Moscow terminal - 0km",
-        "styleUrl": "#cloned020000000411090000100000000251000070004020100111100121001111010101101131100008300000000020000000000000000000001100100",
-        "styleHash": "fb13895",
-        "description": "All distances on the TSRR are given in kilometers (km) from Moscow."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
