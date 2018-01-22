@@ -12,9 +12,7 @@
         ]
       },
       "properties": {
-        "name": "Jaroslavl",
-        "styleUrl": "#icon-959-F8971B-labelson-nodesc",
-        "styleHash": "-60c56cd5"
+        "name": "Jaroslavl"
       }
     },
     {
@@ -28,10 +26,7 @@
         ]
       },
       "properties": {
-        "name": "Kirov",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Kirov oblast, Ryssland"
+        "name": "Kirov"
       }
     },
     {
@@ -45,10 +40,7 @@
         ]
       },
       "properties": {
-        "name": "Vladimir",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Vladimir oblast, Ryssland"
+        "name": "Vladimir"
       }
     },
     {
@@ -62,10 +54,7 @@
         ]
       },
       "properties": {
-        "name": "Perm",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Perm kraj, Ryssland"
+        "name": "Perm"
       }
     },
     {
@@ -79,10 +68,10 @@
         ]
       },
       "properties": {
-        "name": "Jekaterinburg",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Sverdlovsk oblast, Ryssland"
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "name": "Jekaterinburg"
       }
     },
     {
@@ -96,10 +85,7 @@
         ]
       },
       "properties": {
-        "name": "Tiumen",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Tiumen oblast, Ryssland"
+        "name": "Tiumen"
       }
     },
     {
@@ -113,10 +99,7 @@
         ]
       },
       "properties": {
-        "name": "Omsk",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Omsk oblast, Ryssland"
+        "name": "Omsk"
       }
     },
     {
@@ -130,10 +113,7 @@
         ]
       },
       "properties": {
-        "name": "Novosibirsk oblast",
-        "styleUrl": "#icon-959-F4B400-labelson",
-        "styleHash": "-4a99a6ee",
-        "description": "Ryssland"
+        "name": "Novosibirsk oblast"
       }
     },
     {
@@ -147,10 +127,7 @@
         ]
       },
       "properties": {
-        "name": "Krasnojarsk",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Krasnojarsk kraj, Ryssland"
+        "name": "Krasnojarsk"
       }
     },
     {
@@ -164,10 +141,7 @@
         ]
       },
       "properties": {
-        "name": "Irkutsk",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Irkutsk oblast, Ryssland"
+        "name": "Irkutsk"
       }
     },
     {
@@ -181,10 +155,7 @@
         ]
       },
       "properties": {
-        "name": "Ulan-Ude",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Burjatien, Ryssland"
+        "name": "Ulan-Ude"
       }
     },
     {
@@ -198,10 +169,7 @@
         ]
       },
       "properties": {
-        "name": "Vladivostok",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Primorje kraj, Ryssland"
+        "name": "Vladivostok"
       }
     },
     {
@@ -215,10 +183,7 @@
         ]
       },
       "properties": {
-        "name": "Tjita",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Zabajkalskij kraj, Ryssland"
+        "name": "Tjita"
       }
     },
     {
@@ -232,10 +197,7 @@
         ]
       },
       "properties": {
-        "name": "Chabarovsk kraj",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Ryssland"
+        "name": "Chabarovsk kraj"
       }
     },
     {
@@ -621,8 +583,8 @@
         ]
       },
       "properties": {
-        "name": "Transsibiriska Järnvägen",
-        "description": "Moskva - Vladivostok:"
+        "stroke": "#555555",
+        "name": "Trans-Siberian"
       }
     },
     {
@@ -653,7 +615,8 @@
         ]
       },
       "properties": {
-        "name": "Transsibiriska järnvägen"
+        "stroke": "#555555",
+        "name": "Trans-Siberian southern route"
       }
     },
     {
@@ -794,8 +757,8 @@
         ]
       },
       "properties": {
-        "name": "Transsibiriska Järnvägen",
-        "description": "Moskva - Vladivostok:<br>Ryska tåget: avresa lördagar (non-stop 8 dagar).<br>Ej via Mongoliet utan via Manchuriet"
+        "stroke": "#555555",
+        "name": "Trans-Siberian"
       }
     },
     {
@@ -809,10 +772,7 @@
         ]
       },
       "properties": {
-        "name": "Ulan Bator",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Mongoliets huvudstad"
+        "name": "Ulan Bator"
       }
     },
     {
@@ -826,10 +786,7 @@
         ]
       },
       "properties": {
-        "name": "Peking",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Kina"
+        "name": "Peking"
       }
     },
     {
@@ -870,8 +827,8 @@
         ]
       },
       "properties": {
-        "name": "Transmongoliska Järnvägen",
-        "description": "Moskva - Beijing Kinesiska tåget: avresa tisdag (non-stop 6 dagar)"
+        "stroke": "#555555",
+        "name": "Trans-Mongolian"
       }
     },
     {
@@ -885,10 +842,7 @@
         ]
       },
       "properties": {
-        "name": "Harbin, Heilongjiang",
-        "styleUrl": "#icon-959-F8971B-labelson",
-        "styleHash": "-14bef68e",
-        "description": "Kina"
+        "name": "Harbin, Heilongjiang"
       }
     },
     {
@@ -954,7 +908,8 @@
         ]
       },
       "properties": {
-        "name": "Transmansjuriska Järnvägen"
+        "stroke": "#555555",
+        "name": "Trans-Manchurian"
       }
     },
     {
@@ -968,9 +923,7 @@
         ]
       },
       "properties": {
-        "name": "Nishny Novgorod",
-        "styleUrl": "#icon-959-F8971B-labelson-nodesc",
-        "styleHash": "-60c56cd5"
+        "name": "Nishny Novgorod"
       }
     },
     {
@@ -984,9 +937,10 @@
         ]
       },
       "properties": {
-        "name": "Kazan",
-        "styleUrl": "#icon-959-F8971B-labelson-nodesc",
-        "styleHash": "-60c56cd5"
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "name": "Kazan"
       }
     },
     {
@@ -1000,9 +954,7 @@
         ]
       },
       "properties": {
-        "name": "Bajkalsjön",
-        "styleUrl": "#icon-503-F8971B-labelson-nodesc",
-        "styleHash": "-5589c683"
+        "name": "Bajkalsjön"
       }
     },
     {
@@ -1016,9 +968,7 @@
         ]
       },
       "properties": {
-        "name": "Listvyanka",
-        "styleUrl": "#icon-503-F8971B-labelson-nodesc",
-        "styleHash": "-5589c683"
+        "name": "Listvyanka"
       }
     },
     {
@@ -1032,9 +982,7 @@
         ]
       },
       "properties": {
-        "name": "Moskva",
-        "styleUrl": "#icon-959-F8971B-labelson-nodesc",
-        "styleHash": "-60c56cd5"
+        "name": "Moskva"
       }
     }
   ]
