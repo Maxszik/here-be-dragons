@@ -4976,6 +4976,114 @@
           39.08530414503412
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Petropavlovsk-Kamchatka",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.64704132080078,
+          53.015609422105435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Milkovo",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.62047672271729,
+          54.69516621851467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Elizovo",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.38336944580078,
+          53.1882676238061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Esso",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.69961261749268,
+          55.92090678126957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#999999",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tekhtyur",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.46675300598145,
+          61.71310581998996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rotterdam",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.414701461791992,
+          51.91388516594948
+        ]
+      }
     }
   ]
 }
