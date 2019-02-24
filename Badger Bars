@@ -10,7 +10,10 @@
         "image": "",
         "kind": "Bar",
         "description": "Kiev",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +32,10 @@
         "image": "",
         "kind": "Cafe",
         "description": "Bishkek",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +48,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        "marker-color": "#B22222",
         "marker-size": "medium",
         "marker-symbol": "bar",
         "adress": "",
@@ -70,7 +76,10 @@
         "image": "",
         "kind": "Bar",
         "description": "Astana",
-        "title": "Pivnoi Barsuk"
+        "title": "Pivnoi Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +98,10 @@
         "image": "",
         "kind": "Pub",
         "description": "Novocheboksarsk",
-        "title": "РК \"Barsuk\""
+        "title": "РК Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +120,10 @@
         "image": "",
         "kind": "Bar",
         "description": "Minsk",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +142,10 @@
         "image": "",
         "kind": "Bar",
         "description": "Snezhinsk",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -143,10 +161,13 @@
         "adress": "Ulitsa Tul'skaya, 74, Kaluga, Kaluzhskaya oblast', Russia, 248003",
         "page": "",
         "vk": "",
-        "image": "https://pp.userapi.com/c837138/v837138608/52898/vMJTL8cdfvM.jpg?ava=1",
+        "image": "",
         "kind": "Bar",
         "description": "Kaluga",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +186,10 @@
         "image": "",
         "kind": "Pub, bar",
         "description": "Ulyanovsk",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -181,10 +205,13 @@
         "adress": "Penza, Lunacharskogo Street, 6Б",
         "page": "http://barsuk.vip",
         "vk": "https://vk.com/barsukpnz",
-        "image": "http://barsuk.vip/img/barsuk_logo_new_fff.png",
+        "image": "",
         "kind": "Nightclub, restaurant",
         "description": "Penza",
-        "title": "Barsuk only MAN's club"
+        "title": "Barsuk only man-s club",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +230,10 @@
         "image": "",
         "kind": "Karaoke, banquet hall",
         "description": "Tolyatti",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +252,10 @@
         "image": "",
         "kind": "Pub, bar",
         "description": "Voronezh",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +274,10 @@
         "image": "",
         "kind": "Pub, bar, restaurant",
         "description": "Novosibirsk",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +296,10 @@
         "image": "",
         "kind": "Cafe, pub, bar",
         "description": "Almaty",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +318,10 @@
         "image": "",
         "kind": "Cafe, karaoke",
         "description": "Zaporozhia",
-        "title": "Art-kafe Bar Barsuk"
+        "title": "Art-kafe Bar Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -298,7 +340,10 @@
         "image": "",
         "kind": "",
         "description": "Tashkent",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -317,7 +362,10 @@
         "image": "",
         "kind": "",
         "description": "Kiev",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +384,10 @@
         "image": "",
         "kind": "",
         "description": "Krasnodar",
-        "title": "Barsuk men's strip club"
+        "title": "Barsuk men's strip club",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +406,10 @@
         "image": "",
         "kind": "",
         "description": "St Petersburg",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +428,10 @@
         "image": "",
         "kind": "",
         "description": "Kaluga",
-        "title": "Barsuk Bar"
+        "title": "Barsuk Bar",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -393,7 +450,10 @@
         "image": "",
         "kind": "",
         "description": "Yaroslavl",
-        "title": "Barsuk v Rayu"
+        "title": "Barsuk v Rayu",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +472,10 @@
         "image": "",
         "kind": "",
         "description": "Kazan",
-        "title": "Barsuk strip club"
+        "title": "Barsuk strip club",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +494,10 @@
         "image": "",
         "kind": "",
         "description": "Penza",
-        "title": "M «BARSUK»en's CLub"
+        "title": "Barsuk Men's Club",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +516,10 @@
         "image": "",
         "kind": "",
         "description": "Snezhinsk",
-        "title": "Bar Badger"
+        "title": "Bar Badger",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -469,7 +538,10 @@
         "image": "",
         "kind": "",
         "description": "Irkutsk",
-        "title": "Barsuk"
+        "title": "Barsuk",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
@@ -488,7 +560,10 @@
         "image": "",
         "kind": "",
         "description": "Yuzhno-Sakhalinsk",
-        "title": "Barsuk Bar"
+        "title": "Barsuk Bar",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "marker-color": "#B22222"
       },
       "geometry": {
         "type": "Point",
