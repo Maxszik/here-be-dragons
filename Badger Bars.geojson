@@ -361,28 +361,6 @@
         "vk": "",
         "image": "",
         "kind": "",
-        "description": "Kiev",
-        "title": "Barsuk",
-        "marker-size": "medium",
-        "marker-symbol": "bar",
-        "marker-color": "#B22222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5412219,
-          50.431625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "adress": "",
-        "page": "",
-        "vk": "",
-        "image": "",
-        "kind": "",
         "description": "Krasnodar",
         "title": "Barsuk men's strip club",
         "marker-size": "medium",
@@ -427,28 +405,6 @@
         "vk": "",
         "image": "",
         "kind": "",
-        "description": "Kaluga",
-        "title": "Barsuk Bar",
-        "marker-size": "medium",
-        "marker-symbol": "bar",
-        "marker-color": "#B22222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.2802391,
-          54.5113361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "adress": "",
-        "page": "",
-        "vk": "",
-        "image": "",
-        "kind": "",
         "description": "Yaroslavl",
         "title": "Barsuk v Rayu",
         "marker-size": "medium",
@@ -482,50 +438,6 @@
         "coordinates": [
           49.107825,
           55.790815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "adress": "",
-        "page": "",
-        "vk": "",
-        "image": "",
-        "kind": "",
-        "description": "Penza",
-        "title": "Barsuk Men's Club",
-        "marker-size": "medium",
-        "marker-symbol": "bar",
-        "marker-color": "#B22222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.0099551,
-          53.2063881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "adress": "",
-        "page": "",
-        "vk": "",
-        "image": "",
-        "kind": "",
-        "description": "Snezhinsk",
-        "title": "Bar Badger",
-        "marker-size": "medium",
-        "marker-symbol": "bar",
-        "marker-color": "#B22222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.7315428,
-          56.0871801
         ]
       }
     },
