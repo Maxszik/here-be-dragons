@@ -1,0 +1,502 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Bar",
+        "description": "Kiev",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.541342,
+          50.431632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Cafe",
+        "description": "Bishkek",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.624074,
+          42.8869664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Bar",
+        "description": "Aktau",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1502565,
+          43.6498655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Bar",
+        "description": "Astana",
+        "title": "Pivnoi Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.460111,
+          51.1602053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Pub",
+        "description": "Novocheboksarsk",
+        "title": "РК \"Barsuk\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4799794,
+          56.1112116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "ул. Я. Коласа 73/2",
+        "page": "https://catalog.pivo.by/place/barsuk",
+        "vk": "",
+        "image": "",
+        "kind": "Bar",
+        "description": "Minsk",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6040304,
+          53.9389386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Bar",
+        "description": "Snezhinsk",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.731324,
+          56.087094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Ulitsa Tul'skaya, 74, Kaluga, Kaluzhskaya oblast', Russia, 248003",
+        "page": "",
+        "vk": "",
+        "image": "https://pp.userapi.com/c837138/v837138608/52898/vMJTL8cdfvM.jpg?ava=1",
+        "kind": "Bar",
+        "description": "Kaluga",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.280285,
+          54.511355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Ulyanovsk, Ulyanovskiy Avenue, 15",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Pub, bar",
+        "description": "Ulyanovsk",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.577326,
+          54.37711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Penza, Lunacharskogo Street, 6Б",
+        "page": "http://barsuk.vip",
+        "vk": "https://vk.com/barsukpnz",
+        "image": "http://barsuk.vip/img/barsuk_logo_new_fff.png",
+        "kind": "Nightclub, restaurant",
+        "description": "Penza",
+        "title": "Barsuk only MAN's club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.00997,
+          53.206336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Tolyatti, ulitsa Larina, 63",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Karaoke, banquet hall",
+        "description": "Tolyatti",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.41077,
+          53.53276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Автостанция Верхний Мамон",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Pub, bar",
+        "description": "Voronezh",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.403798,
+          50.16714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Novosibirsk, Vybornaya ulitsa, 102",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Pub, bar, restaurant",
+        "description": "Novosibirsk",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.005038,
+          54.99818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Almaty, Dostyk Avenue, 32",
+        "page": "https://barsuk.kz",
+        "vk": "",
+        "image": "",
+        "kind": "Cafe, pub, bar",
+        "description": "Almaty",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95558,
+          43.25472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Запоріжжя, вулиця Василя Сергієнка, 5Б",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "Cafe, karaoke",
+        "description": "Zaporozhia",
+        "title": "Art-kafe Bar Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.036156,
+          47.812934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Tashkent",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.223606,
+          41.34421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Kiev",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5412219,
+          50.431625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Krasnodar",
+        "title": "Barsuk men's strip club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974199,
+          45.019834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "St Petersburg",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4766134,
+          59.9482715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Kaluga",
+        "title": "Barsuk Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2802391,
+          54.5113361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Yaroslavl",
+        "title": "Barsuk v Rayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8744358,
+          57.6266412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Kazan",
+        "title": "Barsuk strip club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.107825,
+          55.790815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Penza",
+        "title": "M «BARSUK»en's CLub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0099551,
+          53.2063881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Snezhinsk",
+        "title": "Bar Badger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7315428,
+          56.0871801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Club Ulitsa Karla Libknekhta, 121",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Irkutsk",
+        "title": "Barsuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.312403,
+          52.2776179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adress": "Lenina St, 232",
+        "page": "",
+        "vk": "",
+        "image": "",
+        "kind": "",
+        "description": "Yuzhno-Sakhalinsk",
+        "title": "Barsuk Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7297131,
+          46.9561788
+        ]
+      }
+    }
+  ]
+}
