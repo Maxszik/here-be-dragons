@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "description": "Café Landtmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361501812934875,
+          48.21151209238952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "description": "Café Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36540174484253,
+          48.210352071180175
+        ]
+      }
+    }
+  ]
+}
