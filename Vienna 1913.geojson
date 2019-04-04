@@ -112,6 +112,38 @@
           48.243296095656866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "description": "Hitler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34470045566559,
+          48.19357082871945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Tito?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.374499797821045,
+          48.21475071820383
+        ]
+      }
     }
   ]
 }
