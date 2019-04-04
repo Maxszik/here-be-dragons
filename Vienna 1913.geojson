@@ -32,6 +32,38 @@
           48.210352071180175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "description": "Hofburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.365723609924316,
+          48.206407087487236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "description": "Belvedere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38089954853058,
+          48.191582529967484
+        ]
+      }
     }
   ]
 }
