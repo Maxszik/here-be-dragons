@@ -38,7 +38,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "star-stroked",
+        "marker-symbol": "circle-stroked",
         "description": "Hofburg"
       },
       "geometry": {
@@ -62,6 +62,54 @@
         "coordinates": [
           16.38089954853058,
           48.191582529967484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "description": "Stalin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32296115159988,
+          48.18414718251215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "description": "Freud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.363073587417603,
+          48.21862893542828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "description": "Trotsky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334167420864105,
+          48.243296095656866
         ]
       }
     }
