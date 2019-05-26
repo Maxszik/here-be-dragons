@@ -5084,6 +5084,42 @@
           51.91388516594948
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bautzen",
+        "country": "Germany",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.423954486846926,
+          51.18136065824012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Görlitz",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.986252784729002,
+          51.151947615465026
+        ]
+      }
     }
   ]
 }
