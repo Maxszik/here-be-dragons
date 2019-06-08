@@ -5228,6 +5228,168 @@
           43.84245116699039
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sinaia",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.54939270019531,
+          45.347560945211946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Iasi",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.586669921875,
+          47.137424646293866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Agabia",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.282386779785153,
+          47.17355308790045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Voronet",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.864133834838867,
+          47.53224107479268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bistrita",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.492988586425778,
+          47.136140146265845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Cluj",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.587646484375,
+          46.75491661928187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Turda",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.781623840332028,
+          46.57160668424226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Alba Iulia",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.572368621826172,
+          46.07013424821996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hunedoara",
+        "country": "Romania",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.907352447509766,
+          45.76009821236529
+        ]
+      }
     }
   ]
 }
