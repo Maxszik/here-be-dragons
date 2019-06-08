@@ -5120,6 +5120,114 @@
           51.151947615465026
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Maribor",
+        "location": "The Balkans",
+        "country": "Slovenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.67474365234375,
+          46.5720787149159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zagreb",
+        "location": "The Balkans",
+        "country": "Croatia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97686767578125,
+          45.82879925192134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Banja Luka",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.193603515625,
+          44.74673324024678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Iaice",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269134521484375,
+          44.342511749598444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Mostar",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.808837890625,
+          43.33316939281732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sarajevo",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.380126953125,
+          43.84245116699039
+        ]
+      }
     }
   ]
 }
