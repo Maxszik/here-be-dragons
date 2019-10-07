@@ -5394,10 +5394,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Charyn Canyon"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Charyn Canyon",
+        "location": "Central Asia",
+        "country": "Kazakhstan"
       },
       "geometry": {
         "type": "Point",
@@ -5410,10 +5412,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Osh"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Osh",
+        "location": "Central Asia",
+        "country": "Kyrgyzstan"
       },
       "geometry": {
         "type": "Point",
@@ -5426,10 +5430,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Fergana"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Fergana",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
       },
       "geometry": {
         "type": "Point",
@@ -5442,10 +5448,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Margilan"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Margilan",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
       },
       "geometry": {
         "type": "Point",
@@ -5458,10 +5466,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Rishton"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Rishton",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
       },
       "geometry": {
         "type": "Point",
@@ -5474,10 +5484,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Kokand"
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kokand",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
       },
       "geometry": {
         "type": "Point",
