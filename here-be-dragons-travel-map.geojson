@@ -5390,6 +5390,102 @@
           45.76009821236529
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Charyn Canyon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.39020574092864,
+          43.77284082927104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Osh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80519485473633,
+          40.53298071625918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Fergana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78732872009277,
+          40.38192447539731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Margilan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.72473669052124,
+          40.47432594901607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Rishton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2790983915329,
+          40.36092984868157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Kokand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.94777584075926,
+          40.53594880070839
+        ]
+      }
     }
   ]
 }
