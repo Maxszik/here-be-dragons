@@ -5325,60 +5325,6 @@
         "marker-color": "#004080",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Cluj",
-        "location": "Central Europe",
-        "country": "Romania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.587646484375,
-          46.75491661928187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#004080",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked",
-        "title": "Turda",
-        "location": "Central Europe",
-        "country": "Romania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.781623840332028,
-          46.57160668424226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#004080",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked",
-        "title": "Alba Iulia",
-        "location": "Central Europe",
-        "country": "Romania"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.572368621826172,
-          46.07013424821996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#004080",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked",
         "title": "Hunedoara",
         "country": "Romania",
         "location": "Central Europe"
@@ -5496,6 +5442,41 @@
         "coordinates": [
           70.94777584075926,
           40.53594880070839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Targu Mures",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56019401550293,
+          46.54575673490221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "title": "Cricova Winery",
+        "location": "",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86318683624268,
+          47.13958487181999
         ]
       }
     }
