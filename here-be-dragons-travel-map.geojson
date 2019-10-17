@@ -5452,7 +5452,8 @@
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Targu Mures",
-        "country": "Romania"
+        "country": "Romania",
+        "location": "Central Europe"
       },
       "geometry": {
         "type": "Point",
@@ -5465,12 +5466,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004080",
+        "marker-color": "#b22222",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Cricova winery",
-        "location": "",
-        "country": "Romania"
+        "location": "East",
+        "country": "Moldavia"
       },
       "geometry": {
         "type": "Point",
