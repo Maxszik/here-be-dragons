@@ -23,7 +23,7 @@
       "properties": {
         "title": "Galena Airport",
         "marker-size": "small",
-        "marker-symbol": "airfieldv",
+        "marker-symbol": "airfield",
         "marker-color": "#821000",
         "description": "1st regiment"
       },
