@@ -5480,6 +5480,42 @@
           47.13958487181999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Seoul",
+        "country": "South Korea",
+        "location": "Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9525146484375,
+          37.55111016010861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Busan",
+        "country": "South Korea",
+        "location": "Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.17037963867188,
+          35.15991570498811
+        ]
+      }
     }
   ]
 }
