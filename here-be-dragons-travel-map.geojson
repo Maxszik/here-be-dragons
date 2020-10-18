@@ -9,8 +9,7 @@
         "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
-        "title": "Odessa",
-        "description": ""
+        "title": "Odessa"
       },
       "geometry": {
         "type": "Point",
@@ -28,8 +27,7 @@
         "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
-        "title": "Sevastopol",
-        "description": ""
+        "title": "Sevastopol"
       },
       "geometry": {
         "type": "Point",
@@ -155,8 +153,7 @@
         "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
-        "title": "Dnipro",
-        "description": ""
+        "title": "Dnipro"
       },
       "geometry": {
         "type": "Point",
@@ -804,7 +801,6 @@
         "marker-symbol": "harbor",
         "title": "Balaklava",
         "location": "Black Sea",
-        "description": "",
         "country": "Ukraine"
       },
       "geometry": {
@@ -840,7 +836,6 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "Budapest",
-        "description": "",
         "country": "Hungary",
         "location": "Central Europe"
       },
@@ -856,7 +851,6 @@
       "type": "Feature",
       "properties": {
         "title": "Tiksi",
-        "description": "riverstation",
         "location": "Buor-Khaya Gulf",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -875,7 +869,6 @@
       "type": "Feature",
       "properties": {
         "title": "Krasnoyarsk",
-        "description": "riverstation",
         "location": "Enisey river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -894,7 +887,6 @@
       "type": "Feature",
       "properties": {
         "title": "Listvyanka",
-        "description": "riverstation",
         "location": "Lake Baikal",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -913,7 +905,6 @@
       "type": "Feature",
       "properties": {
         "title": "Circum-Baikal Railway",
-        "description": "riverstation",
         "location": "Lake Baikal",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -932,7 +923,6 @@
       "type": "Feature",
       "properties": {
         "title": "Yakutsk",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -951,7 +941,6 @@
       "type": "Feature",
       "properties": {
         "title": "Lenskie Shyoki",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -970,7 +959,6 @@
       "type": "Feature",
       "properties": {
         "title": "Polar circle",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -989,7 +977,6 @@
       "type": "Feature",
       "properties": {
         "title": "Dapparai",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1008,7 +995,6 @@
       "type": "Feature",
       "properties": {
         "title": "Kyusyur",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1027,7 +1013,6 @@
       "type": "Feature",
       "properties": {
         "title": "Lena Pillars",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1046,7 +1031,6 @@
       "type": "Feature",
       "properties": {
         "title": "Lensk",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1065,7 +1049,6 @@
       "type": "Feature",
       "properties": {
         "title": "Olyokminsk",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1084,7 +1067,6 @@
       "type": "Feature",
       "properties": {
         "title": "Siktyakh",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1103,7 +1085,6 @@
       "type": "Feature",
       "properties": {
         "title": "Sottintsy",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1122,7 +1103,6 @@
       "type": "Feature",
       "properties": {
         "title": "Vitim",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1141,7 +1121,6 @@
       "type": "Feature",
       "properties": {
         "title": "Zhigansk",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1160,7 +1139,6 @@
       "type": "Feature",
       "properties": {
         "title": "Green Stop",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1179,7 +1157,6 @@
       "type": "Feature",
       "properties": {
         "title": "Green Stop",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1198,7 +1175,6 @@
       "type": "Feature",
       "properties": {
         "title": "Mouth of the river Buotama",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1217,7 +1193,6 @@
       "type": "Feature",
       "properties": {
         "title": "Ura River",
-        "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1236,7 +1211,6 @@
       "type": "Feature",
       "properties": {
         "title": "Bykov Mys'",
-        "description": "riverstation",
         "location": "Neelova bay",
         "marker-size": "small",
         "marker-color": "#990000",
@@ -1259,7 +1233,6 @@
         "marker-symbol": "harbor",
         "location": "Scandinavia",
         "title": "Baltic Ferry",
-        "description": "",
         "country": ""
       },
       "geometry": {
