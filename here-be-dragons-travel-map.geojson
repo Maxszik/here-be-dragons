@@ -6,7 +6,7 @@
       "properties": {
         "location": "Black Sea",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Odessa",
@@ -25,7 +25,7 @@
       "properties": {
         "location": "Black Sea",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Sevastopol",
@@ -62,7 +62,7 @@
       "properties": {
         "location": "Black Sea",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Yalta"
@@ -80,7 +80,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Kiev"
@@ -98,7 +98,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Kremenchug"
@@ -116,7 +116,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Cherkasy"
@@ -134,7 +134,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Kaniv"
@@ -152,7 +152,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Dnipro",
@@ -171,7 +171,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Kherson"
@@ -189,7 +189,7 @@
       "properties": {
         "location": "Dnepr river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
         "title": "Zaporizhia"
@@ -207,7 +207,7 @@
       "properties": {
         "location": "Kama river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Perm"
@@ -225,7 +225,7 @@
       "properties": {
         "location": "Kama river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Chaykovsky"
@@ -243,7 +243,7 @@
       "properties": {
         "location": "Kama river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Yelabuga"
@@ -261,7 +261,7 @@
       "properties": {
         "location": "Kama river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Votkinsk"
@@ -279,7 +279,7 @@
       "properties": {
         "location": "Khimki Reservoir",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Moscow North River Station"
@@ -297,7 +297,7 @@
       "properties": {
         "location": "Lake Onega",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kizhi"
@@ -315,7 +315,7 @@
       "properties": {
         "location": "Lower Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Saratov"
@@ -333,7 +333,7 @@
       "properties": {
         "location": "Lower Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Volgograd"
@@ -351,7 +351,7 @@
       "properties": {
         "location": "Lower Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Astrakhan"
@@ -369,7 +369,7 @@
       "properties": {
         "location": "Middle Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kazan"
@@ -387,7 +387,7 @@
       "properties": {
         "location": "Middle Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Ulyanovsk"
@@ -405,7 +405,7 @@
       "properties": {
         "location": "Middle Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Samara"
@@ -423,7 +423,7 @@
       "properties": {
         "location": "Neva river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "St Petersburg"
@@ -441,7 +441,7 @@
       "properties": {
         "location": "Neva river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Shlisselburg"
@@ -459,7 +459,7 @@
       "properties": {
         "location": "Sheksna river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kirillov"
@@ -477,7 +477,7 @@
       "properties": {
         "location": "Sheksna river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Goritsy"
@@ -495,7 +495,7 @@
       "properties": {
         "location": "Sheksna river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Cherepovets"
@@ -513,7 +513,7 @@
       "properties": {
         "location": "Sheksna river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Sheksna"
@@ -531,7 +531,7 @@
       "properties": {
         "location": "Sheksna river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kuzino"
@@ -549,7 +549,7 @@
       "properties": {
         "location": "Svir river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Mandrogy"
@@ -567,7 +567,7 @@
       "properties": {
         "location": "Svir river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Svirstroi"
@@ -585,7 +585,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Nizhny Novgorod"
@@ -603,7 +603,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Cheboksary"
@@ -621,7 +621,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Yaroslavl"
@@ -639,7 +639,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Uglich"
@@ -657,7 +657,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kostroma"
@@ -675,7 +675,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Rybinsk"
@@ -693,7 +693,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Plyos"
@@ -711,7 +711,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Gorodets"
@@ -729,7 +729,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Kalyazin"
@@ -747,7 +747,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Tutayev"
@@ -765,7 +765,7 @@
       "properties": {
         "location": "Upper Volga",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Dubna"
@@ -783,7 +783,7 @@
       "properties": {
         "location": "Vytegra river",
         "marker-size": "small",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia",
         "title": "Vytegra"
@@ -799,7 +799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "Balaklava",
@@ -859,7 +859,7 @@
         "description": "riverstation",
         "location": "Buor-Khaya Gulf",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -878,7 +878,7 @@
         "description": "riverstation",
         "location": "Enisey river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "circle-stroked",
         "country": "Russia"
       },
@@ -897,7 +897,7 @@
         "description": "riverstation",
         "location": "Lake Baikal",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -916,7 +916,7 @@
         "description": "riverstation",
         "location": "Lake Baikal",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "circle-stroked",
         "country": "Russia"
       },
@@ -935,7 +935,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -954,7 +954,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -973,7 +973,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -992,7 +992,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1011,7 +1011,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1030,7 +1030,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1049,7 +1049,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1068,7 +1068,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1087,7 +1087,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1106,7 +1106,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1125,7 +1125,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1144,7 +1144,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1163,7 +1163,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1182,7 +1182,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1201,7 +1201,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1220,7 +1220,7 @@
         "description": "riverstation",
         "location": "Lena river",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1239,7 +1239,7 @@
         "description": "riverstation",
         "location": "Neelova bay",
         "marker-size": "small",
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Russia"
       },
@@ -1993,7 +1993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Ulan-Ude",
@@ -2011,7 +2011,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Irkutsk",
@@ -2029,7 +2029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "country": "Russia",
@@ -2047,7 +2047,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "country": "Russia",
@@ -3288,7 +3288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Pechory",
@@ -3308,7 +3308,7 @@
       "properties": {
         "marker-size": "small",
         "title": "Pskov",
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "location": "East",
         "marker-symbol": "circle-stroked",
         "country": "Russia"
@@ -3558,7 +3558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Poltava",
@@ -3576,7 +3576,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Zmievka - Gammalsvenskby",
@@ -3810,7 +3810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Chisinau",
@@ -3828,7 +3828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Tiraspol",
@@ -3918,7 +3918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Velikiye Novgorod",
@@ -3936,7 +3936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Staraya Russa",
@@ -3954,7 +3954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Velikiye Luki",
@@ -3972,7 +3972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "Arkhangelsk",
@@ -4980,7 +4980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "Petropavlovsk-Kamchatka",
@@ -4998,7 +4998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Milkovo",
@@ -5016,7 +5016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Elizovo",
@@ -5034,7 +5034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Esso",
@@ -5052,7 +5052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#999999",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Tekhtyur",
@@ -5466,7 +5466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b22222",
+        "marker-color": "#990000",
         "marker-size": "small",
         "marker-symbol": "circle-stroked",
         "title": "Cricova winery",
