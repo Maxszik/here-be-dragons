@@ -1,0 +1,2155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.3857798,
+              41.664837,
+              0
+            ],
+            [
+              19.2759165,
+              40.8804283,
+              0
+            ],
+            [
+              20.2976451,
+              40.7057618,
+              0
+            ],
+            [
+              21.099647,
+              39.4532975,
+              0
+            ],
+            [
+              21.1435923,
+              38.9595461,
+              0
+            ],
+            [
+              20.4734263,
+              38.8655124,
+              0
+            ],
+            [
+              20.1987681,
+              38.0655314,
+              0
+            ],
+            [
+              20.8249888,
+              37.4226662,
+              0
+            ],
+            [
+              22.0224986,
+              36.4744488,
+              0
+            ],
+            [
+              22.0994029,
+              36.8006296,
+              0
+            ],
+            [
+              22.0664439,
+              37.4662788,
+              0
+            ],
+            [
+              22.4180064,
+              37.6056681,
+              0
+            ],
+            [
+              23.2529673,
+              37.1341862,
+              0
+            ],
+            [
+              27.1750865,
+              35.1020785,
+              0
+            ],
+            [
+              28.6911997,
+              36.2178296,
+              0
+            ],
+            [
+              30.7236704,
+              35.8802921,
+              0
+            ],
+            [
+              33.5801158,
+              35.9158904,
+              0
+            ],
+            [
+              34.9094615,
+              36.4125837,
+              0
+            ],
+            [
+              35.6785044,
+              36.0225895,
+              0
+            ],
+            [
+              35.4038462,
+              35.380237,
+              0
+            ],
+            [
+              35.0742564,
+              33.7975555,
+              0
+            ],
+            [
+              34.2063365,
+              31.5786859,
+              0
+            ],
+            [
+              30.976356,
+              31.7656876,
+              0
+            ],
+            [
+              28.89994,
+              31.2505291,
+              0
+            ],
+            [
+              26.724647,
+              31.6441793,
+              0
+            ],
+            [
+              25.0107798,
+              29.3440293,
+              0
+            ],
+            [
+              28.196815,
+              27.459696,
+              0
+            ],
+            [
+              30.8115611,
+              24.2070507,
+              0
+            ],
+            [
+              33.7668833,
+              24.0566578,
+              0
+            ],
+            [
+              32.8769908,
+              27.4109425,
+              0
+            ],
+            [
+              31.6025767,
+              28.8159546,
+              0
+            ],
+            [
+              32.382606,
+              29.7359158,
+              0
+            ],
+            [
+              32.7012095,
+              29.9265272,
+              0
+            ],
+            [
+              35.4697642,
+              31.2223481,
+              0
+            ],
+            [
+              35.5356822,
+              31.784367,
+              0
+            ],
+            [
+              37.1836314,
+              33.6330628,
+              0
+            ],
+            [
+              40.3916392,
+              34.4885934,
+              0
+            ],
+            [
+              47.251152,
+              28.5309496,
+              0
+            ],
+            [
+              48.5475387,
+              28.7719763,
+              0
+            ],
+            [
+              49.360527,
+              29.4630195,
+              0
+            ],
+            [
+              51.0743942,
+              27.8434312,
+              0
+            ],
+            [
+              54.5241012,
+              26.0414671,
+              0
+            ],
+            [
+              56.5895309,
+              26.8088566,
+              0
+            ],
+            [
+              57.2487106,
+              25.4080338,
+              0
+            ],
+            [
+              62.6320113,
+              24.6115469,
+              0
+            ],
+            [
+              65.9215807,
+              24.9150464,
+              0
+            ],
+            [
+              66.5844213,
+              24.7638209,
+              0
+            ],
+            [
+              67.2930394,
+              24.0033447,
+              0
+            ],
+            [
+              68.2268773,
+              23.4552132,
+              0
+            ],
+            [
+              69.0508519,
+              24.2389799,
+              0
+            ],
+            [
+              69.8693334,
+              25.3311468,
+              0
+            ],
+            [
+              69.0508519,
+              26.5069839,
+              0
+            ],
+            [
+              69.2101537,
+              27.5589584,
+              0
+            ],
+            [
+              72.2344488,
+              29.4244606,
+              0
+            ],
+            [
+              73.9702886,
+              30.2725227,
+              0
+            ],
+            [
+              75.5172278,
+              31.384287,
+              0
+            ],
+            [
+              75.6649172,
+              32.274652,
+              0
+            ],
+            [
+              72.2046649,
+              35.3508301,
+              0
+            ],
+            [
+              71.0668821,
+              41.5524583,
+              0
+            ],
+            [
+              65.8154172,
+              40.0472589,
+              0
+            ],
+            [
+              53.7859628,
+              37.9549396,
+              0
+            ],
+            [
+              53.185538,
+              37.2341794,
+              0
+            ],
+            [
+              49.4172274,
+              37.8699991,
+              0
+            ],
+            [
+              48.90087,
+              37.2953834,
+              0
+            ],
+            [
+              47.5550448,
+              37.0064153,
+              0
+            ],
+            [
+              46.1817538,
+              38.8177998,
+              0
+            ],
+            [
+              46.8738924,
+              39.1167665,
+              0
+            ],
+            [
+              45.6434237,
+              40.2161343,
+              0
+            ],
+            [
+              45.2204501,
+              40.1447876,
+              0
+            ],
+            [
+              37.7003085,
+              39.6390322,
+              0
+            ],
+            [
+              34.8218905,
+              39.9766172,
+              0
+            ],
+            [
+              34.5996523,
+              42.2256439,
+              0
+            ],
+            [
+              33.6328554,
+              42.160527,
+              0
+            ],
+            [
+              32.6605654,
+              41.989276,
+              0
+            ],
+            [
+              31.6937685,
+              41.5714583,
+              0
+            ],
+            [
+              31.6333437,
+              41.3986248,
+              0
+            ],
+            [
+              31.5839052,
+              40.3561457,
+              0
+            ],
+            [
+              29.133954,
+              40.4230881,
+              0
+            ],
+            [
+              28.6615419,
+              40.481608,
+              0
+            ],
+            [
+              29.0076113,
+              41.064002,
+              0
+            ],
+            [
+              29.199872,
+              41.3367868,
+              0
+            ],
+            [
+              28.298638,
+              41.7263228,
+              0
+            ],
+            [
+              28.0239798,
+              42.3058445,
+              0
+            ],
+            [
+              27.9141165,
+              42.5653099,
+              0
+            ],
+            [
+              28.0789114,
+              42.8518968,
+              0
+            ],
+            [
+              28.2911913,
+              43.2367116,
+              0
+            ],
+            [
+              28.7745897,
+              43.3546543,
+              0
+            ],
+            [
+              28.9778368,
+              44.0298645,
+              0
+            ],
+            [
+              29.1179125,
+              44.437224,
+              0
+            ],
+            [
+              29.2415086,
+              44.6564554,
+              0
+            ],
+            [
+              29.8182909,
+              44.7247959,
+              0
+            ],
+            [
+              29.8402635,
+              45.0361825,
+              0
+            ],
+            [
+              28.752617,
+              45.0749873,
+              0
+            ],
+            [
+              27.9396288,
+              45.0128869,
+              0
+            ],
+            [
+              27.5551073,
+              44.0101139,
+              0
+            ],
+            [
+              19.3857798,
+              41.664837,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Extent of Alexander's Empire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.518877,
+            40.7614233,
+            0
+          ],
+          [
+            24.6888957,
+            41.0597659,
+            0
+          ],
+          [
+            25.9852824,
+            40.9436882,
+            0
+          ],
+          [
+            27.0454631,
+            40.6400963,
+            0
+          ],
+          [
+            26.474174,
+            40.3518643,
+            0
+          ],
+          [
+            26.3423381,
+            40.1590223,
+            0
+          ],
+          [
+            26.474174,
+            40.1254284,
+            0
+          ],
+          [
+            27.2429013,
+            40.2244125,
+            0
+          ],
+          [
+            27.3391609,
+            37.9387964,
+            0
+          ],
+          [
+            27.2753762,
+            37.5308475,
+            0
+          ],
+          [
+            27.6936565,
+            37.2402597,
+            0
+          ],
+          [
+            27.4262902,
+            37.0378599,
+            0
+          ],
+          [
+            28.3638225,
+            37.0958082,
+            0
+          ],
+          [
+            29.0339885,
+            36.7752842,
+            0
+          ],
+          [
+            29.319633,
+            36.5682069,
+            0
+          ],
+          [
+            29.3965373,
+            36.3649966,
+            0
+          ],
+          [
+            30.2754436,
+            36.3871104,
+            0
+          ],
+          [
+            30.5555949,
+            36.9949666,
+            0
+          ],
+          [
+            31.2147746,
+            36.8895979,
+            0
+          ],
+          [
+            31.388427,
+            36.7666458,
+            0
+          ],
+          [
+            30.5995402,
+            38.1357268,
+            0
+          ],
+          [
+            30.2534709,
+            38.0838606,
+            0
+          ],
+          [
+            30.3303752,
+            38.8023488,
+            0
+          ],
+          [
+            31.9781426,
+            39.6508509,
+            0
+          ],
+          [
+            32.8484669,
+            39.9294644,
+            0
+          ],
+          [
+            34.8842082,
+            37.4455166,
+            0
+          ],
+          [
+            34.8897014,
+            36.8983842,
+            0
+          ],
+          [
+            36.1091838,
+            37.0519805,
+            0
+          ],
+          [
+            36.1698767,
+            36.8550821,
+            0
+          ],
+          [
+            36.2794719,
+            36.6387639,
+            0
+          ],
+          [
+            36.0707317,
+            36.2764782,
+            0
+          ],
+          [
+            36.1256633,
+            34.3990725,
+            0
+          ],
+          [
+            35.1956943,
+            33.271368,
+            0
+          ],
+          [
+            34.9061809,
+            32.000021,
+            0
+          ],
+          [
+            34.4651201,
+            31.5019743,
+            0
+          ],
+          [
+            34.1700969,
+            31.0730302,
+            0
+          ],
+          [
+            32.2694621,
+            30.7431144,
+            0
+          ],
+          [
+            31.2506023,
+            29.8445833,
+            0
+          ],
+          [
+            29.9049831,
+            31.1976531,
+            0
+          ],
+          [
+            29.1493449,
+            30.6769949,
+            0
+          ],
+          [
+            27.0399699,
+            31.2704325,
+            0
+          ],
+          [
+            25.5198785,
+            29.2041831,
+            0
+          ],
+          [
+            31.2477336,
+            29.7370543,
+            0
+          ],
+          [
+            32.2804485,
+            30.6391921,
+            0
+          ],
+          [
+            34.2360149,
+            30.9506228,
+            0
+          ],
+          [
+            34.6644817,
+            31.4955304,
+            0
+          ],
+          [
+            36.3108798,
+            33.5127471,
+            0
+          ],
+          [
+            41.2219304,
+            37.0699094,
+            0
+          ],
+          [
+            43.4678148,
+            36.570753,
+            0
+          ],
+          [
+            44.4252101,
+            32.5404943,
+            0
+          ],
+          [
+            48.2602404,
+            32.1914896,
+            0
+          ],
+          [
+            49.9642378,
+            31.8681145,
+            0
+          ],
+          [
+            51.5870778,
+            30.7053323,
+            0
+          ],
+          [
+            52.8927885,
+            29.9339653,
+            0
+          ],
+          [
+            53.1745888,
+            30.1985544,
+            0
+          ],
+          [
+            48.5103476,
+            34.806854,
+            0
+          ],
+          [
+            55.0221477,
+            36.0947015,
+            0
+          ],
+          [
+            60.0319133,
+            36.0236499,
+            0
+          ],
+          [
+            62.2043753,
+            34.3574206,
+            0
+          ],
+          [
+            62.1111804,
+            32.396755,
+            0
+          ],
+          [
+            63.503593,
+            30.0228316,
+            0
+          ],
+          [
+            65.6620037,
+            31.6080338,
+            0
+          ],
+          [
+            68.4219374,
+            33.5483491,
+            0
+          ],
+          [
+            69.3105747,
+            34.9964711,
+            0
+          ],
+          [
+            69.0846477,
+            36.6343559,
+            0
+          ],
+          [
+            66.90137,
+            36.7680882,
+            0
+          ],
+          [
+            66.9842997,
+            39.667663,
+            0
+          ],
+          [
+            64.4374309,
+            39.377922,
+            0
+          ],
+          [
+            62.2731242,
+            37.6502119,
+            0
+          ],
+          [
+            62.1083293,
+            37.8760277,
+            0
+          ],
+          [
+            64.3385539,
+            39.5390871,
+            0
+          ],
+          [
+            66.9423137,
+            39.8771611,
+            0
+          ],
+          [
+            69.63315,
+            40.2659135,
+            0
+          ],
+          [
+            68.6781535,
+            40.8315626,
+            0
+          ],
+          [
+            68.8209758,
+            40.9063341,
+            0
+          ],
+          [
+            69.6888957,
+            40.3560505,
+            0
+          ],
+          [
+            69.9482761,
+            40.7276432,
+            0
+          ],
+          [
+            70.1173625,
+            40.6567674,
+            0
+          ],
+          [
+            69.732841,
+            40.18001,
+            0
+          ],
+          [
+            67.1071086,
+            39.6237609,
+            0
+          ],
+          [
+            67.1510539,
+            37.1965157,
+            0
+          ],
+          [
+            69.4142809,
+            37.1659649,
+            0
+          ],
+          [
+            69.4142375,
+            37.021286,
+            0
+          ],
+          [
+            67.1071086,
+            37.0826625,
+            0
+          ],
+          [
+            67.0302043,
+            36.8280656,
+            0
+          ],
+          [
+            69.2274699,
+            36.7224664,
+            0
+          ],
+          [
+            69.4691692,
+            34.9952225,
+            0
+          ],
+          [
+            71.5316284,
+            34.7391608,
+            0
+          ],
+          [
+            71.8095215,
+            35.1974999,
+            0
+          ],
+          [
+            72.590858,
+            34.8789536,
+            0
+          ],
+          [
+            73.6420738,
+            32.8271691,
+            0
+          ],
+          [
+            75.5427354,
+            31.9883133,
+            0
+          ],
+          [
+            75.4786906,
+            31.878821,
+            0
+          ],
+          [
+            73.6220012,
+            32.7238502,
+            0
+          ],
+          [
+            73.3805986,
+            32.5732985,
+            0
+          ],
+          [
+            72.6033159,
+            32.3461857,
+            0
+          ],
+          [
+            72.3808427,
+            32.2277681,
+            0
+          ],
+          [
+            72.1611162,
+            31.4250099,
+            0
+          ],
+          [
+            72.1830888,
+            31.1785966,
+            0
+          ],
+          [
+            72.2242876,
+            31.0680889,
+            0
+          ],
+          [
+            71.886458,
+            30.5964088,
+            0
+          ],
+          [
+            71.5870805,
+            30.4070895,
+            0
+          ],
+          [
+            71.4717241,
+            30.1770467,
+            0
+          ],
+          [
+            71.117415,
+            29.486089,
+            0
+          ],
+          [
+            71.0661491,
+            29.2354012,
+            0
+          ],
+          [
+            70.013289,
+            28.4866564,
+            0
+          ],
+          [
+            69.2607256,
+            27.8935655,
+            0
+          ],
+          [
+            68.922896,
+            27.6359475,
+            0
+          ],
+          [
+            68.5603471,
+            27.5312685,
+            0
+          ],
+          [
+            68.0275102,
+            26.633812,
+            0
+          ],
+          [
+            68.054976,
+            26.3462002,
+            0
+          ],
+          [
+            68.4614702,
+            25.8232352,
+            0
+          ],
+          [
+            68.4971757,
+            25.5361003,
+            0
+          ],
+          [
+            68.2911821,
+            24.8800611,
+            0
+          ],
+          [
+            67.9110626,
+            24.7482906,
+            0
+          ],
+          [
+            67.200789,
+            24.7379542,
+            0
+          ],
+          [
+            66.7888017,
+            25.1041077,
+            0
+          ],
+          [
+            66.5855547,
+            25.5807011,
+            0
+          ],
+          [
+            66.5416093,
+            25.6871799,
+            0
+          ],
+          [
+            66.4042803,
+            25.7725419,
+            0
+          ],
+          [
+            66.3135581,
+            26.2179185,
+            0
+          ],
+          [
+            64.6409746,
+            25.4766069,
+            0
+          ],
+          [
+            60.6639238,
+            25.5162725,
+            0
+          ],
+          [
+            57.2309663,
+            28.0918058,
+            0
+          ],
+          [
+            52.8086992,
+            29.8631344,
+            0
+          ],
+          [
+            51.4463945,
+            30.6035011,
+            0
+          ],
+          [
+            49.8533769,
+            31.731534,
+            0
+          ],
+          [
+            48.2054277,
+            32.0114326,
+            0
+          ],
+          [
+            44.4252101,
+            32.5404943,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Alexander's Route of Conquest",
+        "description": "<img src=\"https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/cf3so68ndmd4lafens0s3vgnuk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqbg0b-tQ3IIL1pb4J7m2UU8Kmw-Z6yXdijY2EZhpGm8c-4zdbcfI6brxqiont5h12qpMKq8h2Q8PBFRwcOhLsTzlTb2xLZJvv_O9Fa5_AWEJe0dHGxb9__zH5g9G2y33m6QLfB3q7SGBRYk_OB4gSYopeaI7bQpDwxWi84pycMAKsafXgco9j-R9o9yuKDpubjbBn_XpFvH8JNFx04xgZEl-PFOTN9NcU0nNkykV9QX2nu-YzgRRGbIPAs3WuaUpXhMW3D9mR_PFEokXtn0HzrxxkZpw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>",
+        "gx_media_links": "https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/cf3so68ndmd4lafens0s3vgnuk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqbg0b-tQ3IIL1pb4J7m2UU8Kmw-Z6yXdijY2EZhpGm8c-4zdbcfI6brxqiont5h12qpMKq8h2Q8PBFRwcOhLsTzlTb2xLZJvv_O9Fa5_AWEJe0dHGxb9__zH5g9G2y33m6QLfB3q7SGBRYk_OB4gSYopeaI7bQpDwxWi84pycMAKsafXgco9j-R9o9yuKDpubjbBn_XpFvH8JNFx04xgZEl-PFOTN9NcU0nNkykV9QX2nu-YzgRRGbIPAs3WuaUpXhMW3D9mR_PFEokXtn0HzrxxkZpw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5776354,
+          39.9039267,
+          0
+        ]
+      },
+      "properties": {
+        "name": "336 BC: Surrender of the Thessalians",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/988ecc2vq4i07bt1ol9t2gcogg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALp8NQP3b-KRDvVNRUYYGmsR2Q2h9FRxPnhIMMVSgrNrIhGTlKM9FjwQPcVluntpkmYtDc_IP8wNe7C7oNT6iJIWmGMrEYCjK2BptPANciZjvhQaDggN0C11QM0OxD78VS30GIwTeU04eTso-zpOWwBo1m6IcCvlu6YQCQmoZZVeR_I5D7r7297D_yepcwz8AahZHA_wVrdvDX1Bzhdbv9P3Sw0yNBG6iJ46FouQ1HV7f0P7nh92vIIJrXjbHDdgDGXsfNSsLP3LbE7sKE8lVTcPQMdRJQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>News of Philip's death roused many states into revolt, including Thebes, Athens, Thessaly, and the Thracian tribes north of Macedon. <br><br>When news of the revolts reached Alexander, he responded quickly. Though advised to use diplomacy, Alexander mustered 3,000 Macedonian cavalry and rode south towards Thessaly. He found the Thessalian army occupying the pass between Mount Olympus and Mount Ossa, and ordered his men to ride over Mount Ossa. When the Thessalians awoke the next day, they found Alexander in their rear and promptly surrendered, adding their cavalry to Alexander's force. He then continued south towards the Peloponnese.<br><br>Alexander stopped at Thermopylae, where he was recognized as the leader of the Amphictyonic League before heading south to Corinth. Athens sued for peace and Alexander pardoned the rebels. The famous encounter between Alexander and Diogenes the Cynic occurred during Alexander's stay in Corinth. When Alexander asked Diogenes what he could do for him, the philosopher disdainfully asked Alexander to stand a little to the side, as he was blocking the sunlight. This reply apparently delighted Alexander, who is reported to have said \"But verily, if I were not Alexander, I would like to be Diogenes.\" At Corinth, Alexander took the title of Hegemon (\"leader\") and, like Philip, was appointed commander for the coming war against Persia. He also received news of a Thracian uprising.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/988ecc2vq4i07bt1ol9t2gcogg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALp8NQP3b-KRDvVNRUYYGmsR2Q2h9FRxPnhIMMVSgrNrIhGTlKM9FjwQPcVluntpkmYtDc_IP8wNe7C7oNT6iJIWmGMrEYCjK2BptPANciZjvhQaDggN0C11QM0OxD78VS30GIwTeU04eTso-zpOWwBo1m6IcCvlu6YQCQmoZZVeR_I5D7r7297D_yepcwz8AahZHA_wVrdvDX1Bzhdbv9P3Sw0yNBG6iJ46FouQ1HV7f0P7nh92vIIJrXjbHDdgDGXsfNSsLP3LbE7sKE8lVTcPQMdRJQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9629716,
+          42.7138271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "335 BC: Battle of Mount Haemus",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/r7i9s6c8akduqr5dhsj9a37en8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrW4inrRRd3qWUWYZ2F6y10Xm0E4c2IbMtZeJ2XWnmlwHMC4vp9hrlwIdhtFCmZoI6VfG94lLu04hOEV_dl66Izwh6nge92bVS2PFN07-7yJkoYsxQsIsn7GIxPFcM-_4v4PWy6B1lpwkHTF6ePy5FtTIe5YRvAK2nzh_cxhaVm27nBQsCQRrbJ89HZbdyYgN7jmetegDVZSRy1_dOhoYDnANFokRByF9htOKh5sXyNfwy6SPIs8OJRQSQaAQfhPOhHwZmn1IlnTOFJ9pM4mB8gVsXPYg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Before crossing to Asia, Alexander wanted to safeguard his northern borders and, in the spring of 335 BC, he advanced into Thrace to deal with the revolt, which was led by the Illyrians and Triballi. <br><br>He was reinforced along the way by the Agriani, a Thracian tribe under the command of Alexander's friend, Langarus.<br><br> The Macedonian army marched up to Mount Haemus, where they met a Thracian garrison manning the heights. The Thracians had constructed a palisade of carts, which they intended to throw upon the approaching Macedonians. Alexander ordered his heavy infantry to march in loose formation and, when the carts were thrown, either to open the ranks or lie flat on the ground with their shields over them. The Macedonian archers shot and when the Macedonian heavy infantry reached the top of the mountain they routed the Thracians.<br><br>Meanwhile, a large Triballian army led by their king, Syrmus, advanced upon the Macedonian rear. The Triballians retreated to a gorge, where they were drawn out by Alexander's light infantry. On the open ground, they were crushed by Alexander's infantry and cavalry, leaving behind 3,000 dead. The West Thracian Triballian king Syrmus took refuge on Peuce Island in the Danube Delta when pursued by Alexander the Great.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/r7i9s6c8akduqr5dhsj9a37en8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrW4inrRRd3qWUWYZ2F6y10Xm0E4c2IbMtZeJ2XWnmlwHMC4vp9hrlwIdhtFCmZoI6VfG94lLu04hOEV_dl66Izwh6nge92bVS2PFN07-7yJkoYsxQsIsn7GIxPFcM-_4v4PWy6B1lpwkHTF6ePy5FtTIe5YRvAK2nzh_cxhaVm27nBQsCQRrbJ89HZbdyYgN7jmetegDVZSRy1_dOhoYDnANFokRByF9htOKh5sXyNfwy6SPIs8OJRQSQaAQfhPOhHwZmn1IlnTOFJ9pM4mB8gVsXPYg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4510392,
+          45.205143,
+          0
+        ]
+      },
+      "properties": {
+        "name": "335 BC: Battle of the Danube",
+        "description": "<img src=\"https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/kurjh73rlqlfrgeojbg1vps5jk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpb4KLMeth7FJI_F6JLL8yySBNuuX687ZZ5p_-GqSIEEkhxebsRHbTf_gvK3ODQnFondDkDQxgh52hWC4cIE_m0siBcINwsmsUl9NVYrAbgiXrJGUmQBROm8ytpZ9Pk4UGGndhajrHj9IbFTE31BMqtGb0-DW1kjWGli0ZfnrcoiOe-ATncupyKmnIBY3dTR5CaywwWimHxjfF-3sDV3ppVpnwB-OIIMcORuhirQ57f3xLd4MXO2W7eRN1PkMPG1EjCxx9Jd9Alzp3kSqUb9BTpLCfgjg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Alexander brought ships up the Danube to use in an assault on the island. The attempts failed due to the swift current of the river, steep banks, and fierce defense. Eventually the Macedonians abandoned their attacks on Peuce and instead crossed into the territory of the Getae.[5]<br><br>The Macedonians marched to the Danube River where they encountered the Getae tribe on the opposite shore. As Alexander's ships failed to enter the river, Alexander's army made rafts out of their leather tents. A force of 4,000 infantry and 1,500 cavalry crossed the river, to the amazement of the Getae army of 14,000 men. The Getae army retreated after the first cavalry skirmish, leaving their town to the Macedonian army.",
+        "gx_media_links": "https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/kurjh73rlqlfrgeojbg1vps5jk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpb4KLMeth7FJI_F6JLL8yySBNuuX687ZZ5p_-GqSIEEkhxebsRHbTf_gvK3ODQnFondDkDQxgh52hWC4cIE_m0siBcINwsmsUl9NVYrAbgiXrJGUmQBROm8ytpZ9Pk4UGGndhajrHj9IbFTE31BMqtGb0-DW1kjWGli0ZfnrcoiOe-ATncupyKmnIBY3dTR5CaywwWimHxjfF-3sDV3ppVpnwB-OIIMcORuhirQ57f3xLd4MXO2W7eRN1PkMPG1EjCxx9Jd9Alzp3kSqUb9BTpLCfgjg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8163456,
+          41.1432355,
+          0
+        ]
+      },
+      "properties": {
+        "name": "335 BC: Siege of Pelium",
+        "description": "<img src=\"https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/mhfk48d2evfa5r9cvebn8vcgvc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoZABDg95LO_YojZF1uIKRORWVdSosD3ebugOtWjkWfe2fy2lfOQuBUaBD_WT-fVjn8lNawvCzag8VZxvRpOicAuwYTJLDJ6uBtjhZEwvWR9GAmrMFXAGvYdVeFdqIlUyiYw0AHbuSAdt8wkBlf0he4l8XSOht5Njc1HCyasvkC1bOdMXr55tEON1ImHaeuHFJAgPWrFOLO3NNCQ2VA3CMEsPFBVXr1v9CC2UPcsZEhRZ6mZ4QWgBrtuU0_9UnUyOEG9jIYzE5etLxIdV8jplZPRb6xkw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Siege of Pelium was undertaken by Alexander the Great against the Illyrian tribes of what is modern day Albania.<br><br> It was critical for Alexander to take this pass as it provided easy access to Illyria and Macedonia, which was urgently needed in order to quell the unrest in Greece at this time in Athens and Thebes. This was an important point of demarcation in Alexander's early reign, as it established him among the Danubian tribes to the north as a serious monarch to be reckoned with, just as he would later establish this precedent for the Greek city states under his hegemony. Taking this place allowed Alexander to march his army to southern Greece quickly, which would eventually result in the total destruction of Thebes.",
+        "gx_media_links": "https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/mhfk48d2evfa5r9cvebn8vcgvc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoZABDg95LO_YojZF1uIKRORWVdSosD3ebugOtWjkWfe2fy2lfOQuBUaBD_WT-fVjn8lNawvCzag8VZxvRpOicAuwYTJLDJ6uBtjhZEwvWR9GAmrMFXAGvYdVeFdqIlUyiYw0AHbuSAdt8wkBlf0he4l8XSOht5Njc1HCyasvkC1bOdMXr55tEON1ImHaeuHFJAgPWrFOLO3NNCQ2VA3CMEsPFBVXr1v9CC2UPcsZEhRZ6mZ4QWgBrtuU0_9UnUyOEG9jIYzE5etLxIdV8jplZPRb6xkw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3203016,
+          38.3236564,
+          0
+        ]
+      },
+      "properties": {
+        "name": "335 BC: Battle of Thebes",
+        "description": "<img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fgp42kl9135it8qkfim36etnbs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALocmsFy7C9AwP8rtgeDPgxvOjMwwm2lm4wY4rJVIe1Namxl7aIIOJ1gEt81tKCqDZMWU2N_FYJZ1sD8_5amZ5KbaUWZ0a-bP4DL6EJCUCBqL7RJWydjog83wB1jRiza-seN2u5S8sNFm8PYX6xGxdBVy2AsLiZBRAXYHaPPQV3YUgebD8sWt4eru-NomiKtgVQpJV9jutEu9YIaeA379c9vyNdhqksDfBLN5GfjpOCD6N0r6aTxpmOLxVTDrbazgG8EP3zBsYnVBMMWMdgGNK8CMvkwxw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of Thebes was a battle that took place between Alexander and the Greek city state of Thebes in 335 BC immediately outside of and in the city proper. <br><br>After having been made Hegemon of the League of Corinth, Alexander had marched to the north to deal with revolts in Illyria and Thrace. The garrison in Macedonia was weakened and Thebes declared its independence. The Thebans refused to submit on merciful terms, and he assaulted the city, razed it to the ground, and sold all the survivors into slavery.<br><br>With the destruction of Thebes, mainland Greece again acquiesced in Alexander's rule. Alexander was now finally free to undertake the Persian campaign which had been planned for so long by his father.",
+        "gx_media_links": "https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fgp42kl9135it8qkfim36etnbs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALocmsFy7C9AwP8rtgeDPgxvOjMwwm2lm4wY4rJVIe1Namxl7aIIOJ1gEt81tKCqDZMWU2N_FYJZ1sD8_5amZ5KbaUWZ0a-bP4DL6EJCUCBqL7RJWydjog83wB1jRiza-seN2u5S8sNFm8PYX6xGxdBVy2AsLiZBRAXYHaPPQV3YUgebD8sWt4eru-NomiKtgVQpJV9jutEu9YIaeA379c9vyNdhqksDfBLN5GfjpOCD6N0r6aTxpmOLxVTDrbazgG8EP3zBsYnVBMMWMdgGNK8CMvkwxw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2429013,
+          40.2244125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "334 BC: Battle of the Granicus River",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/c031ete350g5481lbvutedrjso/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrVBH_M1kHx3DfMCfgXh48FY63KZWVdSFHGIipH5FHjtEfU-bDiBSg4k8e8z8Ft47MyBXpEzuvF404mQXgJCSAjvuGWVZc0CXaH6RX9LyVBCXtsiaeseAikmDxp0t220FeHAltF8DhmgD5VMsspbxYXOjKviPaxFsGSuQZ6bjwWqPQETsPpqhC4nLsHN14GBoZ9boAyqFmHXBVgXC3Y4RE_0uwLZzmURGynjE4cB3-xJR-IA2yywG-pS_4xA_ubjW8_J0n5l0n6du7H_KQ9-9m52pzBgA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of the Granicus River in May 334 BC was fought in Northwestern Asia Minor, near the site of Troy. <br><br>After crossing the Hellespont, Alexander advanced up the road to the capital of the Satrapy of Phrygia. The various satraps of the Persian empire gathered their forces at the town of Zelea and offered battle on the banks of the Granicus River. Alexander ultimately fought many of his battles on a river bank. By doing so, he was able to minimize the advantage the Persians had in numbers. In addition, the deadly Persian chariots were useless on a cramped, muddy river bank.<br><br>Arrian, Diodorus, and Plutarch all mention the battle, with Arrian providing the most detail. The Persians placed their cavalry in front of their infantry, and drew up on the right (east) bank of the river. The Macedonian line was arrayed with the heavy Phalanxes in the middle, Macedonian cavalry led by Alexander on the right, and allied Thessalian cavalry led by Parmenion on the left. The Persians expected the main assault to come from Alexander's position and moved units from their center to that flank.<br><br>Alexander's second-in-command, Parmenion, suggested crossing the river upstream and attacking at dawn the next day, but Alexander attacked immediately. He ordered a small group of cavalry and light infantry to attack from the Macedonian right to draw the Persians off the bank and into the river. Seeing that he successfully broke the Persian line, Alexander led his horse companions in oblique order further to the right in order to outflank the Persians and buy time for his infantry to cross the river. Several high-ranking Persian nobles were killed by Alexander himself or his bodyguards, although Alexander was stunned by an axe-blow from a Persian nobleman named Spithridates. Before the noble could deal a death-blow, however, he was himself killed by Cleitus the Black. The Macedonian cavalry opened a hole in the Persian line as the Macedonian infantry advanced, forcing the enemy back and eventually breaking their center. The Persian cavalry turned and fled the battlefield, and the Greek mercenary infantry they held in reserve were encircled by the Macedonians and slaughtered; only around two-thousand of which survived, and were sent back to Macedonia for labour.<br><br><img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rre7jntpi38qjhmkim1j9772h8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrz1Zw15pPeQakQSg-Qnt-0hTZacTpvvSco1S6Uuf6081QS10HhxyxaK9ZKpQl97qgIHBho2ESUxSKf0uhJZZ_mE7KCEyywEXI_HFe7cfmFcfMjAKYTt4jUBvSB2E3VzXVpY5Y6ds6TmaYVoeOO4Iun_m7lKI7hYWRW21J07WuTM7fquZkOak4zAEWzkjNKt_VaAIbfbxwy6Ir3fOOVWm-qbKsGxgFzS0e7YcGUGuX9yVFo4-Yhbz0VqPb-ZH2xNpcUsQe1AucSIR6HHt0uNdyu9FNlBg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/khoj3bg83rpsuui2p3goidq30o/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqSh3CNfnqZbz56cfx8U94n1HQphhT3nIDUYO5xb8mF43VLzYwfpKDj8Ldv3KtANRIpBKbZcKGHm2MQuT2wmwcsIASY2TBqbvBLpWjZX88qXdG4j7ktIpRQ4gYDMsvpqI3kbgYJzqvuquy9Rz9JbJVLrD-DqI79ZdakLhZSvMX4hy1qzZIZt9XWJJtY-x6JAY-TCtNCmiKeEoMS1-PqpkO6vw6_qg7D3mnN654yoyR7Go_QkH9eUcdRt2Jz88GyE_9Y_DYXGvb7V0Cg8RH6GR1iEYMBbw?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/c031ete350g5481lbvutedrjso/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrVBH_M1kHx3DfMCfgXh48FY63KZWVdSFHGIipH5FHjtEfU-bDiBSg4k8e8z8Ft47MyBXpEzuvF404mQXgJCSAjvuGWVZc0CXaH6RX9LyVBCXtsiaeseAikmDxp0t220FeHAltF8DhmgD5VMsspbxYXOjKviPaxFsGSuQZ6bjwWqPQETsPpqhC4nLsHN14GBoZ9boAyqFmHXBVgXC3Y4RE_0uwLZzmURGynjE4cB3-xJR-IA2yywG-pS_4xA_ubjW8_J0n5l0n6du7H_KQ9-9m52pzBgA?session=0&fife https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rre7jntpi38qjhmkim1j9772h8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrz1Zw15pPeQakQSg-Qnt-0hTZacTpvvSco1S6Uuf6081QS10HhxyxaK9ZKpQl97qgIHBho2ESUxSKf0uhJZZ_mE7KCEyywEXI_HFe7cfmFcfMjAKYTt4jUBvSB2E3VzXVpY5Y6ds6TmaYVoeOO4Iun_m7lKI7hYWRW21J07WuTM7fquZkOak4zAEWzkjNKt_VaAIbfbxwy6Ir3fOOVWm-qbKsGxgFzS0e7YcGUGuX9yVFo4-Yhbz0VqPb-ZH2xNpcUsQe1AucSIR6HHt0uNdyu9FNlBg?session=0&fife https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/khoj3bg83rpsuui2p3goidq30o/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqSh3CNfnqZbz56cfx8U94n1HQphhT3nIDUYO5xb8mF43VLzYwfpKDj8Ldv3KtANRIpBKbZcKGHm2MQuT2wmwcsIASY2TBqbvBLpWjZX88qXdG4j7ktIpRQ4gYDMsvpqI3kbgYJzqvuquy9Rz9JbJVLrD-DqI79ZdakLhZSvMX4hy1qzZIZt9XWJJtY-x6JAY-TCtNCmiKeEoMS1-PqpkO6vw6_qg7D3mnN654yoyR7Go_QkH9eUcdRt2Jz88GyE_9Y_DYXGvb7V0Cg8RH6GR1iEYMBbw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2753762,
+          37.5308475,
+          0
+        ]
+      },
+      "properties": {
+        "name": "334 BC: Siege of Miletus",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lk350hvbie5sluk4n2fcodj6ho/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq7GsuwCs_i0_ODRkXx44KapG_lKHuSE0fC1MAY2onpGEFQLyxXXhQFWrfqDaLiTAjSPd3r7_DAxgo7u0iQy2-13b6GX5D4do2t2ip9Q4pvZKQYJvP3fgK4azHsDW2K6JXJlH9N4zJ8L3aJBoUKEdp-OZacoxugnjbwVGbDVsCi2SPCjwNbLMgU2L3mZsQUxo92KEmFzi-1boS0n9AzXN_TxyU05eVS61WgJ58nyOo34gEE_xEGKSb6Txehq5EZr0y86FG2woiRJAchJcB50mrolJm6cw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Siege of Miletus was Alexander's first siege and naval encounter with the Achaemenid Empire. This siege was directed against Miletus, a city in southern Ionia, which is now located in the Aydın province of modern-day Turkey. It was captured by Parmenion's son, Nicanor in 334 BC.<br><br><img src=\"https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/d6b94nejbkloa6qqbo7hqe07d8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpfqnH4YFP4XW-uulssRVPQjcfk2Wz_56tOHVi2EvcBSpQzC5E1j5Bg61QymahT9lNlLgVFBaGRM-3f0pI08M7YzVNv6NiYTmhMCNlOD1v3lzk13ChJAv5YsewQdIXOlO_hwLCVg2z9VcPgrsSzHJSma-COj3yYQWQSw_WHB-qtMb2zd_QNsOLymNnAgsRWVRNo_UAzfhqY4dCzRhibEHQ_KzRUEzu9sit4XkWvHY8OggZ_VU7-ZMSewpCI-W6MQSUiBHJsd2tjceskYzzhaDkfcNeESw?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lk350hvbie5sluk4n2fcodj6ho/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq7GsuwCs_i0_ODRkXx44KapG_lKHuSE0fC1MAY2onpGEFQLyxXXhQFWrfqDaLiTAjSPd3r7_DAxgo7u0iQy2-13b6GX5D4do2t2ip9Q4pvZKQYJvP3fgK4azHsDW2K6JXJlH9N4zJ8L3aJBoUKEdp-OZacoxugnjbwVGbDVsCi2SPCjwNbLMgU2L3mZsQUxo92KEmFzi-1boS0n9AzXN_TxyU05eVS61WgJ58nyOo34gEE_xEGKSb6Txehq5EZr0y86FG2woiRJAchJcB50mrolJm6cw?session=0&fife https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/d6b94nejbkloa6qqbo7hqe07d8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpfqnH4YFP4XW-uulssRVPQjcfk2Wz_56tOHVi2EvcBSpQzC5E1j5Bg61QymahT9lNlLgVFBaGRM-3f0pI08M7YzVNv6NiYTmhMCNlOD1v3lzk13ChJAv5YsewQdIXOlO_hwLCVg2z9VcPgrsSzHJSma-COj3yYQWQSw_WHB-qtMb2zd_QNsOLymNnAgsRWVRNo_UAzfhqY4dCzRhibEHQ_KzRUEzu9sit4XkWvHY8OggZ_VU7-ZMSewpCI-W6MQSUiBHJsd2tjceskYzzhaDkfcNeESw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4262902,
+          37.0378599,
+          0
+        ]
+      },
+      "properties": {
+        "name": "334 BC: Siege of Halicarnassus",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/b97a2lvlgmfc7kdl7leorh9tcg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqTFHAukbVIl2IM2c77ve-NaOsu21jSNXfqavSFtjo43yQGLFFQe6_SddAmmwvt16qjrdQPjVl-1sOuQx6TSWVjpXUsEIBXaT73TEQ5T1rX0a4zXo3JiU7YbLE6FRnnBdc28hReod9qRd5PtWXZp-bEsqoCD14En3ekhZguNO6py0Q2ibu-KDHKQxAYqdSa31c5kg_fQFtG6914BHY4U0V_jkpuPhUewRyEVTWazeMMwpbRG8Y9fzd5Lp_kcbSs2-73tWj7hhqLWcy-RgbB3rMNDY1EDA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Siege of Halicarnassus was undertaken in 334 BC. <br><br>Alexander, who had a weak navy, was constantly being threatened by the Persian navy. It continuously attempted to provoke an engagement with Alexander, who would have none of it. Eventually, the Persian fleet sailed to Halicarnassus, in order to establish a new defense. <br><br>Ada of Caria, the former queen of Halicarnassus, had been driven from her throne by her usurping brother. When he died, Darius had appointed Orontobates satrap of Caria, which included Halicarnassus in its jurisdiction. On the approach of Alexander in 334 BC, Ada, who was in possession of the fortress of Alinda, surrendered the fortress to him. Alexander and Ada appear to have formed an emotional connection. He called her \"mother\", finding her more amicable than his megalomaniacal snake-worshiping mother Olympias. In return for his support, Ada gave Alexander gifts, and even sent him some of the best cooks in Asia Minor, realizing that Alexander had a sweet tooth.<br><br>Orontobates and Memnon of Rhodes entrenched themselves in Halicarnassus. Alexander had sent spies to meet with dissidents inside the city, who had promised to open the gates and allow Alexander to enter. When his spies arrived, however, the dissidents were nowhere to be found. A small battle resulted, and Alexander's army managed to break through the city walls. Memnon, however, now deployed his catapults, and Alexander's army fell back. Memnon then deployed his infantry, and shortly before Alexander would have received his first (and only) defeat, his infantry managed to break through the city walls, surprising the Persian forces and killing Orontobates. Memnon, realizing the city was lost, set fire to it and withdrew with his army. A strong wind caused the fire to destroy much of the city. Alexander then committed the government of Caria to Ada; and she, in turn, formally adopted Alexander as her son, ensuring that the rule of Caria passed unconditionally to him upon her eventual death.<br><br><img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ug7506m4h4567fvq68ca7oit90/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALo2f1KXnWN3YWclxzpwh6ZXJwNUyDILo0Epe7rj1QZKYxYhWVJ-OqUX8oN9lEMVQDz4hRNWrYusMVUX0J7rVFKOY-_pkvgSgfQETNCZCK5mi2LNmAY3SB8zRAGpXq-27jADqTg-AicgYhgeT1P09lAJNhHz_VhUTOKc2TsFkg2ddWlY2FnZgbIljCZAK8gbtaIxyzqvulNmUPxf66ymH7kLpyziRyMU0jYrumObCRIQNCcwJfJWCKPtt-_EOzB-mNxLgPfDC5G3i4YVoTKBA2jrJ0kT4A?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/b97a2lvlgmfc7kdl7leorh9tcg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqTFHAukbVIl2IM2c77ve-NaOsu21jSNXfqavSFtjo43yQGLFFQe6_SddAmmwvt16qjrdQPjVl-1sOuQx6TSWVjpXUsEIBXaT73TEQ5T1rX0a4zXo3JiU7YbLE6FRnnBdc28hReod9qRd5PtWXZp-bEsqoCD14En3ekhZguNO6py0Q2ibu-KDHKQxAYqdSa31c5kg_fQFtG6914BHY4U0V_jkpuPhUewRyEVTWazeMMwpbRG8Y9fzd5Lp_kcbSs2-73tWj7hhqLWcy-RgbB3rMNDY1EDA?session=0&fife https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ug7506m4h4567fvq68ca7oit90/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALo2f1KXnWN3YWclxzpwh6ZXJwNUyDILo0Epe7rj1QZKYxYhWVJ-OqUX8oN9lEMVQDz4hRNWrYusMVUX0J7rVFKOY-_pkvgSgfQETNCZCK5mi2LNmAY3SB8zRAGpXq-27jADqTg-AicgYhgeT1P09lAJNhHz_VhUTOKc2TsFkg2ddWlY2FnZgbIljCZAK8gbtaIxyzqvulNmUPxf66ymH7kLpyziRyMU0jYrumObCRIQNCcwJfJWCKPtt-_EOzB-mNxLgPfDC5G3i4YVoTKBA2jrJ0kT4A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1698767,
+          36.8550821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "333 BC: Battle of Issus",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/m03qce54fscr8b0m4vkf0uo1j8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoZ7lJ7nKpq0u4I8THEtaUP_DkhqiwW84SdGq_mdW3Ez57M-vYLfcFZOHSpbg40w7_m_s4pkksLriuI_NMg8C_yuVpuIXbghrmJVKtCGn0mBztAD6LKfkFLMq81SuO8GtuVbJkS0_T_EE4CrRihxYj5CNPvJFsMJYgSiRYbR5woZHBfZZN8IQqihtPGZpnjOaj4K9GOwbfd7q8d0SLrELsJhL7LLovC3Sm7rURY-LPeTgg6C58KU6lJeP_EBYO-WI6AXVgvpYlhQ6axvptoHwHBw5qJRw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of Issus took place in November 333 BC. <br><br>After Alexander's forces successfully defeated the Persians at the Battle of the Granicus, Darius took personal charge of his army, gathered a large army from the depths of the empire, and maneuvered to cut the Greek line of supply, requiring Alexander to countermarch his forces, setting the stage for the battle near the mouth of the Pinarus River and south of the village of Issus. Darius was apparently unaware that, by deciding to stage the battle on a river bank, he was minimizing the numerical advantage his army had over Alexander's.<br><br>Initially, Alexander chose what was apparently unfavorable ground. This surprised Darius who mistakenly elected to hold the wrong position while Alexander instructed his infantry to take up a defensive posture. Alexander personally led the more elite Greek Companion cavalry against the Persian left up against the hills, and cut up the enemy on the less encumbering terrain, thereby generating a quick rout. After achieving a breakthrough, Alexander demonstrated he could do the difficult and held the cavalry successfully in check after it broke the Persian right. Alexander then mounted his beloved horse Bucephalus, took his place at the head of his Companion cavalry, and led a direct assault against Darius. The horses that were pulling Darius' chariot were injured, and began tossing at the yoke. Darius, about to fall off his chariot, instead jumped off. He threw his royal diadem away, mounted a horse, and fled the scene. The Persian troops, realizing they had lost, either surrendered or fled with their hapless king. The Macedonian cavalry pursued the fleeing Persians for as long as there was light. As with most ancient battles, significant carnage occurred after the battle as pursuing Macedonians slaughtered their crowded, disorganized foe.<br><br>The invading troops led by Alexander were outnumbered more than 2:1, yet they defeated the army personally led by Darius III of Achaemenid Persia. The battle was a decisive Macedonian victory and it marked the beginning of the end of Persian power. It was the first time the Persian army had been defeated with the King present on the field. Darius left his wife and an enormous amount of treasure behind as his army fled. The greed of the Macedonians helped to persuade them to keep going, as did the large number of Persian concubines and prostitutes they picked up in the battle. Darius, now fearing for both his throne and his life, sent a letter to Alexander in which he promised to pay a substantial ransom in exchange for the prisoners of war, and agreeing to a treaty of alliance with and the forfeiture of half of his empire to Alexander. Darius received a response which began \"King Alexander to Darius\". In the letter, Alexander blamed Darius for his father's death and claimed Darius was but a vulgar usurper, who planned to take Macedonia. He agreed to return the prisoners without ransom, but told Darius that he and Alexander were not equals, and that Darius was to henceforth address Alexander as \"King of all Asia\". Darius was also curtly informed that, if he wanted to dispute Alexander's claim to the Achaemenid throne, that he would have to stand and fight, and that if he instead fled, Alexander would pursue and kill him. By this, Alexander revealed for the first time that his plan was to conquer the entire Persian Empire.<br><br><img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/209j0obacvtisaej9balrbej5c/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqvJunSJUqLvEuTfihOiuu0SK_wDCWAEeIwil198wEDTQoXdY0Kk-w-Nx_TmeM2xyjBKUsih6IWhAB9dhi04RysoFAjhsWEI4iWArWfjEBzlX1UliBqevmxh2cfoY_rg8E__ZIwEq56keJS2KLuDikl_ukAxiBAJ9R0VVtcglVGbguGfm_vPz6PLBu2UUvDJYRXh5v35fqVa2XzehLUCMm82jK1LO2JQmTGqJSn9svI7pQvuNO7fiyEoVhKogP5qDrCeh-NHGC5DZOFih8iLs1dR38K-A?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/m03qce54fscr8b0m4vkf0uo1j8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoZ7lJ7nKpq0u4I8THEtaUP_DkhqiwW84SdGq_mdW3Ez57M-vYLfcFZOHSpbg40w7_m_s4pkksLriuI_NMg8C_yuVpuIXbghrmJVKtCGn0mBztAD6LKfkFLMq81SuO8GtuVbJkS0_T_EE4CrRihxYj5CNPvJFsMJYgSiRYbR5woZHBfZZN8IQqihtPGZpnjOaj4K9GOwbfd7q8d0SLrELsJhL7LLovC3Sm7rURY-LPeTgg6C58KU6lJeP_EBYO-WI6AXVgvpYlhQ6axvptoHwHBw5qJRw?session=0&fife https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/209j0obacvtisaej9balrbej5c/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqvJunSJUqLvEuTfihOiuu0SK_wDCWAEeIwil198wEDTQoXdY0Kk-w-Nx_TmeM2xyjBKUsih6IWhAB9dhi04RysoFAjhsWEI4iWArWfjEBzlX1UliBqevmxh2cfoY_rg8E__ZIwEq56keJS2KLuDikl_ukAxiBAJ9R0VVtcglVGbguGfm_vPz6PLBu2UUvDJYRXh5v35fqVa2XzehLUCMm82jK1LO2JQmTGqJSn9svI7pQvuNO7fiyEoVhKogP5qDrCeh-NHGC5DZOFih8iLs1dR38K-A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1956943,
+          33.271368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "332 BC: Siege of Tyre",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/aqab0jmonjn3ni3orfqllc4vpg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqkS34vjlNvWppokrcZo5UQerlm7UJYiQBW6aUUZiQJP9EK_ODH95jzi0j2StoDOgV_x_eVTxYXZehPfl8Y44ifl2aNEFJ0NfidoD_M6YtxxFLr1NeNCdd8RjCgK4Y7lMlsdLDA_0vb6YXFdv8LAJkmobJF6rR0gRcoQ0PPqUxYF1muT6uIV9HRADpjfuxvQHFW3XfRTiK-w55g6jy_NN5KffeG8A0VUyAyM9JBtJ6zRpiDxxGrAnLLCYqqmhiYMAVOffKSbKMeenoY55PpBJklSFKWpg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Siege of Tyre occurred in 332 BC when Alexander set out to conquer Tyre, a strategic coastal base.<br><br> Tyre was the site of the only remaining Persian port that did not capitulate to Alexander. Even by this point in the war, the Persian navy still posed a major threat to Alexander. Tyre, the largest and most important city-state of Phoenicia, was located both on the Mediterranean coast as well as a nearby Island with two natural harbours on the landward side.<br><br>Alexander sent an envoy to Tyre, proposing a peace treaty, and asked to visit their city and offer sacrifices to their god Melqart. The Tyrians politely told Alexander that their town was neutral in the war, and that allowing him to offer sacrifices to Melqart would be tantamount to recognizing him as their king. Alexander considered building a causeway that would allow his army to take the town by force. His engineers didn't believe it would be possible to successfully build such a massive structure, and so Alexander sent peace envoys once more to propose an alliance. The Tyrians believed this to be a sign of weakness, and so they killed the envoys and threw their bodies over the city wall. The dissent against Alexander's plans to take the city by force disappeared, and his engineers began to design the structure. Alexander began with an engineering feat that shows the true extent of his brilliance; as he could not attack the city from sea, he built a kilometer-long causeway stretching out to the island on a natural land bridge no more than two meters deep.Alexander then constructed two towers 150 feet high and moved them to the end of the causeway. The Tyrians, however, quickly devised a counterattack. They used an old horse transport ship, filling it with dried branches, pitch, sulfur, and various other combustibles. They then lit it on fire, creating what we might call a primitive form of napalm, and ran it up onto the causeway. The fire spread quickly, engulfing both towers and other siege equipment that had been brought up.<br><br>This convinced Alexander that he would be unable to take Tyre without a navy. Fate would soon provide him with one. Presently, the Persian navy returned to find their home cities under Alexander's control. Since their allegiance was to their city, they were therefore Alexander's. He now had eighty ships. This coincided with the arrival of another hundred and twenty from Cyprus, which had heard of his victories and wished to join him. Alexander then sailed on Tyre and quickly blockaded both ports with his superior numbers. He had several of the slower galleys, and a few barges, refit with battering rams, the only known case of battering rams being used on ships. Alexander started testing the wall at various points with his rams, until he made a small breach in the south end of the island. He then coordinated an attack across the breach with a bombardment from all sides by his navy. Once his troops forced their way into the city, they easily overtook the garrison, and quickly captured the city. Those citizens that took shelter in the temple of Heracles were pardoned by Alexander. It is said that Alexander was so enraged at the Tyrians' defense and the loss of his men that he destroyed half the city. Alexander granted pardon to the king and his family, whilst 30,000 residents and foreigners taken were sold into slavery. There was a family, though, that Alexander gave a very high position in his government, but the only contact he ever had with them was when he spent the night with the wife of the household.<br><br><img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/di8ht79m3mquh3o1ue8num86q0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrtpo7BwMpHBG0xS4cOuprr2aYtSnJN03VNPvPtlFMGosUx4Xgv7TYbPUFf2c7KnntzFJA14FZG9QEs1Lk3k8_AQzuONHa1qlVB40p0i4wdYZHA3euMZLIvZwJHY3quJKIBpKdKsEiwFGJZ_4Gx19JYrMWUDD4MkEWltB9zF5BcDUCB_fhgIoicNd6chTS_KuNxkxkGan8ejXUtN8j5deCv6eb1p1Kr6pTQmwsjtPO4hGH28KIkde9AH6qafzlhd39uBkmOWY1fTm7gzY76vK4RZS39ew?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/aqab0jmonjn3ni3orfqllc4vpg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqkS34vjlNvWppokrcZo5UQerlm7UJYiQBW6aUUZiQJP9EK_ODH95jzi0j2StoDOgV_x_eVTxYXZehPfl8Y44ifl2aNEFJ0NfidoD_M6YtxxFLr1NeNCdd8RjCgK4Y7lMlsdLDA_0vb6YXFdv8LAJkmobJF6rR0gRcoQ0PPqUxYF1muT6uIV9HRADpjfuxvQHFW3XfRTiK-w55g6jy_NN5KffeG8A0VUyAyM9JBtJ6zRpiDxxGrAnLLCYqqmhiYMAVOffKSbKMeenoY55PpBJklSFKWpg?session=0&fife https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/di8ht79m3mquh3o1ue8num86q0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrtpo7BwMpHBG0xS4cOuprr2aYtSnJN03VNPvPtlFMGosUx4Xgv7TYbPUFf2c7KnntzFJA14FZG9QEs1Lk3k8_AQzuONHa1qlVB40p0i4wdYZHA3euMZLIvZwJHY3quJKIBpKdKsEiwFGJZ_4Gx19JYrMWUDD4MkEWltB9zF5BcDUCB_fhgIoicNd6chTS_KuNxkxkGan8ejXUtN8j5deCv6eb1p1Kr6pTQmwsjtPO4hGH28KIkde9AH6qafzlhd39uBkmOWY1fTm7gzY76vK4RZS39ew?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4651201,
+          31.5019743,
+          0
+        ]
+      },
+      "properties": {
+        "name": "332 BC: Siege of Gaza",
+        "description": "<img src=\"https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/osm8pmcqv9qe46i52n7ft37ou8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrhor9AzIxouGJX6NDNNtbtDII6xdzM3RCbGsteAJG9UicdO9gTd5Rh9BMpe8uMBglIa01qFuwdahN1Jeiy8IMnTp3rTxM_tWhOw35Jz3k18-_Eq5QCqqpyGmIW-5ieQlae742xlWR1VGxGDKS7tdxZU_fVK3nuarHQqyseYFfHdYJerAV2bGcGtJHRVlcitFMGEup0J63yvID-ljoceDelWqruScFozywgteNLvvelV3SHIsqYInP232HswK6leJi8dOf1GZG0AqMruoVUXcKAM6Bbfw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The stronghold at Gaza was built on a hill and was heavily fortified. The inhabitants of Gaza and their Nabataean allies did not want to lose the lucrative trade which was controlled by Gaza.<br><br>Batis, the commander of the fortress of Gaza, refused to surrender to Alexander. Though a eunuch, Batis was physically imposing and ruthless. After three unsuccessful assaults, the stronghold was finally taken by force, but not before Alexander received a serious shoulder wound. When Gaza was taken, the male population was put to the sword and the women and children were sold into slavery. According to the Roman historian Quintus Curtius Rufus, Batis was killed by Alexander in imitation of Achilles' treatment of the fallen Hector. A rope was forced through Batis's ankles, probably between the ankle bone and the Achilles tendon, and Batis was dragged alive by chariot beneath the walls of the city. Alexander, who admired courage in his enemies and might have been inclined to show mercy to the brave Persian general, was infuriated at Batis's refusal to kneel and by the enemy commander's haughty silence and contemptuous manner.<br><br>With Gaza taken, Alexander marched into Egypt. The Egyptians hated the Persians, in part because Persia considered Egypt as nothing more than a breadbasket. They welcomed Alexander as their king, placed him on the throne of the Pharaohs, giving him the crown of Upper and Lower Egypt, and named him the incarnation of Ra and Osiris. He set in motion plans to build Alexandria, and, though future tax revenues would be channeled to him, he left Egypt under the management of Egyptians, which helped to win him their support.<br><br><img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/keai5afd5g245thajk00ih8ia0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrtQ-vo87DJWdCUme10nRRtNy3i1XlfnGIgRI1d0HUiS4R_JSIJIKBxww_iKv5_4mEtIk_zu0xp1TuaRjfMtocxSxgCNS13-uqFxIkAlgJ7LjhbQw6G4GKDY0uzYdTV5475TadRjcZq1la1PpwcnI8UBbOPFmX2hoojuTuiaVlQGuf_KKmNkwZWDsnQtLKLf5ROqfopn3SSzE2lb_UNaL1clU7bLAvUQHZM452jQXeG4zhiG_rjTpGtBK3NFhT9V4rl2Eyqbh75PjpIQstNUTWcfeBxjg?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/osm8pmcqv9qe46i52n7ft37ou8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrhor9AzIxouGJX6NDNNtbtDII6xdzM3RCbGsteAJG9UicdO9gTd5Rh9BMpe8uMBglIa01qFuwdahN1Jeiy8IMnTp3rTxM_tWhOw35Jz3k18-_Eq5QCqqpyGmIW-5ieQlae742xlWR1VGxGDKS7tdxZU_fVK3nuarHQqyseYFfHdYJerAV2bGcGtJHRVlcitFMGEup0J63yvID-ljoceDelWqruScFozywgteNLvvelV3SHIsqYInP232HswK6leJi8dOf1GZG0AqMruoVUXcKAM6Bbfw?session=0&fife https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/keai5afd5g245thajk00ih8ia0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrtQ-vo87DJWdCUme10nRRtNy3i1XlfnGIgRI1d0HUiS4R_JSIJIKBxww_iKv5_4mEtIk_zu0xp1TuaRjfMtocxSxgCNS13-uqFxIkAlgJ7LjhbQw6G4GKDY0uzYdTV5475TadRjcZq1la1PpwcnI8UBbOPFmX2hoojuTuiaVlQGuf_KKmNkwZWDsnQtLKLf5ROqfopn3SSzE2lb_UNaL1clU7bLAvUQHZM452jQXeG4zhiG_rjTpGtBK3NFhT9V4rl2Eyqbh75PjpIQstNUTWcfeBxjg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4678148,
+          36.570753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "331 BC: Battle of Gaugamela",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lfppvco2c5ij3gjemmpulf4akg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqcm2TV-kOsWhogXi40Q3HD3IwUFeOwBnmDxckZwvafrkZ4wMTIwM3CTQ1oHC0OGtJsv7kMq2VdamjAL3GoFFzeWD6r3oA0_ppNQfQUAlbK65XBMKl7p3RqCZTTxS-4KfBY768gpDKWkTlWnB9WkrtwRjEpsEXbRon9ay4JTmlVQOJ6XSSopBazESFXNw3MmNJ_Lo1dVBk8Z-TjuzG4nCEq8DBuD6_Ls6bbm2MSxKy5_bC1H2fIbR405fwaGNyIhpl2kH7C-JjOyMACklKXO5ctqnx9Tw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of Gaugamela took place in 331 BC in what is now Iraqi Kurdistan, possibly near Dohuk,  and resulted in a decisive victory for the Macedonians. <br><br>After the Siege of Gaza, Alexander advanced from Syria towards the heart of the Persian empire, crossing both the Euphrates and the Tigris rivers without any opposition. Darius was building up a massive army, drawing men from the far reaches of his empire, and planned to use sheer numbers to crush Alexander. Though Alexander had conquered part of the Persian empire, it was still vast in area and in manpower reserves, and Darius could recruit more men than Alexander could dream of. Also present in the Persian army, a sign that the Persians were still very powerful, were the feared war elephants. While Darius had a significant advantage in number of soldiers, most of his troops weren't as organized as Alexander's.<br><br>The battle began with the Persians already present at the battlefield. Darius had recruited the finest cavalry from his eastern satrapies. Darius placed himself in the center with his best infantry as was the tradition among Persian kings. The Macedonians were divided into two, with the right side of the army falling under the direct command of Alexander, and the left to Parmenion. Alexander began by ordering his infantry to march in phalanx formation towards the center of the enemy line. Darius now launched his chariots, which were intercepted by the Agrianians, and quickly rendered useless. Alexander, while leading the charge, formed his units into a giant wedge, which quickly smashed right into the weakened Persian center. Darius' charioteer was killed by a spear, and chaos rang out as everyone (incorrectly) thought it was Darius who had been killed. The Persian line then collapsed, and Darius fled. Darius escaped with a small core of his forces remaining intact, although the Bactrian cavalry and Bessus soon caught up with him. The remaining Persian resistance was quickly put down. In all, the Battle of Gaugamela was a disastrous defeat for the Persians, and possibly one of Alexander's finest victories.",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lfppvco2c5ij3gjemmpulf4akg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqcm2TV-kOsWhogXi40Q3HD3IwUFeOwBnmDxckZwvafrkZ4wMTIwM3CTQ1oHC0OGtJsv7kMq2VdamjAL3GoFFzeWD6r3oA0_ppNQfQUAlbK65XBMKl7p3RqCZTTxS-4KfBY768gpDKWkTlWnB9WkrtwRjEpsEXbRon9ay4JTmlVQOJ6XSSopBazESFXNw3MmNJ_Lo1dVBk8Z-TjuzG4nCEq8DBuD6_Ls6bbm2MSxKy5_bC1H2fIbR405fwaGNyIhpl2kH7C-JjOyMACklKXO5ctqnx9Tw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9642378,
+          31.8681145,
+          0
+        ]
+      },
+      "properties": {
+        "name": "331 BC: Battle of the Uxian Defile",
+        "description": "<img src=\"https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ajqr0gt7pjh1i6iv47v7hc0g1c/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrHLyhBE2BylNpalbTdockFlsiJF_kwJo4IHd3jYBbU7i43CWNFD77KY8sT5R-tci165Xj1CtRdr2gj49o3aImXcBoMU7PsAMZWRha-VPDm4rxbXfEmz9WSqMW9jrrM3CruTxl1GoEJWuIBHvWklXzLZoxwlwZyVAMf_AqWggtMF7IKLypXP2GptWmUWz4kkoHXUhGZHpJA8p_QQxZroKh_9eh0XFC2FI2c6QQfaGAaKOjkVtwWCcit8rgDhS3AO5PNyN9hdza5ztGB0JEBoORsJoAngA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of Uxian Defile was fought by Alexander the Great against the Uxian tribe of the Persian Empire. The battle raged on the mountain range between the key Persian cities of Susa and Persepolis. <br><br>Normally, the tribes in the Persian Empire would pay tribute to the Great King, but the Persians had been unable to subdue the Uxians. As a result, whenever Persian armies wanted to use the pass for logistical purposes, they were required to pay a fee. The Uxians had sent Alexander an embassy to the effect that they expected him to pay the same tribute the Persians were required to. Alexander agreed, saying that on a given day he would follow the main road and pay the agreed upon tribute.<br><br>The Uxians had expected him to travel by the main road to pay the tribute before they let him pass. However, on that day, Alexander, with Craterus and his shield bearing guards, and 8,000 other soldiers passed by the northern road, Craterus occupying the high ground where it was assumed the Uxians would retreat as a means of last resort. He then attacked their village. After having done so, by a series of forced marches, he took the defile from the Uxians, who then retreated to Craterus' position, who quickly dispatched them.<br><br>After having attacked the village and taken the village, the main force arrived behind the Uxians. At this point the battle was over, the Uxians were entirely surrounded by the Macedonians, who put them to the sword.",
+        "gx_media_links": "https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ajqr0gt7pjh1i6iv47v7hc0g1c/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrHLyhBE2BylNpalbTdockFlsiJF_kwJo4IHd3jYBbU7i43CWNFD77KY8sT5R-tci165Xj1CtRdr2gj49o3aImXcBoMU7PsAMZWRha-VPDm4rxbXfEmz9WSqMW9jrrM3CruTxl1GoEJWuIBHvWklXzLZoxwlwZyVAMf_AqWggtMF7IKLypXP2GptWmUWz4kkoHXUhGZHpJA8p_QQxZroKh_9eh0XFC2FI2c6QQfaGAaKOjkVtwWCcit8rgDhS3AO5PNyN9hdza5ztGB0JEBoORsJoAngA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5870778,
+          30.7053323,
+          0
+        ]
+      },
+      "properties": {
+        "name": "330 BC: Battle of the Persian Gate",
+        "description": "<img src=\"https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ngqtrtomd17ir10i6549ecjt84/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrHxchSMW9tDa60nl0euh4unecVYTX3mkG3jYRBpR-7CYA_jpBmzr9KpFaDx_0fnzBfLp0Z_dTyTfJoKluUG8zyo1dO9g1PuFejTj4T3FLyUJLx9BCMOy1iV3sKWGpUnCAUxKgCgKZJlNnUNlO850mCl8JiicXRv7hawJSnSxI7gyG-vXRxDspIeUAD_9EMxfWsjUceHbvxZq-3kvPjZmd7wsmczQb6rpqBXSv4lhQrvbwuAjkOBGJYEBsuG6pHVt-hMWnvo928LuK6XUlzO6q1B7thgA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>In the winter of 330 BC, at the Battle of the Persian Gate northeast of today's Yasuj in Iran, the Persian satrap Ariobarzanes led a last stand of the Persian forces.<br><br>After the Battle of Gaugamela in present-day Iraqi Kurdistan, Alexander had advanced to Babylon and Susa. A Royal Road connected Susa with the more eastern capitals of Persepolis and Pasargadae in Persis (the Persian Empire had several \"capitals\"), and was the natural venue for Alexander's continued campaign. After the conquest of Susa, Alexander split the Macedonian army into two parts. Alexander's general, Parmenion, took one half along the Royal Road, and Alexander himself took the route towards Persis. Passing into Persis required traversing the Persian Gates, a narrow mountain pass that lent itself easily to ambush.<br><br>Believing that, after his victory over the Uxians, he would not encounter any more enemy forces during his march, Alexander neglected to send scouts ahead of his vanguard, and thus walked into Ariobarzanes' ambush. Once the Macedonian army had advanced sufficiently into the narrow pass, the Persians rained down boulders on them from the northern slopes. From the southern slope, Persian archers and catapults launched their projectiles. Alexander's army initially suffered heavy casualties, losing entire platoons at a time. Ariobarzanes had hoped that defeating Alexander at the Persian Gates would allow the Persians more time to field another army, and possibly stop the Macedonian invasion altogether.<br><br>Ariobarzanes held the pass for a month, but Alexander succeeded in encircling the Persian army and broke through the Persian defenses. The defeat of Ariobarzanes's forces at the Persian Gate removed the last military obstacle between Alexander and Persepolis. Upon his arrival at the city of Persepolis, Alexander appointed a general named Phrasaortes as successor of Ariobarzanes. Four months later, Alexander allowed the troops to loot Persepolis. A fire broke out and spread to the rest of the city. It is not clear if it had been a drunken accident, or a deliberate act of revenge for the burning of the Acropolis of Athens during the Second Greco-Persian War.",
+        "gx_media_links": "https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/ngqtrtomd17ir10i6549ecjt84/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrHxchSMW9tDa60nl0euh4unecVYTX3mkG3jYRBpR-7CYA_jpBmzr9KpFaDx_0fnzBfLp0Z_dTyTfJoKluUG8zyo1dO9g1PuFejTj4T3FLyUJLx9BCMOy1iV3sKWGpUnCAUxKgCgKZJlNnUNlO850mCl8JiicXRv7hawJSnSxI7gyG-vXRxDspIeUAD_9EMxfWsjUceHbvxZq-3kvPjZmd7wsmczQb6rpqBXSv4lhQrvbwuAjkOBGJYEBsuG6pHVt-hMWnvo928LuK6XUlzO6q1B7thgA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.63315,
+          40.2659135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "329 BC: Siege of Cyropolis",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/9n5esq04sa4ll1pjgp70hkqp0s/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqwkTXcE9tUN8ilHf4hVHbDEv7JUeWrrS1wyHaM13UHJTsnAw_wNcjCdxjwQhuLGck0ZvB5j9FNPi2aGjXGWObjLj5qTTfXcTwwIrd_G4yuWwpkh5AjZFXCMxhW5zobIr5z0Ov-Dnfu-AeMBfaK7YdXkv28uPmI4Js63x286jikTnNDh8v2Iv3m5Biz_Mn-ZYI2xH6tmkw07AahPTFtJp0cTN59MAHho1dJc-_OsvXr3fekZlxls2RmQ8T_80T8-pEe14yTa3jnR7bAk_xneZrba4XElg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Cyropolis was the largest of seven towns in the region that Alexander the Great targeted for conquest in 329 BC. His goal was the conquest of Sogdiana. <br><br>Alexander first sent Craterus to Cyropolis, the largest of the Sogdianan towns holding out against Alexander's forces. Craterus' instructions were to \"take up a position close to the town, surround it with a ditch and stockade, and then assemble such siege engines as might suit his purpose....\". The idea was to keep the inhabitants focused on their own defences and to prevent them from sending assistance out to the other towns.<br><br>Starting from Gazza, Alexander went on to conquer the other surrounding towns. Five of the seven towns were taken in two days. Many of the inhabitants were killed. Alexander then arrived at Cyropolis, which was the best fortified of the towns and had the largest population. It also had reputedly the best fighters of the region. Alexander battered Cyropolis' defences with the siege engines. While the bombardment went on, Alexander ordered certain of his troops to sneak through a dried-up water course that went under the town's wall. Alexander also joined this mission and once inside his troops opened the town's gate to admit his attacking force. Once the natives saw that the town was taken, they fell violently upon the attackers. Alexander received a violent blow from a stone that landed upon his head and neck. Craterus was wounded by an arrow, but the defenders were driven off. Arrian puts the defender's force at about 15,000 fighting men and claims that 8,000 of them were killed in the first phase of the operation. The rest apparently sought refuge inside the town's central fortress, but surrendered after one day for lack of water.<br><br>Accounts of how the battle went differ among authors. Arrian cites Ptolemy as saying Cyropolis surrendered from the start, and Arrian also states that according to Aristobulus the place was stormed and the town's inhabitants were massacred. <br><br><img src=\"https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4rtonq3iv7gdfq0d8fp0p1g5d8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoFmIeMA9OqZwCkTN7KXdsBdxbOwJFTsrv5Hy8KTdR5MqyfcbeMFHJnAaCd-9Mz3pJkiGxQJyhlxr5v3JFmgemjafSofJZpNB2EmrZtPYsapEDqPT56pxQqHsWhtVmYeFcSPQN33BG5x_7h0Ya6FCVWvz78ObKGHMwTywagYmhHpYGzRjf4tgN6JvT7AG3Xg4Eehu7Jc4RLGji4VooVt1RceYQHehV_Y4vBfsx30UPJOKXvofs9bRcTGpAxdSX6iG4n4wk3t5yH1sd9UMqyDdPy0Q9KaQ?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/9n5esq04sa4ll1pjgp70hkqp0s/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqwkTXcE9tUN8ilHf4hVHbDEv7JUeWrrS1wyHaM13UHJTsnAw_wNcjCdxjwQhuLGck0ZvB5j9FNPi2aGjXGWObjLj5qTTfXcTwwIrd_G4yuWwpkh5AjZFXCMxhW5zobIr5z0Ov-Dnfu-AeMBfaK7YdXkv28uPmI4Js63x286jikTnNDh8v2Iv3m5Biz_Mn-ZYI2xH6tmkw07AahPTFtJp0cTN59MAHho1dJc-_OsvXr3fekZlxls2RmQ8T_80T8-pEe14yTa3jnR7bAk_xneZrba4XElg?session=0&fife https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4rtonq3iv7gdfq0d8fp0p1g5d8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoFmIeMA9OqZwCkTN7KXdsBdxbOwJFTsrv5Hy8KTdR5MqyfcbeMFHJnAaCd-9Mz3pJkiGxQJyhlxr5v3JFmgemjafSofJZpNB2EmrZtPYsapEDqPT56pxQqHsWhtVmYeFcSPQN33BG5x_7h0Ya6FCVWvz78ObKGHMwTywagYmhHpYGzRjf4tgN6JvT7AG3Xg4Eehu7Jc4RLGji4VooVt1RceYQHehV_Y4vBfsx30UPJOKXvofs9bRcTGpAxdSX6iG4n4wk3t5yH1sd9UMqyDdPy0Q9KaQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6961489,
+          40.9132683,
+          0
+        ]
+      },
+      "properties": {
+        "name": "329 BC: Battles of the Jaxartes",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/gjqh2eu22toi3e11v0m9aejb9s/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrZMGHbCgQh5Xxizbj2iT9WjylA8tB_L6Qd0eiBnNbamUWkXrhGMesqMeCpW6B1J0KyBlX06-1uK7CoDe_RC7UuIx3bJPXHWN64D3l7yex4aUubKrlMcw6JOuhvlTuj0TE9TtQ9XQZ3Vlrs6X_VidIE619mtEvglWjUQsqvg7kFghZ2SjDQpoil4jgGunzYNVBa9BHVjo9w_Qg7LqQpKZL3CP4EqZ_0f_DxFTeh4zYrn63l3D8yfggq8bvX8Y0ftwLmQIGDOSNxUwEV9NqmkY5ZCNWvhA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of Jaxartes was a battle fought in 329 BC by Alexander the Great and his Macedonian army against the Saka at the River Jaxartes, now known as the Syr Darya River. The site of the battle straddles the modern borders of Uzbekistan, Tajikistan, Kyrgyzstan and Kazakhstan, just south-west of the ancient city of Tashkent (the modern capital of Uzbekistan) and north-east of Khujand (a city in Tajikistan).<br><br>The Saka were forced from the banks by the powerful catapults and siege bows. For the Macedonians, it was now easy to cross the Jaxartes. In all likelihood the Saka would normally have withdrawn at this point. However Alexander wanted to neutralise the threat to his borders from the nomad armies once and for all and was not about to let the enemy get away so easily. Therefore, as a second part of his strategy he ordered a battalion of mounted spear-men to advance and provoke an attack from the horse-lords. The nomads did not recognize this sacrifice for what it was. In their society, in which blood feuds were common, no commander would have sacrificed troops to obtain a better position for the main force. The families of those who had been killed would immediately start a vendetta. Alexander, on the other hand, could send his mounted spear-men on this dangerous mission because his men were well trained and understood that they were not really left alone.<br><br>Alexander's vanguard was immediately surrounded and attacked by the Saka mounted archers. Once they were engaged, their position was fixed and they were vulnerable to an approach by the Macedonian infantry and Alexander's cohorts of Cretan archers. The nomads found themselves caught between the Macedonian mounted spear-men and the rest of Alexander's army. The Saka tried to escape to the wings of the Macedonian lines, but there they were met by Alexander's infantry.<br><br>About 1200 Saka were surrounded and killed, including their commander, Satraces. Over 150 prisoners were taken and 1800 horses were captured. As far as the Macedonians and Greeks knew, no commander had ever been able to pin down and destroy a nomad army besides Alexander's father, Philip II. Philip had defeated the Scythian king Atheas in 340 BC. This was a boost for morale, and a psychological blow for the nomads north of the Jaxartes. Alexander's main aim, however, had never been to subdue the nomads; he wanted to go to the south, where a far more serious crisis demanded his attention. He could do so now without loss of face; and in order to make the outcome acceptable to the Saka, he released the prisoners of war without ransom. This policy was successful: the northern frontier of Alexander's empire no longer faced an immediate threat from the Eurasian nomads.<br><br><img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/21mditaejkn4ns81b4ekc4vsos/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrrAYw2OlT26CxtgZy8YgNBrJi4g2QCtjBexI_HOEXnwWZu_GaN42WHMXoMNgIAYmOka-qnNbxSLweRHyDALinWCHSey8jggxBt00iZ-kmihAimuLN29ZvePciSs8O9fpahUP9AUwdci52N5yRM0yv1Eh8FuUhzkiQoBs3lUKVr0Vsd4UvBxXttrrJTzrIYEiCYnYLRrrTdLc0AK7uizD9xVD5BQkvVW7dSJ_RQTv5Zmo1qSqL9iAcmNi1X3AEPqeLIknbowMAJEP2d-6-9owH2jSVLcg?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/gjqh2eu22toi3e11v0m9aejb9s/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrZMGHbCgQh5Xxizbj2iT9WjylA8tB_L6Qd0eiBnNbamUWkXrhGMesqMeCpW6B1J0KyBlX06-1uK7CoDe_RC7UuIx3bJPXHWN64D3l7yex4aUubKrlMcw6JOuhvlTuj0TE9TtQ9XQZ3Vlrs6X_VidIE619mtEvglWjUQsqvg7kFghZ2SjDQpoil4jgGunzYNVBa9BHVjo9w_Qg7LqQpKZL3CP4EqZ_0f_DxFTeh4zYrn63l3D8yfggq8bvX8Y0ftwLmQIGDOSNxUwEV9NqmkY5ZCNWvhA?session=0&fife https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/21mditaejkn4ns81b4ekc4vsos/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrrAYw2OlT26CxtgZy8YgNBrJi4g2QCtjBexI_HOEXnwWZu_GaN42WHMXoMNgIAYmOka-qnNbxSLweRHyDALinWCHSey8jggxBt00iZ-kmihAimuLN29ZvePciSs8O9fpahUP9AUwdci52N5yRM0yv1Eh8FuUhzkiQoBs3lUKVr0Vsd4UvBxXttrrJTzrIYEiCYnYLRrrTdLc0AK7uizD9xVD5BQkvVW7dSJ_RQTv5Zmo1qSqL9iAcmNi1X3AEPqeLIknbowMAJEP2d-6-9owH2jSVLcg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9482761,
+          40.7276432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "327 BC: Battle of the Sogdian Rock",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/qs6t6ne9ar7eka785et0arm9so/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq5ZVkWD-KCZwzNCV7Pq9XX-Ejf9-rbItTuXgeIqpS4_qv0vbMvW75TWNgYqV2GMtoqvXvmdZoXthpzYs-gigSH1ThvO0L5V1RMTlZLN5SZB_yAGWBGp70s_qhbxgY-3dnprELocKrmym5thbnmHmbnSieRo5dom5l7oYsb7ia4HjBaz4aCshEiQTFTve0IcbO6FH9Bz31eXNWXSBmUzqbUGZV6s_f-qxugG_r9tYgxASHZ4GGrrWYOsBP8pQ8tOSBDhrr2BDVqIviwoHHzT_thgKgK2w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Sogdian Rock, a fortress located north of Bactria in Sogdiana (near Samarkand), ruled by Arimazes, was captured by the forces of Alexander the Great in the early spring of 327 BC as part of his conquest of the Achaemenid Empire.<br><br>Oxyartes of Bactria had sent his wife and daughters, one of whom was Roxane, to take refuge in the fortress, as it was thought to be impregnable, and was provisioned for a long siege.<br><br>When Alexander asked the defenders to surrender, they refused, telling him that he would need \"men with wings\" to capture it.<br><br>Alexander asked for volunteers, whom he would reward if they could climb the cliffs under the fortress. There were some 300 men who from previous sieges had gained experience in rock-climbing. Using tent pegs and strong flaxen lines, they climbed the cliff face at night, losing about 30 of their number during the ascent. In accordance with Alexander's orders, they signalled their success to the troops below by waving bits of linen, and Alexander sent a herald to tell the defenders that if they looked up, they would see that he had found his winged men. The defenders were so surprised and demoralised by this that they surrendered, even though they outnumbered the mountaineers by a hundred to one and Alexander's main force still had no way to reach the summit. The defenders had thought that the Rock was impregnable, and with one bold stroke Alexander showed them how wrong they were. The enemy's quick surrender validated Alexander's insightful use of psychological warfare.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/qs6t6ne9ar7eka785et0arm9so/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq5ZVkWD-KCZwzNCV7Pq9XX-Ejf9-rbItTuXgeIqpS4_qv0vbMvW75TWNgYqV2GMtoqvXvmdZoXthpzYs-gigSH1ThvO0L5V1RMTlZLN5SZB_yAGWBGp70s_qhbxgY-3dnprELocKrmym5thbnmHmbnSieRo5dom5l7oYsb7ia4HjBaz4aCshEiQTFTve0IcbO6FH9Bz31eXNWXSBmUzqbUGZV6s_f-qxugG_r9tYgxASHZ4GGrrWYOsBP8pQ8tOSBDhrr2BDVqIviwoHHzT_thgKgK2w?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8095215,
+          35.1974999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "327-6 BC: Cophen Campaign",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/t3md7f3n75raqihlh9b1s2q7i4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqo7pLYilgvp5HA3wPPO_xy9E4M0Yp-rvHmp33qfSsbZoJub_rlApg2LCIW3cfG6bzXs_c5GyzhM7uum34rLgFDpxaZYgu9dgXT2GUiISwP66ZQI3MbNNaVoMSdbnxX8atprrBtW-BhSaHpDDVixdIc3Sn-7LNXD0I2HnuJTb078vWEjQhSy7-jbEEuWNUvY46LS2xtaUaWtfYesW1C-XD4aXTbbWcmoJAHKecRF9ZERpxUoEBxBAL5-FhC6lWsUy3AzQW1YbyOniixLv2AcYd81DWDJA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Cophen campaign was conducted by Alexander the Great in the Kabul Valley between May 327 BC and March 326 BC.<br><br> It was conducted against the Aspasioi, the Guraeans, and the Assakenoi tribes in the Kunar valley of Afghanistan, and Panjkora (Dir) and Swat valleys in what is now Khyber Pakhtunkhwa, Pakistan. Alexander's goal was to secure his line of communications so that he could conduct a campaign in India proper. To achieve this, he needed to capture a number of fortresses controlled by the local tribes.Alexander personally took command of the shield-bearing guards, foot-companions, archers, Agrianians, and horse-javelin-men and led them against the clans – the Aspasioi of Kunar valleys, the Guraeans of the Guraeus (Panjkora) valley, and the Assakenoi of the Swat and Buner valleys.<br><br>Alexander faced resistance from Hastin (or Astes), chief of the Ilastinayana (called the Astakenoi or Astanenoi) tribe, whose capital was Pushkalavati or Peukelaotis. He later defeated Asvayanas and Asvakayanas and captured their 40,000 men and 230,000 oxen. Asvakayanas of Massaga fought him under the command of their queen, Cleophis, with an army of 30,000 cavalry, 38,000 infantry, 30 elephants, and 7,000 mercenaries. Other regions that fought Alexander were Abhisara, Aornos, Bazira, and Ora or Dyrta.<br><br>A fierce contest ensued with the Aspasioi, in the course of which Alexander himself was wounded in the shoulder by a dart, but eventually the Aspasioi lost the fight; 40,000 of them were enslaved. The Assakenoi faced Alexander with an army of 30,000 cavalry, 38,000 infantry, and 30 elephants.[25] They had fought bravely and offered stubborn resistance to the invader in many of their strongholds such as the cities of Ora, Bazira, and Massaga. The fort of Massaga could only be reduced after several days of bloody fighting in which Alexander himself was wounded seriously in the ankle. When the Chieftain of Massaga fell in the battle, the supreme command of the army went to his old mother, Cleophis, who also stood determined to defend her motherland to the last extremity. The example of Cleophis assuming the supreme command of the military also brought the entire population of women of the locality into the fighting. Alexander was only able to reduce Massaga by resorting to political strategem and actions of betrayal. According to Curtius: \"Not only did Alexander slaughter the entire population of Massaga, but also did he reduce its buildings to rubbles\". A similar slaughter then followed at Ora, another stronghold of the Assakenoi.",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/t3md7f3n75raqihlh9b1s2q7i4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqo7pLYilgvp5HA3wPPO_xy9E4M0Yp-rvHmp33qfSsbZoJub_rlApg2LCIW3cfG6bzXs_c5GyzhM7uum34rLgFDpxaZYgu9dgXT2GUiISwP66ZQI3MbNNaVoMSdbnxX8atprrBtW-BhSaHpDDVixdIc3Sn-7LNXD0I2HnuJTb078vWEjQhSy7-jbEEuWNUvY46LS2xtaUaWtfYesW1C-XD4aXTbbWcmoJAHKecRF9ZERpxUoEBxBAL5-FhC6lWsUy3AzQW1YbyOniixLv2AcYd81DWDJA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.590858,
+          34.8789536,
+          0
+        ]
+      },
+      "properties": {
+        "name": "326 BC: Siege of Aornos",
+        "description": "<img src=\"https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/9cvg8tmpd3frg3ha1ipni0a0no/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpp9VtWFGYnq8MIv37eXAxl38Y4VzE4EShc3hK4AlE22yYpHJXhZTfyfsSq9pT8LAhWxnSGctq5HGXVm1gy0JRwhPz55jLb4L9VpyymTYHv0LqVRy3FT_PgQOoPb6RISHlX3IpvLKW4HulUwdW54AfivPKkoJa7tVEUexYIwWpqqYc54o5ObdpNl_xOxCUNKM-B1e5sT-DOxXmhWxC7rlIGcnY7jnwW32D0LwkFEemFmvnT6aRBVWLBHZDipZIsimUdqcREKodyAAu4sOHeClkiaKrh5A?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>In the aftermath of general slaughter and arson committed by Alexander at Massaga and Ora, numerous Assakenians fled to a high fortress called Aornos (not definitely identified but somewhere between Shangla, in Swat, and the Kohistan region, both in northern Pakistan). <br><br>Alexander followed close behind their heels and besieged the strategic hill-fort. The Siege of Aornos was Alexander's last siege, \"the climax to Alexander's career as the greatest besieger in history\", according to Robin Lane Fox. The siege took place in April 326 BC. It presented the last threat to Alexander's supply line, which stretched, dangerously vulnerable, over the Hindu Kush back to Balkh, though Arrian credits Alexander's heroic desire to outdo his kinsman Heracles, who allegedly had proved unable to take the place Pir-Sar, which the Greeks called Aornis. The site lies north of Attock in what is now the Punjab, Pakistan, on a strongly reinforced mountain spur above the narrow gorges in a bend of the upper Indus. Neighboring tribesmen who surrendered to Alexander offered to lead him to the best point of access.<br><br>At the vulnerable north side leading to the fort, Alexander and his catapults were stopped by a deep ravine. To bring the siege engines within reach, an earthwork mound was constructed to bridge the ravine. A low hill connected to the nearest tip of Pir-Sar was soon within reach and taken. Alexander's troops were at first repelled by boulders rolled down from above. Three days of drumbeats marked the defenders' celebration of the initial repulse, followed by a surprise retreat. Hauling himself up the last rockface on a rope, Alexander cleared the summit, slaying some fugitives – inflated by Arrian to a massacre – and erected altars to Athena Nike, Athena of Victory, traces of which were identified by Stein. Sisikottos, or Saśigupta, who had helped Alexander in this campaign, was made the governor of Aornos.",
+        "gx_media_links": "https://doc-04-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/9cvg8tmpd3frg3ha1ipni0a0no/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpp9VtWFGYnq8MIv37eXAxl38Y4VzE4EShc3hK4AlE22yYpHJXhZTfyfsSq9pT8LAhWxnSGctq5HGXVm1gy0JRwhPz55jLb4L9VpyymTYHv0LqVRy3FT_PgQOoPb6RISHlX3IpvLKW4HulUwdW54AfivPKkoJa7tVEUexYIwWpqqYc54o5ObdpNl_xOxCUNKM-B1e5sT-DOxXmhWxC7rlIGcnY7jnwW32D0LwkFEemFmvnT6aRBVWLBHZDipZIsimUdqcREKodyAAu4sOHeClkiaKrh5A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6420738,
+          32.8271691,
+          0
+        ]
+      },
+      "properties": {
+        "name": "326 BC: Battle of the Hydaspes",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/huqi4h96itov5tavm09be564gg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrXEK8MmGkwrTCmWt_1ZWb6SrwaD2qi3acAirEcH3GWRfgmrGFnzTDxK71Kufr5nWvjiMoMQQmbXUkS2A50TP87jO4kJhaMNmWOeA-9_i3mTjJSMpTm_ZEKR_cVq5R20lbz8IZJWC7V7TgxFbJbNHDyY0CJauYPLjktrIzKyqyoFwPqGRSTk1bGzYQk9H0t5NI_A-8KKoXIpJkwa9dp4nQJ8Of3mmXwCkpymMzSZkIDu9HM84yNk9nkeJzk-7xlzowp7-KS_wiTd_Q-RAFtoL7leP1QEg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>The Battle of the Hydaspes was fought in 326 BC between Alexander the Great and King Porus of the Paurava kingdom on the banks of the Jhelum River (known to the Greeks as Hydaspes) in the Punjab region of the Indian subcontinent. The battle resulted in a Greek victory and the surrender of Porus. Large areas of the Punjab between the Hydaspes (Jhelum) and Hyphasis (Beas) rivers were absorbed into the Alexandrian Empire, and Porus was reinstated as a subordinate ruler.<br><br>Alexander's decision to cross the monsoon-swollen river despite close Indian surveillance, in order to catch Porus's army in the flank, has been referred to as one of his \"masterpieces\". Although victorious, it was also the most costly battle fought by the Macedonians. The resistance put up by King Porus and his men won the respect of Alexander, who asked Porus to become one of his satraps.<br><br>The battle is historically significant for opening up the Indian subcontinent to Ancient Greek political (Seleucid, Greco-Bactrian, Indo-Greek) and cultural influences (Greco-Buddhist art), which continued to have an impact for many centuries.<br><br>Alexander had to subdue King Porus in order to keep marching east. To leave such a strong opponent at his flanks would have endangered any further exploits. Alexander could not afford to show any weakness if he wanted to keep the loyalty of the already subdued Indian princes. Porus had to defend his kingdom and chose the perfect spot to check Alexander's advance. Although he lost the battle, he became the most successful recorded opponent of Alexander. According to historian Peter Green, Porus's performance in the battle out-classed both Memnon of Rhodes and Spitamenes.<br><br><img src=\"https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/mcal3ddjh91pcpl5fopj80redk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALorXWmUiK460j3NiqC2qAXqq2LwQBIOBTt84TCbN4ULbHcs3sk8gtNWcJ9ZZlcrndPGAzZRVxtaOnFLxo8V76HMBL8OmCv8i9gG_V0mj6wrPx9Ew0LXIO13MolCV78A3HnEXlMgmg9iYDCmfMf-IXUHk3sQnkCPyXxw4QHKAuToPH4IjIi3VQ-UVVbOV-0Y6JCeSygrAzKhcVH0IA8XU66vD_EW7yv4xl0gCLgK6mp-DNcrqY7nYvR-gtjj-q8jgzKnOmEUjq2jMZHp4xTNGBoebnyBCA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/pthr3ujdglj5u7nukp2p7n8meg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoBCJpNRYVbBfQ-JPZrjR9G4WjsnzjpVrQJlYPoXMYs7AU_0KNvJFzPUwvs1BwHcSSOsaYY1rXmyIMc0CE8dWVsV5QTpwDx0rm1qqJ7LfLuMqN-EBTPpCU7e3M-Vz4lSaRfJ6zGk9EGY499OG3bvNOKNvNNl9-swpSYQva1HRZ6WkRoI6hUr88Kel2u-HyEsvtTGWXLiMnYKG43r-ZMmp87KtsO02eHH5M28m0yw5f73r9sHkQFyL31kTRkFaCEIdEuJ1BXUTL7fNpsZYoWQiGLbzleYg?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/huqi4h96itov5tavm09be564gg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrXEK8MmGkwrTCmWt_1ZWb6SrwaD2qi3acAirEcH3GWRfgmrGFnzTDxK71Kufr5nWvjiMoMQQmbXUkS2A50TP87jO4kJhaMNmWOeA-9_i3mTjJSMpTm_ZEKR_cVq5R20lbz8IZJWC7V7TgxFbJbNHDyY0CJauYPLjktrIzKyqyoFwPqGRSTk1bGzYQk9H0t5NI_A-8KKoXIpJkwa9dp4nQJ8Of3mmXwCkpymMzSZkIDu9HM84yNk9nkeJzk-7xlzowp7-KS_wiTd_Q-RAFtoL7leP1QEg?session=0&fife https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/mcal3ddjh91pcpl5fopj80redk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALorXWmUiK460j3NiqC2qAXqq2LwQBIOBTt84TCbN4ULbHcs3sk8gtNWcJ9ZZlcrndPGAzZRVxtaOnFLxo8V76HMBL8OmCv8i9gG_V0mj6wrPx9Ew0LXIO13MolCV78A3HnEXlMgmg9iYDCmfMf-IXUHk3sQnkCPyXxw4QHKAuToPH4IjIi3VQ-UVVbOV-0Y6JCeSygrAzKhcVH0IA8XU66vD_EW7yv4xl0gCLgK6mp-DNcrqY7nYvR-gtjj-q8jgzKnOmEUjq2jMZHp4xTNGBoebnyBCA?session=0&fife https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/pthr3ujdglj5u7nukp2p7n8meg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoBCJpNRYVbBfQ-JPZrjR9G4WjsnzjpVrQJlYPoXMYs7AU_0KNvJFzPUwvs1BwHcSSOsaYY1rXmyIMc0CE8dWVsV5QTpwDx0rm1qqJ7LfLuMqN-EBTPpCU7e3M-Vz4lSaRfJ6zGk9EGY499OG3bvNOKNvNNl9-swpSYQva1HRZ6WkRoI6hUr88Kel2u-HyEsvtTGWXLiMnYKG43r-ZMmp87KtsO02eHH5M28m0yw5f73r9sHkQFyL31kTRkFaCEIdEuJ1BXUTL7fNpsZYoWQiGLbzleYg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9049831,
+          31.1976531,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/gbniissphq9kolrm0eeelgp4u0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpJyAJwZnXiApJ42ZRv29EFWITxcwKpeU_yyfEC94V7vxb0kppyU86hKENbB_jE0bdEfZrZe7dX6FpAMjaSvSZQDoHju4rmcYPEjbWtoPXtarKJ7SsywD-LDGYnBHa4MY4hMUea7Oazcr6ILVKSPoCEVNUgfTpB78-8KvJBd9F0rgLZ6h4zhtq3XsqVblvbubp9R3Kxz_rJ99Gbx13thj39yNzJOjThmD9uvbATr97iMOeLArDl2n77sUCGp4U3QpogVLPvAmqb2bqCEpLTWt0s5Lv7Tg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Alexandria, Egypt.<br><br>Alexandria was founded by Alexander the Great in April 331 BC as Ἀλεξάνδρεια (Alexandreia). Passing through Egypt, Alexander wanted to build a large Greek city on Egypt's coast that would bear his name. He chose the site of Alexandria, envisioning the building of a causeway to the nearby island of Pharos that would generate two great natural harbours. Alexandria was intended to supersede the older Greek colony of Naucratis as a Hellenistic center in Egypt, and to be the link between Greece and the rich Nile valley. A few months after the foundation, Alexander left Egypt and never returned to the city during his life.<br><br>After Alexander's departure, his viceroy Cleomenes continued the expansion. The architect Dinocrates of Rhodes designed the city, using a Hippodamian grid plan. Following Alexander's death in 323 BC, his general Ptolemy Lagides took possession of Egypt and brought Alexander's body to Egypt with him. Ptolemy at first ruled from the old Egyptian capital of Memphis. In 322/321 BC he had Cleomenes executed. Finally, in 305 BC, Ptolemy declared himself Pharaoh as Ptolemy I Soter (\"Saviour\") and moved his capital to Alexandria.<br><br>Although Cleomenes was mainly in charge of overseeing Alexandria's early development, the Heptastadion and the mainland quarters seem to have been primarily Ptolemaic work. Inheriting the trade of ruined Tyre and becoming the centre of the new commerce between Europe and the Arabian and Indian East, the city grew in less than a generation to be larger than Carthage. In a century, Alexandria had become the largest city in the world and, for some centuries more, was second only to Rome. It became Egypt's main Greek city, with Greek people from diverse backgrounds.",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/gbniissphq9kolrm0eeelgp4u0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpJyAJwZnXiApJ42ZRv29EFWITxcwKpeU_yyfEC94V7vxb0kppyU86hKENbB_jE0bdEfZrZe7dX6FpAMjaSvSZQDoHju4rmcYPEjbWtoPXtarKJ7SsywD-LDGYnBHa4MY4hMUea7Oazcr6ILVKSPoCEVNUgfTpB78-8KvJBd9F0rgLZ6h4zhtq3XsqVblvbubp9R3Kxz_rJ99Gbx13thj39yNzJOjThmD9uvbATr97iMOeLArDl2n77sUCGp4U3QpogVLPvAmqb2bqCEpLTWt0s5Lv7Tg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0661491,
+          29.2354012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria ad Indum",
+        "description": "<img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fjahle2uhsirk33t3u7uki1uok/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrEDENRMpMf8eyRI-jgXaRRbhVAQs1oGBIcFDUFbY25w-afB8_V4Uy3ue64yzgdFgoUC3JivJ_rZRP_rgqPQV0wtOdDcjUWcHYf4Tm77c0TEvovWcWuj2qGmQz3efrOzQ9mryvvbDFlzx-5EeopsQA5xJymBmzvB1oT7HecYcJtbSsptJo0SvA8zPh1tMWU5oA2GLR9Sl91j07TtBor9NDzQIaoHfH2pK32Dliium-8sXoLencuieJxX0Jlhx-bIMdN6iO9LNm462K4i5Ahw9znS-STJg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Uch, Pakistan.<br><br>Alexandria on the Indus (Greek: Ἀλεξάνδρεια η εν Ἰνδός, likely modern Uch, Pakistan) was a city founded by Alexander the Great at the junction of the Indus and the Acesines river. Arrian tells that colonists, mainly Thracian veterans and natives, were settled there.",
+        "gx_media_links": "https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fjahle2uhsirk33t3u7uki1uok/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrEDENRMpMf8eyRI-jgXaRRbhVAQs1oGBIcFDUFbY25w-afB8_V4Uy3ue64yzgdFgoUC3JivJ_rZRP_rgqPQV0wtOdDcjUWcHYf4Tm77c0TEvovWcWuj2qGmQz3efrOzQ9mryvvbDFlzx-5EeopsQA5xJymBmzvB1oT7HecYcJtbSsptJo0SvA8zPh1tMWU5oA2GLR9Sl91j07TtBor9NDzQIaoHfH2pK32Dliium-8sXoLencuieJxX0Jlhx-bIMdN6iO9LNm462K4i5Ahw9znS-STJg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1466071,
+          36.5688075,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria ad Issum",
+        "description": "Iskenderun, Turkey.<br><br>İskenderun preserves the name, but probably not the exact site, of Alexandria ad Issum. The settlement was founded by Alexander the Great in 333 BC to supersede Myriandus as the key to the Syrian Gates, about 37 km (23 miles) south of the scene of his victory at the Battle of Issus. <br><br>Alexander camped in the highlands of İskenderun, around Esentepe, and then ordered the city to be established and named Alexandria. İskenderun is one of many cities founded on Alexander's orders, including Alexandria, Egypt. A memorial, a monument and a bronze statue for the victory raised at the city, and Herodian writes that they were there even at his time."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8293628,
+          37.5587682,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria ad Latmum",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/os3kuttrjadevn6sjha6v1q340/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrlhK3BcjZcFVisPLdVAmB-NGOS_A-dkQFqQZmM120BPfuEHW7tW7EBj3etRBusc-4GD3NXcS7yVH00mtRad1QMxE4dRI6MK-M84S5KVpxnOQqgm2ghVj5TDhSYCvdq2yxVNNOnB-hNubB_DgRGlwpMROIwwN04LSpl2ZMUqFIm9giDkONrCHK5MHEGtUtaKsPRKSks0TvUY_rpcL5-Jaa_BOwZUxwZYCFZyVD9jSqVeX9Hs-P2rrAhHPSYZilG0DtrhzPZDpOrXK3JxEze-LJrwVQ2yA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Alinda, Turkey.<br><br>Alinda has perhaps been an important city since the second millennium BC and has been associated with Ialanti that appear in Hittite sources. It was a member of the Delian League.<br><br>It was this fortress which was held by the exiled Carian Queen Ada. She greeted Alexander the Great here in 334 BC. When Alexander captured Caria, he granted Ada to be the ruler of the whole region.<br><br>The city was apparently renamed \"Alexandria by the Latmos\" (Greek: Αλεξάνδρεια στη Λάτμο) shortly afterwards, and was recorded as thus by Stephanus of Byzantium, although sources disagree as to the exact location of the settlement of that name. The prior name of Alinda was restored by 81 BC at the latest. It appears as \"Alinda\" in Ptolemy's Geographia (Book V, ch. 2) of the 2nd century AD.",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/os3kuttrjadevn6sjha6v1q340/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrlhK3BcjZcFVisPLdVAmB-NGOS_A-dkQFqQZmM120BPfuEHW7tW7EBj3etRBusc-4GD3NXcS7yVH00mtRad1QMxE4dRI6MK-M84S5KVpxnOQqgm2ghVj5TDhSYCvdq2yxVNNOnB-hNubB_DgRGlwpMROIwwN04LSpl2ZMUqFIm9giDkONrCHK5MHEGtUtaKsPRKSks0TvUY_rpcL5-Jaa_BOwZUxwZYCFZyVD9jSqVeX9Hs-P2rrAhHPSYZilG0DtrhzPZDpOrXK3JxEze-LJrwVQ2yA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4142809,
+          37.1659649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria ad Oxum",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4j5idseg3j840gjjn0h2ln01q8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoRcCS0mnESMXD56gw3rWsPM1VHWply4NKv-pxGevXyoXwR7nhBcxb4gpLlexUx3gBvfek-cffaeRJlhqfIeiR-zY_jL_NwkyJZUTmL41m6InURLBvwEMLX0yCvJVCVjs7Wzkc0Wmfk6YmAPsHMLY36pEt3pNXGg3_r6WCBrW4_OXrw68BWOgzFHVRGquL1cGfn28iQWclyEHfZMyv7alGzVuTENHiJWaUahiQ8i9VrgH4OyC9ZoQJj76Gm-WUNPIWsYu_FUYYIlGwuPauswcIXyjDFNw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Ai Khanoum, Afghanistan.<br><br>Ai-Khanoum was possibly the historical Alexandria on the Oxus (Greek: Ἀλεξάνδρεια ἡ ἐπὶ τοῦ Ώξου), possibly later named Eucratidia,  was one of the primary cities of the Greco-Bactrian Kingdom from circa 280 BC, and of the Indo-Greek kings when they ruled both in Bactria and northwestern India, from the time of Demetrius I (200-190 BC) to the time of Eucratides (170–145 BC).<br><br><img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/hamucemnn8l1gh4ljpsc7usqsg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoyLBAnwhH0HqVa8855yIQZpE_qquJXWHiZhwpeBupCRzHWrn4YQCy0aiiZch9fb74EfaVQzZ5_qwjVTVjEiDzleHWi6xMxaenJgJsrnZgCxqcmEo01zrKcWkTrOakv5d8f5VwVeYTsoNrK_gsKeNKU6lFH0guYSWrC-Pbm01ywBGP5RjJgFLNWkjLtlfKX9gDPKBF5toCJcgVpz67_xh62zIh57Auj2y4DFbkccHbIMTXFC3-0DXWENa2unc0OD8pshk6A6UUBFScxlWp58A1Dx1uqpQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/2qmhhk375qq394kg5h6a68nisg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpEyTIjNFeyBfWFCgKolZEuu0oGlTYk-DTtS8BLCwUB8R7hN5vyvXvq7PsaMHUyNA-1o-SNbg2YGLFtuxQr0NK13tS1BpeWZ0TnFemA_88CdUYa7Lll74Ixqb6njGm32koiW7Kan24dJr0RyeBDRueX5vhcLta0jRF3QSgzt8Ew2lCaXGukf41P3RnZ3Y7BU9R4tRfSa3FAHZiS2oDg9zdfWvpHffJkSxUZEeq-UXPsdYhhJIsnw2MYl7YdXKiHrsyT4UXfAXnKAzAhqoGmv_iTkh8VAw?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4j5idseg3j840gjjn0h2ln01q8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoRcCS0mnESMXD56gw3rWsPM1VHWply4NKv-pxGevXyoXwR7nhBcxb4gpLlexUx3gBvfek-cffaeRJlhqfIeiR-zY_jL_NwkyJZUTmL41m6InURLBvwEMLX0yCvJVCVjs7Wzkc0Wmfk6YmAPsHMLY36pEt3pNXGg3_r6WCBrW4_OXrw68BWOgzFHVRGquL1cGfn28iQWclyEHfZMyv7alGzVuTENHiJWaUahiQ8i9VrgH4OyC9ZoQJj76Gm-WUNPIWsYu_FUYYIlGwuPauswcIXyjDFNw?session=0&fife https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/hamucemnn8l1gh4ljpsc7usqsg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoyLBAnwhH0HqVa8855yIQZpE_qquJXWHiZhwpeBupCRzHWrn4YQCy0aiiZch9fb74EfaVQzZ5_qwjVTVjEiDzleHWi6xMxaenJgJsrnZgCxqcmEo01zrKcWkTrOakv5d8f5VwVeYTsoNrK_gsKeNKU6lFH0guYSWrC-Pbm01ywBGP5RjJgFLNWkjLtlfKX9gDPKBF5toCJcgVpz67_xh62zIh57Auj2y4DFbkccHbIMTXFC3-0DXWENa2unc0OD8pshk6A6UUBFScxlWp58A1Dx1uqpQ?session=0&fife https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/2qmhhk375qq394kg5h6a68nisg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpEyTIjNFeyBfWFCgKolZEuu0oGlTYk-DTtS8BLCwUB8R7hN5vyvXvq7PsaMHUyNA-1o-SNbg2YGLFtuxQr0NK13tS1BpeWZ0TnFemA_88CdUYa7Lll74Ixqb6njGm32koiW7Kan24dJr0RyeBDRueX5vhcLta0jRF3QSgzt8Ew2lCaXGukf41P3RnZ3Y7BU9R4tRfSa3FAHZiS2oDg9zdfWvpHffJkSxUZEeq-UXPsdYhhJIsnw2MYl7YdXKiHrsyT4UXfAXnKAzAhqoGmv_iTkh8VAw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.2043753,
+          34.3574206,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Ariana",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/a3pm6i6ghaum8v1f1ufc5i9b98/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALo9NWUlLOCObvoXSwq-UZamobjO1_uqFORHnXFiZ0-dsgLlCpa3VaF0z4w7qEuvW_MFlmVu7mUgTLopH07lpeD-EucB7DcJUo58Zt5S_IcJLwCCsWHNTQjGPjoVoc4zg3DhgdG91LuQxAc2riwfe5kctl1HiEzMDOvr9X3SRAG-Whfa24lR5xYRM0g-wZkNOZOLKDlcdfAyilZCy_iY7FvkpjD28TG6ypY1vPdzs5DiKnRqYQcscJdsI6IfhudNDEA_l6xFK8nsUfLlJk0Pg0gqikJFqw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Herat, Afghanistan.<br><br>The first of many Alexandrias in the Far East of the Macedonian Empire, Alexandria in Ariana was a city in what is now Afghanistan, one of the twenty-plus cities founded or renamed by Alexander the Great. The third largest Afghan city, Herat, is the city's modern name.<br><br>In 330 BC, the Greek armies of Alexander moved the capital of the satrapy of Aria from Artacoana to the new site. In doing this, he expanded an existing Persian fortress.",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/a3pm6i6ghaum8v1f1ufc5i9b98/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALo9NWUlLOCObvoXSwq-UZamobjO1_uqFORHnXFiZ0-dsgLlCpa3VaF0z4w7qEuvW_MFlmVu7mUgTLopH07lpeD-EucB7DcJUo58Zt5S_IcJLwCCsWHNTQjGPjoVoc4zg3DhgdG91LuQxAc2riwfe5kctl1HiEzMDOvr9X3SRAG-Whfa24lR5xYRM0g-wZkNOZOLKDlcdfAyilZCy_iY7FvkpjD28TG6ypY1vPdzs5DiKnRqYQcscJdsI6IfhudNDEA_l6xFK8nsUfLlJk0Pg0gqikJFqw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2309663,
+          28.0918058,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Carmania",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/5e1b3t0ppjd3fli2smbrhh3scg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqKHTdVxxmi38W5VDH8M18KZqmO4ZFdCox9o1fpHsJCF5-ww0I01p6cXE065qCQfC_QTLPw8zCfake6mm6PJN5DPOxnm2EOM8iXwakAIZsUL5txZwh6M_HFeIVviMVi2urSP71XkgXzg-IlrHWrZNZt98p0s4eFJWyGwkLLKdkXYJB3OM6b57ZI6FdSIYnMcyYs6xbMkiG462s9dfngq_qRAs0SwBMVqJu24rKxzzEkssYKa06cuVX3KwIstcreHvOnF8d9zE_rjIjnbFu2IWpDRE_Icg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Faryab, Iran.<br><br>Alexandria Carmania (Greek: Αλεξάνδρεια η εν Καρμανία) was one of the seventy-plus cities founded or renamed by Alexander the Great.<br><br>The town was founded by Alexander in January 324 BC after his army had reunited with Nearchus and his men who had beached their boats near the mouth of the Minab River.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/5e1b3t0ppjd3fli2smbrhh3scg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqKHTdVxxmi38W5VDH8M18KZqmO4ZFdCox9o1fpHsJCF5-ww0I01p6cXE065qCQfC_QTLPw8zCfake6mm6PJN5DPOxnm2EOM8iXwakAIZsUL5txZwh6M_HFeIVviMVi2urSP71XkgXzg-IlrHWrZNZt98p0s4eFJWyGwkLLKdkXYJB3OM6b57ZI6FdSIYnMcyYs6xbMkiG462s9dfngq_qRAs0SwBMVqJu24rKxzzEkssYKa06cuVX3KwIstcreHvOnF8d9zE_rjIjnbFu2IWpDRE_Icg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6216737,
+          32.8383514,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Bucephala",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/e04pvrib50kenhi7gihjrjgnbg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALosxueYfoznAC0-z3x_BG0Gszlnvaa-fafHdtEy088LWxdDESdze4GnjDo4LxwZvgXZtrijHqlBZBzd-1ehn4UWFeOXJ5eJ3D_WyV1-4NIW1k6y5-NPt07a-bYFqMI1e2cdD_iAzraQFRZBFxtfVQOb2JnHLET1GtRyVlHO6419Bf66Nf_-2r73QiHDAvMoMUnaJMyYq5jWyTnSAdvj116lroSP5fmmX3JBhk_EuxjMLUfYxn9Os77husUsX5UjclIFuw9nmKjCBnBrbKlrWiJ2vuM7uw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Punjab.<br><br>Alexandria Bucephala was a city founded by Alexander the Great in memory of his beloved horse Bucephalus.<br><br>Founded in May 326 BC, the town was located on the Hydaspes (Jhelum River), east of the Indus River. Bucephalus had died after the Battle of the Hydaspes in 326 BC. The garrison was settled with Greek and Iranian veterans and Pauravas locals. It had large dockyards, suggesting it was intended as a center of commerce.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/e04pvrib50kenhi7gihjrjgnbg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALosxueYfoznAC0-z3x_BG0Gszlnvaa-fafHdtEy088LWxdDESdze4GnjDo4LxwZvgXZtrijHqlBZBzd-1ehn4UWFeOXJ5eJ3D_WyV1-4NIW1k6y5-NPt07a-bYFqMI1e2cdD_iAzraQFRZBFxtfVQOb2JnHLET1GtRyVlHO6419Bf66Nf_-2r73QiHDAvMoMUnaJMyYq5jWyTnSAdvj116lroSP5fmmX3JBhk_EuxjMLUfYxn9Os77husUsX5UjclIFuw9nmKjCBnBrbKlrWiJ2vuM7uw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6950249,
+          40.2566864,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Eschate",
+        "description": "<img src=\"https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/sds4qebma7otrsv31puof8g0ro/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpUK3K_lbknejgYT9JQhZKtQxduiMYvWk9q5wcK2e0QLsaHhHktnnArW7bWXSoZhUj_XvEP0OuHaQtiLrZ7JZJpNgytKl3OD2w4TImXda0S5LiFh09yJzsdshpxqb5mvPm3OvzBQ47bOw_4t16JB_Pu_FhlbzTvTgBMeSoSjR3vcWf9Rg456wfDUPeo6gzciAKumoUGMizGDza5CxtyUHf0ePam3HXd6Ig8yIUWM_K1S55j-d47uq0Q6MgWhVkfl1axg3Y9XhF-oj08qRnAjK7r3460tQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Khujand, Tajikistan.<br><br>Alexandria Eschate (Greek: Ἀλεξάνδρεια Ἐσχάτη), literally \"Alexandria the Furthest\", was a city founded by Alexander the Great, at the south-western end of the Fergana Valley (modern Tajikistan) in August 329 BC.<br><br> It was the most northerly outpost of the Greek Empire in Central Asia. Alexandria Eschate was established on the south bank of the river Jaxartes (Syr Darya), at or close to the site of modern Khujand.<br><br>As with most other cities founded by Alexander, a group of retired and/or wounded veterans from his army was settled there.<br><br>Because Alexandria Eschate was surrounded by Sogdian tribes, and was about 300 km (186 mi) north of the nearest Greek settlement, at Alexandria on the Oxus in Bactria, the Greeks built a 6.0 kilometres (3.7 mi) wall around the city which, according to the ancient authors, was completed in about 20 days. It experienced numerous conflicts with the local population.",
+        "gx_media_links": "https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/sds4qebma7otrsv31puof8g0ro/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpUK3K_lbknejgYT9JQhZKtQxduiMYvWk9q5wcK2e0QLsaHhHktnnArW7bWXSoZhUj_XvEP0OuHaQtiLrZ7JZJpNgytKl3OD2w4TImXda0S5LiFh09yJzsdshpxqb5mvPm3OvzBQ47bOw_4t16JB_Pu_FhlbzTvTgBMeSoSjR3vcWf9Rg456wfDUPeo6gzciAKumoUGMizGDza5CxtyUHf0ePam3HXd6Ig8yIUWM_K1S55j-d47uq0Q6MgWhVkfl1axg3Y9XhF-oj08qRnAjK7r3460tQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5427354,
+          31.9883133,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Hyphasis",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/is0jk5lskr0iuu3i5igr5rj4vs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr_psQZmpPlgJ2aS7rcADi_YL_PUHeMoDg8Y9KYdIJlZuPV9cwCtlh023pyp7a6MnHHlqGX5Vj6HIdVwhBhAhW7J3drPYDZB223aeFfKAqwJbCDFKQytp6m7W3MRHJDCPpeBh9Hh5re4fGoSh2EIW8VrNRzOCptvHOzrS1Tvc_eHvLmzgCbmbj3leonuHUHY0rXYOJrQJhEm6a6zaMt4fHpQUm47RC0ZEiHYyZlmeEfNaerX5905Fa7mtMGvCqswCtisbi3fUzRuzbcwPiEehEPZBM5hQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Beas River, Punjab.<br><br>Alexandria (on the) Hyphasis was the name of the place on the west bank of the Hyphasis (Beas) river at which Alexander the Great stopped on 31 Aug 326 BC in the course of his Indian campaign. It was on the eastern border of Alexander's empire. Today, is part of Punjab, India.<br><br>Alexander's army, exhausted, homesick, and anxious by the prospects of having to further face large Indian armies throughout the Indo-Gangetic Plain, mutinied at the Hyphasis river and refused to march further east. Alexander, after a meeting with his officer, Coenus, and after hearing about the lament of his soldiers, eventually relented, being convinced that it was better to return.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/is0jk5lskr0iuu3i5igr5rj4vs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr_psQZmpPlgJ2aS7rcADi_YL_PUHeMoDg8Y9KYdIJlZuPV9cwCtlh023pyp7a6MnHHlqGX5Vj6HIdVwhBhAhW7J3drPYDZB223aeFfKAqwJbCDFKQytp6m7W3MRHJDCPpeBh9Hh5re4fGoSh2EIW8VrNRzOCptvHOzrS1Tvc_eHvLmzgCbmbj3leonuHUHY0rXYOJrQJhEm6a6zaMt4fHpQUm47RC0ZEiHYyZlmeEfNaerX5905Fa7mtMGvCqswCtisbi3fUzRuzbcwPiEehEPZBM5hQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.6620037,
+          31.6080338,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Arachosia",
+        "description": "<img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lj7bfc3sotrhb40boclj5unfq8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoYx_1JergJZ4W6lyusQGo_zIAkXBUefdXOmjYRwpTQ00E97o9iEZGRxAAVfscGduuEEaIpBOmtWMOiLbqiK-UMuwaANuukOycIv8JP5eCuIg9XlIwIDaw9tobwl_fxInWWtnzNX1ser1PnLPcfXhh_Ws8bXyreozWs2NmtSx9_9qP0zmn57k5I0G7sUC_h4dQM3-ewT00fgWq6_EL9-Pq2yc4GQeraDO8X8OUpJc6wWteW4qFwnKVjH_jAfgp6jD2f3TDmjEgHoHKITrrbEQoHJFE0tA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Kandahar, Afghanistan.<br><br>Alexandria in Arachosia (Greek: Αλεξάνδρεια Αραχωσίας) was a city in ancient times that is now called Kandahar in Afghanistan. It was one of more than seventy cities founded or renamed by Alexander the Great. <br><br>Arachosia is the Greek name of an ancient province of the Achaemenid, Seleucid and Parthian empires. The province of Arachosia was centred around the Argandab valley in Kandahar. It did not reach the Hindu Kush, but it apparently extended east as far as the Indus river, although its exact extents are not yet clear.<br><br>The remains of Alexandria in Arachosia are today found in the tell of Old Kandahar citadel in the western portion of the modern city. The citadel tell was excavated by the British Society for South Asian Studies through the 1970s and with the relative improvement in security from 2008–2009.<br><br>These excavations indicate that the Islamic walls were based on those from classical times indicating what might be a square (tetragonis) shaped town, but one highly modified by the unusual topography. A triangular shaped portion of the tell adjoining the Greek town is from the Buddhist era.<br><br>Alexander appears to have founded his town on the site of 6th century BC Persian garrison point. The pass, river and junction of three long distance trade routes made the location of strategic importance. To date, no Greek buildings have been found, but numerous coins, inscriptions and graves have been. Further discoveries are anticipated as excavation reaches deeper strata of the tell.<br><br>The citadel walls have been shown to have contained circular towers similar to those at Farah, Balkh and Nadi Ali Sorkh Gdagh, although these could be Islamic in age.",
+        "gx_media_links": "https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/lj7bfc3sotrhb40boclj5unfq8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoYx_1JergJZ4W6lyusQGo_zIAkXBUefdXOmjYRwpTQ00E97o9iEZGRxAAVfscGduuEEaIpBOmtWMOiLbqiK-UMuwaANuukOycIv8JP5eCuIg9XlIwIDaw9tobwl_fxInWWtnzNX1ser1PnLPcfXhh_Ws8bXyreozWs2NmtSx9_9qP0zmn57k5I0G7sUC_h4dQM3-ewT00fgWq6_EL9-Pq2yc4GQeraDO8X8OUpJc6wWteW4qFwnKVjH_jAfgp6jD2f3TDmjEgHoHKITrrbEQoHJFE0tA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3105747,
+          34.9964711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Caucasus",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/985e18renlog89gfr5e72e6kfg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr7CCcNRkrUA7odoLY9eATVLVjPRmivSSqVUdIKOGCU1awIgN0LAXRVPmdwEfEq-yjzSq4TWlvSnxT6LChGDzlgk8Tu1PAnhKtGsRw8y1So8PcugL6TIlGT2X2ZCgWs4xp96cG3E6fp5SorMs-G6Gxcr7_FGdG4HSYocFCMBK28DJg2NJ2zS-Es8jDtjEd7OWznj4wYWdl0buhN8lsfH0uIBpZBJ32vBgHGHGcHh6VrFaW7L4wYNj0wpGafGAnFSfSSWUhhEML9u7aqYzUK6JmyeoWIcg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Bagram, Afghanistan.<br><br>Alexandria in the Caucasus (Greek: Αλεξάνδρεια στον Καύκασο) was a colony of Alexander the Great (one of many colonies designated with the name Alexandria). He founded the colony at an important junction of communications in the southern foothills of the Hindu Kush mountains, in the country of the Paropamisadae.<br><br>Alexander populated the city with 7,000 Macedonians, 3,000 mercenaries and thousands of natives (according to Curtius VII.3.23), or some 7,000 natives and 3,000 non-military camp followers and a number of Greek mercenaries (Diodorus, XVII.83.2), in March 329 BC. He had also built forts in what is now Bagram, Afghanistan, at the foot of the Hindu Kush, replacing forts erected in much the same place by Persia's king Cyrus the Great c. 500 BC, Alexandria being in fact a refoundation of an Achaemenid settlement called Kapisa.<br><br>The deity of the city seems to have been Zeus, as suggested by coins of the Greco-Bactrian king Eucratides.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/985e18renlog89gfr5e72e6kfg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr7CCcNRkrUA7odoLY9eATVLVjPRmivSSqVUdIKOGCU1awIgN0LAXRVPmdwEfEq-yjzSq4TWlvSnxT6LChGDzlgk8Tu1PAnhKtGsRw8y1So8PcugL6TIlGT2X2ZCgWs4xp96cG3E6fp5SorMs-G6Gxcr7_FGdG4HSYocFCMBK28DJg2NJ2zS-Es8jDtjEd7OWznj4wYWdl0buhN8lsfH0uIBpZBJ32vBgHGHGcHh6VrFaW7L4wYNj0wpGafGAnFSfSSWUhhEML9u7aqYzUK6JmyeoWIcg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1111804,
+          32.396755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Drangiana",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/e8p00nrs9gq4mgdgo6h9teque0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpAFRiCB6CSifBg3qt4YVfO52qCurdYSkXnK5lXUZPK5fnfOgsuGpzX-qAAdrq-1DXurXZwrj06lz_HhPhQ3Jou1e-0SmWx-9S2gIhxm_vNsHabUzoIUcpFoZNWlBFSqBcYY5D-QReOWPDj95AzrxIuC5q6mxnWIxIm9pImnju51J_FMPAff6q0vxFsIFbEgEQivy9yiTxXlNq-IS5oHm5BfB9u5KkiTdW7yzsFuDdzuALdfuAb87JIr5xn5IBegAdA9wXpi-8g_d0blupOuuF6iUJBvQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Farah, Afghanistan.<br><br>Alexandria Prophthasia (Greek: Αλεξάνδρεια η Προφθασία) also known as Alexandria in Drangiana was one of the seventy-plus cities founded or renamed by Alexander the Great.<br><br> The town was founded during an intermediate stop between Herat, the location of another of Alexander's fortresses, and Kandahar. It is mentioned by Strabo, Pliny, Ammianus Marcellinus, Isidore of Charax and Pseudo-Plutarch.<br><br> Alexander the Great, arrived in Drangiana in November 330 BC on his way to Kandahar, and found a well-organized province of the Achaemenid empire. He appointed a new satrap, Arsames, and renamed the capital city as Prophthasia, (\"Anticipation\"), because Alexander had here discovered a conspiracy against his life, organized by his companion Philotas.<br><br>The location of Prophthasia is currently unknown. Orthodox opinion is that Prophthasia was at Farah and that the citadel of Farah holds the remains of his fortress.",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/e8p00nrs9gq4mgdgo6h9teque0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpAFRiCB6CSifBg3qt4YVfO52qCurdYSkXnK5lXUZPK5fnfOgsuGpzX-qAAdrq-1DXurXZwrj06lz_HhPhQ3Jou1e-0SmWx-9S2gIhxm_vNsHabUzoIUcpFoZNWlBFSqBcYY5D-QReOWPDj95AzrxIuC5q6mxnWIxIm9pImnju51J_FMPAff6q0vxFsIFbEgEQivy9yiTxXlNq-IS5oHm5BfB9u5KkiTdW7yzsFuDdzuALdfuAb87JIr5xn5IBegAdA9wXpi-8g_d0blupOuuF6iUJBvQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.189868,
+          37.6643714,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Margiana",
+        "description": "<img src=\"https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4t39dftesfivom3ebdehsj6la4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrx8G7NAQz3K-XJhNGqtruBwrfQQiyYhjGXEGIPamZaU9__yjju5dkUWZl7zyFuU-2ddftDtDVYaAkkYVypYNm_SjWYsGxqKtTNsWPKEV41vlpoU4Kgw_OIJrX0srdVdRIPBuQx058iaSdBXX7GDlfikCwPnrOKZGtZzu651FWlqLZsLzvCA3sY7sTHCLgbRhkdzqi1U9s9zECg9hdLCl5HHK0Jah1dbEwO5L1DL3sDi8xRPKeJX31NdeKUuwQKEEFNoeQfUTCcYjMP-ujf-Qy8vHLRYg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Merv, Turkmenistan.<br><br>Alexander the Great's visit to Merv is merely legendary, but the city was named Alexandria (Ἀλεξάνδρεια) after him for a time.<br><br> After Alexander's death in 323 BC, it became the capital of the Province of Margiana of the Seleucid, Greco-Bactrian (256-125 BC), Parthian, and Sassanid states. The Seleucid ruler Antiochus Soter (reigned 281–261 BC) renamed it to Antiochia Margiana; he rebuilt and expanded the city at the site presently known as Gyaur Gala (Gäwürgala) fortress.",
+        "gx_media_links": "https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4t39dftesfivom3ebdehsj6la4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrx8G7NAQz3K-XJhNGqtruBwrfQQiyYhjGXEGIPamZaU9__yjju5dkUWZl7zyFuU-2ddftDtDVYaAkkYVypYNm_SjWYsGxqKtTNsWPKEV41vlpoU4Kgw_OIJrX0srdVdRIPBuQx058iaSdBXX7GDlfikCwPnrOKZGtZzu651FWlqLZsLzvCA3sY7sTHCLgbRhkdzqi1U9s9zECg9hdLCl5HHK0Jah1dbEwO5L1DL3sDi8xRPKeJX31NdeKUuwQKEEFNoeQfUTCcYjMP-ujf-Qy8vHLRYg?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.4219374,
+          33.5483491,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Opiana",
+        "description": "<img src=\"https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/i7mddv1scdv7pvs5d2q1clfcks/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoHYEG-BKERrxHGc5el7dIqrdwHJCaJMaNwdBGwoRVmww2A11x7_ggIKQkGJZHXwD4uvTifWv5uz5pmeZY3Y-idE8BPXkQ_zqnQhkcxqE6BSMMhrZlDFQSTdEfTg3dB_9-syqJ5hH3HkPYlJFZGuZiHYTiUxKjVgY0Yoa0aFz86xgO0dvDvgzZjm-ivTF2WZaDxCi_I-dRljZuppGw2xyL-G6AdPwEX-HrvZxdxodX2eYUmNBdFlnakxivmj5DtRBM36CCJTNTff32v_8yPfbP08_iHBQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Ghazni, Afghanistan.<br><br>The city was founded some time in antiquity as a small market town. It may be the Gazaca (Gázaca or Gāzaca) mentioned by Ptolemy,[7] although he may have conflated it and the town of Ganzak (or Gazaka) in Iran.<br><br>In the 6th century BC, it was conquered by the Achaemenid king Cyrus II and incorporated into the Persian empire. The city was subsequently incorporated into the empire of Alexander the Great in 329 BC, and called Alexandria in Opiana.",
+        "gx_media_links": "https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/i7mddv1scdv7pvs5d2q1clfcks/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoHYEG-BKERrxHGc5el7dIqrdwHJCaJMaNwdBGwoRVmww2A11x7_ggIKQkGJZHXwD4uvTifWv5uz5pmeZY3Y-idE8BPXkQ_zqnQhkcxqE6BSMMhrZlDFQSTdEfTg3dB_9-syqJ5hH3HkPYlJFZGuZiHYTiUxKjVgY0Yoa0aFz86xgO0dvDvgzZjm-ivTF2WZaDxCi_I-dRljZuppGw2xyL-G6AdPwEX-HrvZxdxodX2eYUmNBdFlnakxivmj5DtRBM36CCJTNTff32v_8yPfbP08_iHBQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.3135581,
+          26.2179185,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Orietai",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/75esn8llmad93q4gkeendch43o/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALopLJOu02WNYDb3iq8lnK6T0HkoesV2x8Iu2QuTS0VY5dRDGPULvp25UGllMh12NrV4PU6vyfvkeC8OEcXRca6D6pGPYAHpHq1Mqr2Q9HXSW_ACYA0ueIqDDEI0TUg0CN5eqto_Y1pweh1R6bdR0O5zBLLPg4PH_5fG8YDiWJM4ssNqyXVivA-XHPmFn0W0x7NBF8fYIF2KjSy829OJvZXcZ4QKH-VvT8MHxQVVDNiIG6GvmGrWNb2SGaGMFXwDeSY9Sv255bkafnphu3SB2DiEGRgRHQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Bela, Pakistan.<br><br>The town was founded by Alexander in autumn of 325 BC after his army had separated from Nearchus and the boats near the mouth of the Indus River. The sources agree that a town was built among the Oreitians, that the fortification was left to Hephaestion and Leonnatus be built in the autumn of 325 BC and that it was located near Rhambacia, the largest town of the Oreitai. The core of colonists were retired Arachosian horsemen.<br><br>Alexander probably intended the new town to be an emporium controlling the local and Indian spice trade through the passes to Kandahar. The area certainly had exotic resources for trade. Written four centuries later the Roman Periplus of the Erythraean Sea says that this area \"yields much wheat, wine, rice and dates but along the coast there is nothing but Bdellium\".",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/75esn8llmad93q4gkeendch43o/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALopLJOu02WNYDb3iq8lnK6T0HkoesV2x8Iu2QuTS0VY5dRDGPULvp25UGllMh12NrV4PU6vyfvkeC8OEcXRca6D6pGPYAHpHq1Mqr2Q9HXSW_ACYA0ueIqDDEI0TUg0CN5eqto_Y1pweh1R6bdR0O5zBLLPg4PH_5fG8YDiWJM4ssNqyXVivA-XHPmFn0W0x7NBF8fYIF2KjSy829OJvZXcZ4QKH-VvT8MHxQVVDNiIG6GvmGrWNb2SGaGMFXwDeSY9Sv255bkafnphu3SB2DiEGRgRHQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5825575,
+          30.8726099,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Susiana",
+        "description": "<img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/hpekgq4cceubrk089r4hjsbbdc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqB4Dlro16LFyetV4kl3A-qojsK34zJ6RZSVnlQnautrvQogzIBzmtXG2x5OpINUcsWSF_b_RZKcI5WqPCq7gJ_OtUZHmQK86iq_K5WX76Aii_Svl-e1rwvIPmMtKr8kljS7ZNaxIQjX4tEr3r2B55Zih6Z5-Bs5W4NwNycmz_4J8UWw3HyYI9OBnDWSA3JkmwjydiSzYKrvu_wn9j6i2DbYN1unMweKijmtWoTVZq6dcm2F_SIq3mK4L8zPv_epp-dr39SgwpP67Qi-WWJwI06pR3Qaw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Shafi, Iraq.<br><br>The city was established by Alexander the Great in 324 BC, replacing a small Persian settlement, Durine. <br><br>This was one of Alexander's last cities before his death in 323 BC. Here he established a quarter (dēmē) of the port called Pella, named after Alexander’s own town of birth, where he settled Macedonian veterans. The city passed to the Seleucid Empire after Alexander's death, until it was destroyed at some point by flooding.",
+        "gx_media_links": "https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/hpekgq4cceubrk089r4hjsbbdc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqB4Dlro16LFyetV4kl3A-qojsK34zJ6RZSVnlQnautrvQogzIBzmtXG2x5OpINUcsWSF_b_RZKcI5WqPCq7gJ_OtUZHmQK86iq_K5WX76Aii_Svl-e1rwvIPmMtKr8kljS7ZNaxIQjX4tEr3r2B55Zih6Z5-Bs5W4NwNycmz_4J8UWw3HyYI9OBnDWSA3JkmwjydiSzYKrvu_wn9j6i2DbYN1unMweKijmtWoTVZq6dcm2F_SIq3mK4L8zPv_epp-dr39SgwpP67Qi-WWJwI06pR3Qaw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6396864,
+          36.8341104,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria in Troas",
+        "description": "Dalyan, Turkey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6395313,
+          32.8251653,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandria Nicaea",
+        "description": "<img src=\"https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fmhfb574oggo1g5nl6ni2tsatk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrqdIm16r1W6N_-vsAW9gAHES6uU6i2X958s3fscyxZYC-stps9Mm6xMtP7ZH1mEfpiJMa_PJU2ktcBVvqg_8DUPpWJGnXL8ZxxCxP9jWQxmI_hagsxfsZrU-enjK1oQOew-Y2UaLJjB7YrtBEMpj5p4pjmxXj3yEK2Ri1xo5xnSI4C5q0tph_3Wjz9Jz8rSo1Ba6SoVaar9ZJ95_Wc0dVLOcujywN5uolol73ctuU-iO9mRhUENQef6zCzksRWSXGK0YBTNNo_Z58vhqC1kd1WtkwT6A?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Punjab.<br><br>Nicaea was a city in what is now the Punjab, one of the two cities founded by Alexander the Great on opposite sides of the Hydaspes river. The second city founded by Alexander on the Hydaspes was Bucephala. It was at Nicaea or Bucephalia, which appears to have been on the opposite bank, that Alexander (according to Strabo) built the fleet which Nearchus subsequently commanded, the country in the immediate neighbourhood having abundance of wood fit for shipbuilding.<br><br>Following the Battle of the Hydaspes, Alexander founded two cities. One of the sites of the battle he named Alexandria Nicaea meaning Victory. The site of that city is still undetermined. Any attempt to find the ancient battle site is doomed, because the landscape has changed considerably.",
+        "gx_media_links": "https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/fmhfb574oggo1g5nl6ni2tsatk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrqdIm16r1W6N_-vsAW9gAHES6uU6i2X958s3fscyxZYC-stps9Mm6xMtP7ZH1mEfpiJMa_PJU2ktcBVvqg_8DUPpWJGnXL8ZxxCxP9jWQxmI_hagsxfsZrU-enjK1oQOew-Y2UaLJjB7YrtBEMpj5p4pjmxXj3yEK2Ri1xo5xnSI4C5q0tph_3Wjz9Jz8rSo1Ba6SoVaar9ZJ95_Wc0dVLOcujywN5uolol73ctuU-iO9mRhUENQef6zCzksRWSXGK0YBTNNo_Z58vhqC1kd1WtkwT6A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2722666,
+          41.3925568,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandropolis Maedica",
+        "description": "Alexandropolis in the Thracian region of Maedians, was the first town founded in 340 BC by Alexander the Great, after defeating a local Thracian tribe, as a regent of Macedon.<br><br> Its name was chosen by analogy with Philippopolis, the town of Thrace founded by Alexander's father, Philip II. He expelled the locals and settled a mixed population. That the location of Alexandropolis is unknown suggests that a Thracian raid may have caused its disappearance from history. Tarn claims Alexandropolis was a military colony rather than a polis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5316284,
+          34.7391608,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arigaeum",
+        "description": "Khar, Pakistan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.001395,
+          35.9472601,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nicephorium",
+        "description": "Raqqa, Syria."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9110626,
+          24.7482906,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Patala",
+        "description": "<img src=\"https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4jatnosrpmr54ql9co32qcsnm4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALox6T1vcsjIa5TeyHQeo2SIrs6WsJpGv28HLFU6GroCzoUmWAWAzgcSqZWL4fkjKqtfONv23BulPaqA9NPKpEnVUtcpZj6fpcJkZemyrdNBmRfAUozSTpFX73px6s99Cg13NMcxvs4KJODMkCNTX2IzJy8OzO1mGBaik38J8f01Nt3fTL4pbObcvwDdEidoxlLOXtwiE25iYTzV6fxFRMQ5Cyaw7DmNpp5De6uHJCtH4aADnldKRY6BPJTsUr2IYRMRZ9pP_PicT7AsBl-HWCb1LFJhhQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thatta, Pakistan.<br><br>The historians of Alexander the Great state that the Indus parted into two branches at the city of Patala before reaching the sea, and the island thus formed was called Patalene, the district of Patala. Alexander constructed a harbour at Patala.",
+        "gx_media_links": "https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4jatnosrpmr54ql9co32qcsnm4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALox6T1vcsjIa5TeyHQeo2SIrs6WsJpGv28HLFU6GroCzoUmWAWAzgcSqZWL4fkjKqtfONv23BulPaqA9NPKpEnVUtcpZj6fpcJkZemyrdNBmRfAUozSTpFX73px6s99Cg13NMcxvs4KJODMkCNTX2IzJy8OzO1mGBaik38J8f01Nt3fTL4pbObcvwDdEidoxlLOXtwiE25iYTzV6fxFRMQ5Cyaw7DmNpp5De6uHJCtH4aADnldKRY6BPJTsUr2IYRMRZ9pP_PicT7AsBl-HWCb1LFJhhQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8484669,
+          39.9294644,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ancyra",
+        "description": "Ankara, Turkey.<br><br>Persian sovereignty lasted until the Persians' defeat at the hands of Alexander the Great who conquered the city in 333 BC. Alexander came from Gordion to Ankara and stayed in the city for a short period. After his death at Babylon in 323 BC and the subsequent division of his empire among his generals, Ankara and its environs fell into the share of Antigonus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7199241,
+          37.9711524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Athens",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/307f2fmh264aeei9h18s3q57c8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpRr_091sjPCVRFSo7SHNzEyI_OsWRjVBWV3WyDKA4iaCYNPELvcIwexMEFqX40bHgkwvBKseUmGMW1EKJrAh06xQAz07kyqH9Afer5tiwDBYz42UjsY0jO4j8lgxezWyVKxxu84q9BuBnmWlBd3RzQPvIbTLC_CHJ2y1zqv3WSByaKcdoLQEkn-SvCZnnm8626EPSN78BQubsTtlmv2OJkJqOHCZ_EgrhKl3boxs4C_WPmcTxzLvqt8gcvOz81-X4nGGGuEQhS1-2I4ndfqvY03WrHiA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Athens, Greece.<br><br>By the mid-4th century BC, however, the northern Greek kingdom of Macedon was becoming dominant in Athenian affairs. <br><br>In the Battle of Chaeronea (338 BC), Philip II's armies defeated an alliance of some of the Greek city-states including Athens and Thebes, forcing them into a confederation and effectively limiting Athenian independence. Philippides of Paiania, one of the wealthiest Athenian aristocratic oligarchs, campaigned for Philip II during the Battle of Chaeronea and proposed in the Assembly decrees honoring Alexander the Great for the Macedonian victory. Philippides was prosecuted in trial by Hypereides, who detested his pro-Macedonian sympathies. Subsequently, the conquests of Alexander the Great widened Greek horizons and made the traditional Greek city state obsolete. Athens remained a wealthy city with a brilliant cultural life, but ceased to be a leading power.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/307f2fmh264aeei9h18s3q57c8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpRr_091sjPCVRFSo7SHNzEyI_OsWRjVBWV3WyDKA4iaCYNPELvcIwexMEFqX40bHgkwvBKseUmGMW1EKJrAh06xQAz07kyqH9Afer5tiwDBYz42UjsY0jO4j8lgxezWyVKxxu84q9BuBnmWlBd3RzQPvIbTLC_CHJ2y1zqv3WSByaKcdoLQEkn-SvCZnnm8626EPSN78BQubsTtlmv2OJkJqOHCZ_EgrhKl3boxs4C_WPmcTxzLvqt8gcvOz81-X4nGGGuEQhS1-2I4ndfqvY03WrHiA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4252101,
+          32.5404943,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Babylon",
+        "description": "<img src=\"https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/tujo4727ki36of6ljr0levpies/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpsU6XurFmNvbyUVv_m1RKyFkPkMX2-xD1qUEE2UaYW8yF4EbkD_dEevAIr_065G4tsbdUrg3p5zouqsvpwEhm2-oNi8WxS8tDrWWH-4JfchVuGCJrJBA5hL6EyQNQoppgQry6D3cQ6qppGRAe6LlGKDEE-ASOq0WrWetFLkQRGAwPlkXbLyiQEnbsX1o21uKOUm_oaoVm7eVwMD_OwRpoXKRN8VKZqkXccMtm_eeTx2-6KEVEySHZgQanTmMejf2t5dbvlZxo6VuYvqrOZHJj-UT0e4A?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Hillah, Iraq.<br><br>In October of 331 BC, Darius III, the last Achaemenid king of the Persian Empire, was defeated by the forces of the Ancient Macedonian ruler Alexander at the Battle of Gaugamela. Alexander invasion was barbaric and savage. <br><br>Under Alexander, Babylon again flourished as a center of learning and commerce. However, following Alexander's death in 323 BC in the palace of Nebuchadnezzar, his empire was divided amongst his generals, the Diadochi, and decades of fighting soon began. The constant turmoil virtually emptied the city of Babylon. A tablet dated 275 BC states that the inhabitants of Babylon were transported to Seleucia, where a palace and a temple (Esagila) were built. With this deportation, Babylon became insignificant as a city, although more than a century later, sacrifices were still performed in its old sanctuary.<br><br><img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4p525p5a21ptuarpnjub7t16mk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqu0AEsb3i5bl4UqwMbOUmPUs3F5Lhejkxi6-m2tBfL7eFNid251tXJbCSvbDf4yrjH1oyUjHgKDkKfn8HPZ2khvyLQWsTl7jIcxO_oWg3z9AdJTtrsNZQdn2FzLDqEYsnn_refv-c3O2I_6TLlkfOpGjmvo4yWYnKOsReIC2wjlEGHjJ1FL71Rs15FBOuk8HAS1XHOTlss3i6QJ7VMxlKav03-Y-bwQXY9Q32UA9Dcxcm_pOktJxwWLEvWn1-fozjTeON5zAk1ZAPMa8WFHOydE5Pj_A?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-14-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/tujo4727ki36of6ljr0levpies/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpsU6XurFmNvbyUVv_m1RKyFkPkMX2-xD1qUEE2UaYW8yF4EbkD_dEevAIr_065G4tsbdUrg3p5zouqsvpwEhm2-oNi8WxS8tDrWWH-4JfchVuGCJrJBA5hL6EyQNQoppgQry6D3cQ6qppGRAe6LlGKDEE-ASOq0WrWetFLkQRGAwPlkXbLyiQEnbsX1o21uKOUm_oaoVm7eVwMD_OwRpoXKRN8VKZqkXccMtm_eeTx2-6KEVEySHZgQanTmMejf2t5dbvlZxo6VuYvqrOZHJj-UT0e4A?session=0&fife https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/4p525p5a21ptuarpnjub7t16mk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqu0AEsb3i5bl4UqwMbOUmPUs3F5Lhejkxi6-m2tBfL7eFNid251tXJbCSvbDf4yrjH1oyUjHgKDkKfn8HPZ2khvyLQWsTl7jIcxO_oWg3z9AdJTtrsNZQdn2FzLDqEYsnn_refv-c3O2I_6TLlkfOpGjmvo4yWYnKOsReIC2wjlEGHjJ1FL71Rs15FBOuk8HAS1XHOTlss3i6QJ7VMxlKav03-Y-bwQXY9Q32UA9Dcxcm_pOktJxwWLEvWn1-fozjTeON5zAk1ZAPMa8WFHOydE5Pj_A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.90137,
+          36.7680882,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bactra",
+        "description": "Balkh, Afghanistan.<br><br>Alexander the Great married Roxana of Bactria after killing the king of Bactra and conquering the city."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.877712,
+          37.9026168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Corinth",
+        "description": "<img src=\"https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/k08q0151bpf5b7u9bua3546d6k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrLTELAbyXA-GRUSSYNKEK1eEAdTOchYKkw4iEQHPIS1QkiUy-Kp70UghIKn0lrG2FID9UG1gu75hU-kjPpkWBx_XPM_UfqSjfFFK3poPT4DXjcEJJWHRSGljvvQBEJo9HLU4hxv8nfIE6qEIa7mkisWXwm_Y8UJXELSnSx1MvpC8S5dgrxbIOAa4UC8u-0OVUkF9930mKqrWYlFp5dLyJE9n0wEkYy0JZqQWEwghqZGrOJSklbHUvQ-_izIeeg5Vu3ijMuABlYF9-4VUI8j-KnRTV8AQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Archaia Korinthos, Greece.<br><br>In 338 BC, after having defeated Athens and its allies, Philip II created the League of Corinth to unite Greece (included Corinth and Macedonia) in the war against Persia. Philip was named hegemon of the League.<br><br>In the spring of 337 BC, the Second congress of Corinth established the Common Peace.<br><br>By 332 BC, Alexander the Great was in control of Greece, as hegemon.<br><br>During the Hellenistic period, Corinth, like many other Greece cities, never quite had autonomy. Under the successors of Alexander the Great, Greece was contested ground, and Corinth was occasionally the battleground for contests between the Antigonids, based in Macedonia, and other Hellenistic powers. In 308 BC, the city was captured from the Antigonids by Ptolemy I, who claimed to come as a liberator of Greece from the Antigonids. However, the city was recaptured by Demetrius in 304 BC.<br><br><img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/o26708gsd14phhcsdj9k8gtnik/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrE9lGYh6io-Cn0pCTDl5WVFEcYupR3NBvZ4m8k-7uWjbVmjhThp0c8_7ROc3NaSkxsDKZKK5sXbTNUK0-ZFUNadNUkUH7dbycIzjdfVfXemhNACBjTGP6z7h7VogiBYmTc_yDY0H9vJDkS4HBpFim3v2FRs0C01034FydjEoJ3M6QG4NrnS6WW7A9Pkg3W2PO_xIyJ6PEEwlRl1mbMp0ftqYv3MXePFixVDJpCfQf-YOowH2TWCKlO_RKGCj8jRIS5rMklj-2mbPKZl9LhiADN8r2UAw?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/k08q0151bpf5b7u9bua3546d6k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrLTELAbyXA-GRUSSYNKEK1eEAdTOchYKkw4iEQHPIS1QkiUy-Kp70UghIKn0lrG2FID9UG1gu75hU-kjPpkWBx_XPM_UfqSjfFFK3poPT4DXjcEJJWHRSGljvvQBEJo9HLU4hxv8nfIE6qEIa7mkisWXwm_Y8UJXELSnSx1MvpC8S5dgrxbIOAa4UC8u-0OVUkF9930mKqrWYlFp5dLyJE9n0wEkYy0JZqQWEwghqZGrOJSklbHUvQ-_izIeeg5Vu3ijMuABlYF9-4VUI8j-KnRTV8AQ?session=0&fife https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/o26708gsd14phhcsdj9k8gtnik/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrE9lGYh6io-Cn0pCTDl5WVFEcYupR3NBvZ4m8k-7uWjbVmjhThp0c8_7ROc3NaSkxsDKZKK5sXbTNUK0-ZFUNadNUkUH7dbycIzjdfVfXemhNACBjTGP6z7h7VogiBYmTc_yDY0H9vJDkS4HBpFim3v2FRs0C01034FydjEoJ3M6QG4NrnS6WW7A9Pkg3W2PO_xIyJ6PEEwlRl1mbMp0ftqYv3MXePFixVDJpCfQf-YOowH2TWCKlO_RKGCj8jRIS5rMklj-2mbPKZl9LhiADN8r2UAw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3108798,
+          33.5127471,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Damascus",
+        "description": "<img src=\"https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/8klr1if2hq8mem1il7umha3o3k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr0K5Aw0jtVfuuEx99VOp8GbdspYURtBQoApIwNrqSBEf_87a5P3OYdPLC7BqWrDUg4ShauXtbqF4c2J612jaVDiGnVUrDTVuGKBluXXB8vfS1DmoEwbfkBWaWks4ToQ34cjQ_iR1DcBmSu1u1SsY0KGbS5IVaWEfMIxZqZ60hjEkukLRjz-QeuJqwGfPZqH3JLB06EO9FRL1NoFRCl-KXyohwvTli1YTwj6iuvLhrGqaVIDGA7UEKSQBum03rrCMsocgd-9SoQrSVdURnew3HiunOaJw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Damascus, Syria.<br><br>Damascus was conquered by Alexander the Great. After the death of Alexander in 323 BC, Damascus became the site of a struggle between the Seleucid and Ptolemaic empires. The control of the city passed frequently from one empire to the other. Seleucus I Nicator, one of Alexander's generals, made Antioch the capital of his vast empire, which led to the decline of Damascus' importance compared with new Seleucid cities such as Latakia in the north. Later, Demetrius III Philopator rebuilt the city according to the Greek hippodamian system and renamed it \"Demetrias\".",
+        "gx_media_links": "https://doc-10-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/8klr1if2hq8mem1il7umha3o3k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr0K5Aw0jtVfuuEx99VOp8GbdspYURtBQoApIwNrqSBEf_87a5P3OYdPLC7BqWrDUg4ShauXtbqF4c2J612jaVDiGnVUrDTVuGKBluXXB8vfS1DmoEwbfkBWaWks4ToQ34cjQ_iR1DcBmSu1u1SsY0KGbS5IVaWEfMIxZqZ60hjEkukLRjz-QeuJqwGfPZqH3JLB06EO9FRL1NoFRCl-KXyohwvTli1YTwj6iuvLhrGqaVIDGA7UEKSQBum03rrCMsocgd-9SoQrSVdURnew3HiunOaJw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5103476,
+          34.806854,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ecbatana",
+        "description": "<img src=\"https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rpjqngcjspht169qvcu2fibqkk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqxQTI1eO_S91UdXR__0QJ1s4lJgy5el6RjZQp6caRtdsZtFS2InVkh_QWUvfVgfkRo10rEHHWeBdXAfyXj0PO82OTa5FWLxiu98LNHJbxz94Z_RUWyjDdyMKYhSlpmIrayF1yhZ6TGCh1Fva1205VDzVwuD-iuO7rCeKdAQbBXcxXs85sJxHttpkSojmYntW0_7E-H_vpMf62jVS3WYARUe43WTw7idbMbydRSajQwmmJxUh4mm0bK99691COzNB0lpWNtf9ef6cRSqG5QNi5lSSEjdQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Hamedan, Iran.<br><br>Under the Achaemenid Persian kings, Ecbatana, situated at the foot of Mount Alvand, became a summer residence.<br><br>In 330 BC, Ecbatana was the site of the assassination of the Macedonian general Parmenion by order of Alexander the Great.<br><br>It is said that Alexander the Great deposited the treasures he took from Persepolis and Pasargadae and that one of the last acts of his life was to visit the city.",
+        "gx_media_links": "https://doc-08-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rpjqngcjspht169qvcu2fibqkk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqxQTI1eO_S91UdXR__0QJ1s4lJgy5el6RjZQp6caRtdsZtFS2InVkh_QWUvfVgfkRo10rEHHWeBdXAfyXj0PO82OTa5FWLxiu98LNHJbxz94Z_RUWyjDdyMKYhSlpmIrayF1yhZ6TGCh1Fva1205VDzVwuD-iuO7rCeKdAQbBXcxXs85sJxHttpkSojmYntW0_7E-H_vpMf62jVS3WYARUe43WTw7idbMbydRSajQwmmJxUh4mm0bK99691COzNB0lpWNtf9ef6cRSqG5QNi5lSSEjdQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3391609,
+          37.9387964,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ephesus",
+        "description": "<img src=\"https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/km28o5pmltlptkmjotberk81kg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrNfd5oNvGZuLGv-Mu9sog1eDDRMNg9syHXF9zo8GgHQ3OwxDb23palBPXcOjqrpCKl5dGWVDMo7pxCsU_X_PQNCVtMGH3Lo-6LnPdmc_jIEY0rctFgwmxC0--_JlN9r7A6KwS4GM5Ycr0avH7zdIHg_TQMtFPr1rGKbZV0xWfS6eoH_VJ-c1JdHCV5v2gecexsk1-W4Fh2V6hncTO8KErMZb4G-hT5OacEukgOg0O4VL2aDnjpLyx6inFujtZzan4D64e5Zxs9esZoMSXR-R0JfPmnoQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Selcuk, Turkey.<br><br>When Alexander the Great defeated the Persian forces at the Battle of Granicus in 334 BC, the Greek cities of Asia Minor were liberated. The pro-Persian tyrant Syrpax and his family were stoned to death, and Alexander was greeted warmly when he entered Ephesus in triumph. When Alexander saw that the temple of Artemis was not yet finished, he proposed to finance it and have his name inscribed on the front. But the inhabitants of Ephesus demurred, claiming that it was not fitting for one god to build a temple to another. After Alexander's death in 323 BC, Ephesus in 290 BC came under the rule of one of Alexander's generals, Lysimachus.",
+        "gx_media_links": "https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/km28o5pmltlptkmjotberk81kg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrNfd5oNvGZuLGv-Mu9sog1eDDRMNg9syHXF9zo8GgHQ3OwxDb23palBPXcOjqrpCKl5dGWVDMo7pxCsU_X_PQNCVtMGH3Lo-6LnPdmc_jIEY0rctFgwmxC0--_JlN9r7A6KwS4GM5Ycr0avH7zdIHg_TQMtFPr1rGKbZV0xWfS6eoH_VJ-c1JdHCV5v2gecexsk1-W4Fh2V6hncTO8KErMZb4G-hT5OacEukgOg0O4VL2aDnjpLyx6inFujtZzan4D64e5Zxs9esZoMSXR-R0JfPmnoQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9781426,
+          39.6508509,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gordium",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/858tqt3t7u9ujuevd8mbd9ksns/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq6XxQ8KDhng9Mlk8fhbmcAqXUN32meO8jrTMMIvYPtdbEO7OzDKSZeB0z_sSq_TZQnmmNOPP7cxQal2ACb_7M2_yjO91RTDGKsh12NQmOT9jFXpKlogQZcHgkN5DLNUCjGVIQXxT4dxlCyjoIm5ez_90y9vq1PkBdaxPLPEXv8PZChmmKStELMtyHe_T9OvdNPyGe-z7qPBfyvqLe9WCoDdGb6KT_2R9JkETlUZfARQttV0a2nWbAGOw-yWVqGGrp1zX-ZSfPsLawaNQYdyVxsTd5FrA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Yassihuyuk, Turkey.<br><br>According to ancient tradition, in 333 BC Alexander the Great cut (or otherwise unfastened) the Gordian Knot: this intricate knot joined the yoke to the pole of a Phrygian wagon that stood on the acropolis of the city. The wagon was associated with Midas or Gordias (or both) and was connected with the dynasty's rise to power. A local prophecy had decreed that whoever could loosen the knot was destined to become the ruler of Asia.",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/858tqt3t7u9ujuevd8mbd9ksns/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALq6XxQ8KDhng9Mlk8fhbmcAqXUN32meO8jrTMMIvYPtdbEO7OzDKSZeB0z_sSq_TZQnmmNOPP7cxQal2ACb_7M2_yjO91RTDGKsh12NQmOT9jFXpKlogQZcHgkN5DLNUCjGVIQXxT4dxlCyjoIm5ez_90y9vq1PkBdaxPLPEXv8PZChmmKStELMtyHe_T9OvdNPyGe-z7qPBfyvqLe9WCoDdGb6KT_2R9JkETlUZfARQttV0a2nWbAGOw-yWVqGGrp1zX-ZSfPsLawaNQYdyVxsTd5FrA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4275647,
+          37.0382143,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halicarnassus",
+        "description": "<img src=\"https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/keu0mopr168or3dtdc6pj4gra8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoxOZAm4lgyDT0teOIZjx2BEg5Bic7aW_On2xQ2ICjpXozqXsh06yWp5GYoACPkRZk5Rz7nK9XAU5LG9v6h_LUMEBOluV7ukQvp1wKB2cYB7qR8Bezw_2dxD-5NnQUl-cR3PxOwZ3LUtdZoFSO0kcU7xEq1BEMm_nE7l6n9qkDMsywS0ujmkbVfNJ4QByqPMz2UyGR6PjhjntO1QKVsvRchhBpHBkXEN6VOlJUbD6p80sld49vbca5RoJ4Jl5q_SiBA_PoarfZWEDxdfORYQ2IjNeeF1A?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Bodrum, Turkey.<br><br>When Alexander the Great entered Caria in 334 BC, Ada, who was in possession of the fortress of Alinda, surrendered the fortress to him. After taking Halicarnassus, Alexander handed back the government of Caria to her; she, in turn, formally adopted Alexander as her son, ensuring that the rule of Caria passed unconditionally to him upon her eventual death. During the siege of Halicarnassus the city was fired by the retreating Persians. As he was not able to reduce the citadel, Alexander was forced to leave it blockaded. The ruins of this citadel and moat are now a tourist attraction in Bodrum.",
+        "gx_media_links": "https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/keu0mopr168or3dtdc6pj4gra8/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoxOZAm4lgyDT0teOIZjx2BEg5Bic7aW_On2xQ2ICjpXozqXsh06yWp5GYoACPkRZk5Rz7nK9XAU5LG9v6h_LUMEBOluV7ukQvp1wKB2cYB7qR8Bezw_2dxD-5NnQUl-cR3PxOwZ3LUtdZoFSO0kcU7xEq1BEMm_nE7l6n9qkDMsywS0ujmkbVfNJ4QByqPMz2UyGR6PjhjntO1QKVsvRchhBpHBkXEN6VOlJUbD6p80sld49vbca5RoJ4Jl5q_SiBA_PoarfZWEDxdfORYQ2IjNeeF1A?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9842997,
+          39.667663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maracanda",
+        "description": "Samarkand, Uzbekistan.<br><br>Alexander the Great conquered Samarkand in 329 BC. The city was known as Maracanda by the Greeks. Written sources offer small clues as to the subsequent system of government; they mention one Orepius who became ruler \"not from ancestors, but as a gift of Alexander.\"<br><br>While Samarkand suffered significant damage during Alexander's initial conquest, the city recovered rapidly and flourished under the new Hellenic influence. There were also major new construction techniques; oblong bricks were replaced with square ones and superior methods of masonry and plastering were introduced.<br><br>Alexander's conquests introduced classical Greek culture into Central Asia; for a time, Greek aesthetics heavily influenced local artisans. This Hellenistic legacy continued as the city became part of various successor states in the centuries following Alexander's death, i.e. the Seleucid Empire, Greco-Bactrian Kingdom, and Kushan Empire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2506023,
+          29.8445833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Memphis",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/bo1phh62g9mt1gcklp629jl2is/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrulHTJC8HOsea3FCti-2lqntxXeUFzBiNG-2i74K0kc4yTjdR3cQJaZ_aKZOzTSHZj8WO2oxWdv8hwxX1gnavPM6-DcRjIeY3MmVHqTl7CgGUTtmPQby4wASD8ebBJ4S-TCxev1VGVl2n6qEN0vUwYIW8D2DMFd9-GrDErVMURrOICBvGZxUcbLjL-gccBnHKQZIGLydCm_rcJqqGLJOD4pCNa6b7L2u8DobvqBqWxp3-eXtPxwzHbIMs_iz8yRS51QxOtJuPxfhDRRLK8Y_9r15sRHQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Mit Rahina, Egypt.<br><br>In 332 BC, Alexander the Great was crowned pharaoh in the Temple of Ptah, ushering in the Hellenistic period. The city retained a significant status, especially religious, throughout the period following the takeover by one of his generals, Ptolemy. On the death of Alexander in Babylon (323 BC), Ptolemy took great pains in acquiring his body and bringing it to Memphis. Claiming that the king himself had officially expressed a desire to be buried in Egypt, he then carried the body of Alexander to the heart of the temple of Ptah, and had him embalmed by the priests. By custom, kings in Macedon asserted their right to the throne by burying their predecessor. Ptolemy II later transferred the sarcophagus to Alexandria, where a royal tomb was constructed for its burial. The exact location of the tomb has been lost since then. According to Aelian, the seer Aristander foretold that the land where Alexander was laid to rest \"would be happy and unvanquishable forever\".<br><br>Thus began the Ptolemaic dynasty, during which began the city's gradual decline. It was Ptolemy I who first introduced the cult of Serapis in Egypt, establishing his cult in Saqqara. From this period date many developments of the Saqqara Serapeum, including the building of the Chamber of Poets, as well as the dromos adorning the temple, and many elements of Greek-inspired architecture. The cult's reputation extended beyond the borders of the country, but was later eclipsed by the great Alexandrian Serapeum, built in Ptolemy's honour by his successors.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/bo1phh62g9mt1gcklp629jl2is/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrulHTJC8HOsea3FCti-2lqntxXeUFzBiNG-2i74K0kc4yTjdR3cQJaZ_aKZOzTSHZj8WO2oxWdv8hwxX1gnavPM6-DcRjIeY3MmVHqTl7CgGUTtmPQby4wASD8ebBJ4S-TCxev1VGVl2n6qEN0vUwYIW8D2DMFd9-GrDErVMURrOICBvGZxUcbLjL-gccBnHKQZIGLydCm_rcJqqGLJOD4pCNa6b7L2u8DobvqBqWxp3-eXtPxwzHbIMs_iz8yRS51QxOtJuPxfhDRRLK8Y_9r15sRHQ?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2219304,
+          37.0699094,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nisibis",
+        "description": "Nusaybin, Turkey.<br><br>It was under Babylonian control until 536 BC, when it fell to the Achaemenid Persians, and remained so until taken by Alexander the Great in 332 BC. The Seleucids refounded the city as Antiochia Mygdonia mentioned for the first time in Polybius' description of the march of Antiochus III the Great against Molon (Polybius, V, 51). The Greek historian Plutarch suggested that the city was populated by descendants of Spartans."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1745888,
+          30.1985544,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pasargadae",
+        "description": "<img src=\"https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/0ct6trqe7ou672viov5hkpitsk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrlaCtxe4W0TvQOzwRM7p5Qqf8NyNE9g9zR_DlYkcsSb8mJT-hHSL8uEpDXyj7RhvTSCbzk1gEDMxkQ0M6IFHgZoGKSOFcM8ZzRlht1w87WCifosyCbbln8ogYaSv8JiTsjZFrM_I1FEJdIsOsoDZNLidh9q-CdiCLpXLnDeVv5eHSIwS0xChdK-IKq-tOagFzMZhoYIKkZ0Kd3p2z4fzBbm-Qx-BgWexLzOpjZKL9vi6JBqvZQ1uSz3mGxn4csK3Q6ZxqkPA9WClC_BJXjU0-zRX25SA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Pasargad, Iran.<br><br>It was founded in the 6th century BC as the first capital of the Achaemenid Empire by Cyrus the Great, near the site of his victory over the Median king Astyages in 550 BC. The city remained the Achaemenid capital until Darius moved it to Persepolis.<br><br>When Alexander looted and destroyed Persepolis, he paid a visit to the tomb of Cyrus. Arrian, writing in the second century AD, recorded that Alexander commanded Aristobulus, one of his warriors, to enter the monument. Inside he found a golden bed, a table set with drinking vessels, a gold coffin, some ornaments studded with precious stones and an inscription on the tomb.",
+        "gx_media_links": "https://doc-0k-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/0ct6trqe7ou672viov5hkpitsk/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrlaCtxe4W0TvQOzwRM7p5Qqf8NyNE9g9zR_DlYkcsSb8mJT-hHSL8uEpDXyj7RhvTSCbzk1gEDMxkQ0M6IFHgZoGKSOFcM8ZzRlht1w87WCifosyCbbln8ogYaSv8JiTsjZFrM_I1FEJdIsOsoDZNLidh9q-CdiCLpXLnDeVv5eHSIwS0xChdK-IKq-tOagFzMZhoYIKkZ0Kd3p2z4fzBbm-Qx-BgWexLzOpjZKL9vi6JBqvZQ1uSz3mGxn4csK3Q6ZxqkPA9WClC_BJXjU0-zRX25SA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.518877,
+          40.7614233,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pella",
+        "description": "<img src=\"https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/7qq52ifhn8mmkvaplnng7dphug/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALosZoY5qQXsnY_YNRGRWQhyu8V4xUQ-WHc9erxF9Pt7Uc7AapkIRbY84voYxIpSbOZhsI3qx4zLhvXZbJEZOwo6ldT2bH_5alhlSUMKcOkAZ3nKaFO0Klq4l0JcOBnPR8sMZDBlN552osYlkUYrH4Lk7Etb-SG3bjS7PcItqbGDPYGG_I7b2G4jAAbg6BKpcPPMIwfI5lzgUTMpgNTMhLwAZI4aYyUJ2l3u2iPGjbumDm4d_UUYAB2cLZoNMcOIt7GFADPWtl5UW1yEuxJqtJQ_ZxvfHQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Pella, Greece.<br><br>Pella was a strategic port connected to the Thermaic Gulf by a navigable inlet, but the harbour and gulf have since silted up, leaving the site landlocked.<br><br>Shops right along the eastern edge of the agora.<br>Pella is first mentioned by Herodotus of Halicarnassus (VII, 123) in relation to Xerxes' campaign and by Thucydides (II, 99,4 and 100,4) in relation to Macedonian expansion and the war against Sitalces, the king of the Thracians.<br><br>It was probably built as the capital of the kingdom by Archelaus I, replacing the older palace-city of Aigai although there appears to be some possibility that it may have been created by Amyntas.<br><br>Archelaus invited the painter Zeuxis, the greatest painter of the time, to decorate his palace. He also later hosted the poet Timotheus of Miletus and the Athenian playwright Euripides who finished his days there writing and producing Archelaus. Euripides Bacchae was first staged here, about 408 BC. According to Xenophon, in the beginning of the 4th century BC Pella was the largest Macedonian city. It was the birthplace and seats of Philip II, in 382 BC and of Alexander the Great, his son, in 356 BC.<br><br><img src=\"https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/vbhkv8j4379bv1d4rpa82ncdbs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr-FYKcPIoWQ8SoqNirRn1ae_OmK68IFgyEQtL_vR_5p2PO5E2v4WF9emfxwb39nQRIRx8zxY73Bt1eC4KtXifxu6QF-ehZXKs-IDLqyG-6yhfVeAFv8rjyGgYbxio9Wsaty4Q5sywlXqcAxLixJC6mCxlE032KjSOwRFVZ4OEJxVQzTkjAvFLMaSYOOEDnlxZ9TCJfXBg7Gb_WmhgLrwBwmCHiSh9-wkesIGm9mf6gvt4ts_CZwXLNTbADq00qPIe0u7Hwb70UTxES6f2xMw2PY3S7Ig?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-00-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/7qq52ifhn8mmkvaplnng7dphug/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALosZoY5qQXsnY_YNRGRWQhyu8V4xUQ-WHc9erxF9Pt7Uc7AapkIRbY84voYxIpSbOZhsI3qx4zLhvXZbJEZOwo6ldT2bH_5alhlSUMKcOkAZ3nKaFO0Klq4l0JcOBnPR8sMZDBlN552osYlkUYrH4Lk7Etb-SG3bjS7PcItqbGDPYGG_I7b2G4jAAbg6BKpcPPMIwfI5lzgUTMpgNTMhLwAZI4aYyUJ2l3u2iPGjbumDm4d_UUYAB2cLZoNMcOIt7GFADPWtl5UW1yEuxJqtJQ_ZxvfHQ?session=0&fife https://doc-0g-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/vbhkv8j4379bv1d4rpa82ncdbs/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALr-FYKcPIoWQ8SoqNirRn1ae_OmK68IFgyEQtL_vR_5p2PO5E2v4WF9emfxwb39nQRIRx8zxY73Bt1eC4KtXifxu6QF-ehZXKs-IDLqyG-6yhfVeAFv8rjyGgYbxio9Wsaty4Q5sywlXqcAxLixJC6mCxlE032KjSOwRFVZ4OEJxVQzTkjAvFLMaSYOOEDnlxZ9TCJfXBg7Gb_WmhgLrwBwmCHiSh9-wkesIGm9mf6gvt4ts_CZwXLNTbADq00qPIe0u7Hwb70UTxES6f2xMw2PY3S7Ig?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8927885,
+          29.9339653,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Persepolis",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/s8ea7b14st77vvv2pcfmq0ch1k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrch5ojqUm1xE6dSxF9mT7pze5Tjbonbm0-P1q4DgaFwEmIu_plDtNtlsTwK9nLj2LgKzOWMZb9sFSY5VnJ0wjVC1KB8cr_XYxnr7jfX1hVMzSHf9Ck0hPf9ioxalD3TixCFha81jpWDmdy7GWX_pzJ9ZRCH6xzsr2XTfrI4DzPjOUAW1ikXSNJtWBlBBpbVXkobfyTbwaA67qzrIifL0p4qSojmGcvxI2I36VlbNUUFOLr4B227gvcfNYw-Ecoj4bf5iH3FEq9osfxJPhiIt6k-brXIg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Marvdasht, Iran.<br><br>After invading Achaemenid Persia in 330 BC, Alexander the Great sent the main force of his army to Persepolis by the Royal Road. He stormed the \"Persian Gates\", a pass through modern-day Zagros Mountains. There Ariobarzanes of Persis successfully ambushed Alexander the Great's army, inflicting heavy casualties. After being held off for 30 days, Alexander the Great outflanked and destroyed the defenders. Ariobarzanes himself was killed either during the battle or during the retreat to Persepolis. Some sources indicate that the Persians were betrayed by a captured tribal chief who showed the Macedonians an alternate path that allowed them to outflank Ariobarzanes in a reversal of Thermopylae. After several months, Alexander allowed his troops to loot Persepolis.<br><br>Around that time, a fire burned \"the palaces\" or \"the palace\". Scholars agree that this event, described in historic sources, occurred at the ruins that have been now re-identified as Persepolis. From Stolze's investigations, it appears that at least one of these, the castle built by Xerxes I, bears traces of having been destroyed by fire. The locality described by Diodorus Siculus after Cleitarchus corresponds in important particulars with the historic Persepolis, for example, in being supported by the mountain on the east.<br><br>It is believed that the fire which destroyed Persepolis started from Hadish Palace, which was the living quarters of Xerxes I, and spread to the rest of the city. It is not clear if the fire was an accident or a deliberate act of revenge for the burning of the Acropolis of Athens during the second Persian invasion of Greece. Many historians argue that, while Alexander's army celebrated with a symposium, they decided to take revenge against the Persians. If that is so, then the destruction of Persepolis could be both an accident and a case of revenge.<br><br><img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/al4gjkjo7rcdbbo62bg9jjbjm0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrqGigqD9yjFHiiTmwZH75YApCPnTldh7_INZb0Kx2UzPN30zu5vragonVy7D-EStIVFC-mGYi-tWFRJ11_DclXv75tOLeg_EXslhQLoi1z61nJVMCHmvq7I0P5u5zrKhEOz5gmnI0P51Pe8amZMF4JOD5sk4HL6bLrN-gfARe6h9cMSzv5u01KjRmh9zJl-nNwbGjefurITPy4uGOygLQTGTP-AkWb9pXdwAqMBAyDRP-uplvl921osapdMAL_EQmvsps5rVLbyGh6Fq2E3or-FQhp4Q?session=0&fife\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/s8ea7b14st77vvv2pcfmq0ch1k/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrch5ojqUm1xE6dSxF9mT7pze5Tjbonbm0-P1q4DgaFwEmIu_plDtNtlsTwK9nLj2LgKzOWMZb9sFSY5VnJ0wjVC1KB8cr_XYxnr7jfX1hVMzSHf9Ck0hPf9ioxalD3TixCFha81jpWDmdy7GWX_pzJ9ZRCH6xzsr2XTfrI4DzPjOUAW1ikXSNJtWBlBBpbVXkobfyTbwaA67qzrIifL0p4qSojmGcvxI2I36VlbNUUFOLr4B227gvcfNYw-Ecoj4bf5iH3FEq9osfxJPhiIt6k-brXIg?session=0&fife https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/al4gjkjo7rcdbbo62bg9jjbjm0/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALrqGigqD9yjFHiiTmwZH75YApCPnTldh7_INZb0Kx2UzPN30zu5vragonVy7D-EStIVFC-mGYi-tWFRJ11_DclXv75tOLeg_EXslhQLoi1z61nJVMCHmvq7I0P5u5zrKhEOz5gmnI0P51Pe8amZMF4JOD5sk4HL6bLrN-gfARe6h9cMSzv5u01KjRmh9zJl-nNwbGjefurITPy4uGOygLQTGTP-AkWb9pXdwAqMBAyDRP-uplvl921osapdMAL_EQmvsps5rVLbyGh6Fq2E3or-FQhp4Q?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388427,
+          36.7666458,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Side\n",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/8d4s9cn71soatim7a73s1hdghc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALopp2oZSL2rX-RuWyCHlSxoDcBg81xdsiSApppSaUjTbK_XjIf6LfMbBZufFG51nc-vkMvvdjJinpeHRaoB97ue9bHpDe0I2K2ySjMN9IePpTSs7xU2ljFJPPivgsJ4qBQSiTb5fhOgsLN2l8RRmvbdI0fWstsWkMzp6Gz6EXfxa3h_N6eXhXmqCO7ENvQhICvg04EYCF8ejB-8lmglGfjPoA-64YaDTaBSK5OBWl4c3NwIb2cKNTYtAK76T3G7e25JmqjTuZYw0tiqff3Wb7c_3XA0bw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Side, Turkey.<br><br>Alexander the Great occupied Side without a struggle in 333 BC. Alexander left only a single garrison behind to occupy the city. This occupation, in turn, introduced the people of Side to Hellenistic culture, which flourished from the 4th to the 1st century BC. <br><br>After Alexander's death, Side fell under the control of one of Alexander's generals, Ptolemy I Soter, who declared himself king of Egypt in 305 BC. The Ptolemaic dynasty controlled Side until it was captured by the Seleucid Empire in the 2nd century BC. Yet, despite these occupations, Side managed to preserve some autonomy, grew prosperous, and became an important cultural centre.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/8d4s9cn71soatim7a73s1hdghc/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALopp2oZSL2rX-RuWyCHlSxoDcBg81xdsiSApppSaUjTbK_XjIf6LfMbBZufFG51nc-vkMvvdjJinpeHRaoB97ue9bHpDe0I2K2ySjMN9IePpTSs7xU2ljFJPPivgsJ4qBQSiTb5fhOgsLN2l8RRmvbdI0fWstsWkMzp6Gz6EXfxa3h_N6eXhXmqCO7ENvQhICvg04EYCF8ejB-8lmglGfjPoA-64YaDTaBSK5OBWl4c3NwIb2cKNTYtAK76T3G7e25JmqjTuZYw0tiqff3Wb7c_3XA0bw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5198785,
+          29.2041831,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Siwa Oasis",
+        "description": "<img src=\"https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/obn6btqg1agrchrtm4e43jrmns/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqq6VyJ3NSs5lbSBzQWgDRlf5iikY6yqpN4cP0axJyBSit2V2CA8J59UVMgtgir6GqLJQZ33aya4Lac3rruW3Z2PHohbl5dGRu_d_lrdSY8XxAUPyIFJ2yBz4p4bLjho0pJ9UfjxopgMDTnj49urOTLuSqJ3XLyLIJPDs20ubUUF8KpLxXMGAGQNHwX-OGkUq_28NEmqQz7KJENIvalP8c4_U_WFwxZJe_IbxBjA8BVYn3cAzlAEGK4Fdj_ZVdBD55EqOtN0Sjka_0uIPH9A_1ZAMq5tA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Siwa Oasis, Egypt.<br><br>During his campaign to conquer the Persian Empire, Alexander the Great reached the oasis, supposedly by following birds across the desert. The oracle, Alexander's court historians alleged, confirmed him as both a divine personage and the legitimate Pharaoh of Egypt, though Alexander's motives in making the excursion, following his founding of Alexandria, remain to some extent inscrutable and contested.",
+        "gx_media_links": "https://doc-0c-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/obn6btqg1agrchrtm4e43jrmns/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALqq6VyJ3NSs5lbSBzQWgDRlf5iikY6yqpN4cP0axJyBSit2V2CA8J59UVMgtgir6GqLJQZ33aya4Lac3rruW3Z2PHohbl5dGRu_d_lrdSY8XxAUPyIFJ2yBz4p4bLjho0pJ9UfjxopgMDTnj49urOTLuSqJ3XLyLIJPDs20ubUUF8KpLxXMGAGQNHwX-OGkUq_28NEmqQz7KJENIvalP8c4_U_WFwxZJe_IbxBjA8BVYn3cAzlAEGK4Fdj_ZVdBD55EqOtN0Sjka_0uIPH9A_1ZAMq5tA?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2602404,
+          32.1914896,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Susa",
+        "description": "<img src=\"https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rsu8mbigm83ulkq3e2d42bdqg4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoGSAGlj5xQvrFZdGDusKnMZsboI5nojkA9x8slUM-Cw5Ef5C-4dL0M0KGdQ23_SzPVPl0yzYXILb1pa4oyyjm8cVMLAR4p6sxdHYNNLPl66jWprLD2WFrdrjEqhy2kSxTKHJZMxVA3YcTMgNVzpec6BqC9E0FrVYoZzv6N3PexLlHAKyTFa4kYqzTLcbRMO9ld2Kcdp1JSyu3-xIdODsycpkt-6pJwPIWi5D-elvL6B9iKeish1LdcV5-3CI3uEtS55LocFCdZA8j_kUIvbOz3-QWiIw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Shush, Iraq.<br><br>Susa lost much of its importance after the invasion of Alexander the Great of Macedon in 331 BC. In 324 BC he met Nearchus here, who explored the Persian Gulf as he returned from the Indus River by sea. In that same year Alexander celebrated in Susa with a mass wedding between the Persians and Macedonians.<br><br>The city retained its importance under the Seleucids for approximately one century after Alexander, however Susa lost its position of imperial capital to Seleucia to become the regional capital of the satrapy of Susiana. Nevertheless, Susa retained its economic importance to the empire with its vast assortment of merchants conducting trade in Susa, using Charax Spasinou as its port.",
+        "gx_media_links": "https://doc-0o-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/rsu8mbigm83ulkq3e2d42bdqg4/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALoGSAGlj5xQvrFZdGDusKnMZsboI5nojkA9x8slUM-Cw5Ef5C-4dL0M0KGdQ23_SzPVPl0yzYXILb1pa4oyyjm8cVMLAR4p6sxdHYNNLPl66jWprLD2WFrdrjEqhy2kSxTKHJZMxVA3YcTMgNVzpec6BqC9E0FrVYoZzv6N3PexLlHAKyTFa4kYqzTLcbRMO9ld2Kcdp1JSyu3-xIdODsycpkt-6pJwPIWi5D-elvL6B9iKeish1LdcV5-3CI3uEtS55LocFCdZA8j_kUIvbOz3-QWiIw?session=0&fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1952681,
+          33.2722024,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tyre",
+        "description": "<img src=\"https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/u8bekqo9pu7no07nkhqbeua2gg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpbtgbxBb2lqANsRVwZLGnus31vQBVbmut-6gY1sep7U8Ur16VTIawoKJmEgP8Zttx-xrBwU5qIq9Jmjj3wHBgUr0TXDNVtOKobrLrrbuyhUzSzHfJwgimJtE9c0gcfqUrAEUpFdGHIEx30zXOnaDq0c3YFck7lQVukgHTcu6-L7qXY06aSet54aEbtG4SQdSt3_yYrxCMiKbYLfZOnx8h4kwZw1mt_nKan4R5PzYtQiyXrI_nTE6OjUMNMOEjWWGeNonzpZPKR941iMlnt8vP1ixsVng?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Tyre, Lebanon.<br><br>After his decisive victory over the Persian king Darius III in 333 BC and the conquest of Persia, Alexander the Great moved his armies south, exacting tribute from all of coastal Phoenicia's city-states. Tired of Persian repressions, they mostly welcomed the new ruler, yet Tyre resisted his ambitions.<br><br>Tyre's king Azemilcus was at sea with the Persian fleet, when Alexander arrived in 332 BC at the gates and proposed to sacrifice to Heracles in the city, which was home to the most ancient temple of Heracles. However, the Tyrian government refused this and instead suggested that Alexander sacrifice at another temple of Heracles on the mainland at Old Tyre.<br><br>Angered by this rejection and the city's loyalty to Darius, Alexander started the Siege of Tyre despite its reputation as being impregnable. However, the Macedonian conqueror succeeded after seven months by demolishing the old city on the mainland and using its stones to construct a causeway to the island.<br><br>The tallest siege towers ever used in the history of war were moved via this man-made land bridge to overcome the walls of the city, which was running low on supplies. As Alexander's forces moved forward towards linking the fortified island with the mainland, the Tyrians evacuated their old men, women, and children to Carthage. According to some historical sources, fellow Phoenician sailors from Sidon and Byblos, who had been forcefully recruited by Alexander, secretly helped many Tyrians to escape.<br><br>Altogether some eight thousand Tyrians were reportedly killed during the siege, while Alexander's troops suffered only about four hundred casualties. After Alexander's victory he granted pardon to King Azemilcus and the chief magistrates. Yet according to Arrian, approximately 30,000 citizens were sold into slavery.<br><br>Alexander's legacy still lives on today, since Tyre has remained a peninsula instead of an island ever since.<br><br>After Alexander's death in 323 BC, his empire was divided and Phoenicia given to Laomedon of Mytilene. Ptolemy of Egypt soon annexed the region to his territory, but held it only for a few years.<br><br>In 315 BC, Alexander's former general Antigonus began his own siege of Tyre. The city had recovered rapidly after Alexander's conquest, but was still taken a year later. Antigonus' son Demetrius ruled Phoenicia until 287 BC, when it once again passed over to Ptolemy. It remained under the control of his successors for almost seventy years, until the Seleucids under Antiochus III invaded Phoenicia in 198 BC.",
+        "gx_media_links": "https://doc-0s-1k-mymaps.googleusercontent.com/untrusted/hostedimage/3if6nuuloaqsout0l2uu9p5glk/u8bekqo9pu7no07nkhqbeua2gg/1603501045250/3FQd288te6vxbAkvERm6yg05V1o2XE9v/11567608349082302953/5AF2TALpbtgbxBb2lqANsRVwZLGnus31vQBVbmut-6gY1sep7U8Ur16VTIawoKJmEgP8Zttx-xrBwU5qIq9Jmjj3wHBgUr0TXDNVtOKobrLrrbuyhUzSzHfJwgimJtE9c0gcfqUrAEUpFdGHIEx30zXOnaDq0c3YFck7lQVukgHTcu6-L7qXY06aSet54aEbtG4SQdSt3_yYrxCMiKbYLfZOnx8h4kwZw1mt_nKan4R5PzYtQiyXrI_nTE6OjUMNMOEjWWGeNonzpZPKR941iMlnt8vP1ixsVng?session=0&fife"
+      }
+    }
+  ]
+}
