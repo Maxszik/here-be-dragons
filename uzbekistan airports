@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2938888888889,
+          40.7277777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Andizhan Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.4833333333333,
+          39.775,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bukhara International Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.745,
+          40.3588888888889,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fergana International Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8841666666667,
+          43.0830555555556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kungrad Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.7705555555556,
+          38.8038888888889,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karshi Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0308333333333,
+          43.7552777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Muynak Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.1652777777778,
+          39.1377777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maymanak Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5566666666667,
+          40.9844444444444,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Namangan Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.175,
+          40.1177777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Navoi International Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6230555555556,
+          42.4883333333333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nukus Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9838888888889,
+          39.7005555555556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Samarkand Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9452777777778,
+          38.4105555555556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sary Asiya Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.7755555555556,
+          39.03,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shakhrisabz Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2811111111111,
+          41.2577777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tashkent International Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3925,
+          41.3102777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New Tashkent Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.31,
+          37.2866666666667,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Termez Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.9666666666667,
+          41.575,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turtkul Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4491666666667,
+          42.0830555555556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Uchkuduk Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6416666666667,
+          41.5841666666667,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Urgench International Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.2327777777778,
+          41.6136111111111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zarafshan Airport",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5758333333333,
+          41.5108333333333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chirchik Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5291666666667,
+          44.03,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jaslyk Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9105555555556,
+          40.2527777777778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pakhtakor Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5172222222222,
+          37.625,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kakaydy Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5447222222222,
+          39.6880555555556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kagan South Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.9213888888889,
+          38.8336111111111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karshi Airport/Karshi-Khanabad Air Base",
+        "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Military_Airports\">List of airports in Uzbekistan</a>"
+      }
+    }
+  ]
+}
