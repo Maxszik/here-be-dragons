@@ -2438,7 +2438,8 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "location": "Scandinavia",
-        "title": "Gdynia-Karlskrona ferry"
+        "title": "Gdynia-Karlskrona ferry",
+        "country": ""
       },
       "geometry": {
         "type": "Point",
