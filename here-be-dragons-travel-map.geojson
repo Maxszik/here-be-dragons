@@ -1232,7 +1232,8 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "location": "Scandinavia",
-        "title": "Baltic Ferry"
+        "title": "Baltic Ferry",
+        "country": "Sweden-Finland/Estonia"
       },
       "geometry": {
         "type": "Point",
@@ -2437,7 +2438,8 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "location": "Scandinavia",
-        "title": "Gdynia-Karlskrona ferry"
+        "title": "Gdynia-Karlskrona ferry",
+        "country": "Poland-Sweden"
       },
       "geometry": {
         "type": "Point",
