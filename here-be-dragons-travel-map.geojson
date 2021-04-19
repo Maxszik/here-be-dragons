@@ -4959,7 +4959,7 @@
         "marker-symbol": "harbor",
         "title": "Petropavlovsk-Kamchatka",
         "country": "Russia",
-        "location": "Siberia"
+        "location": "Russian Far East"
       },
       "geometry": {
         "type": "Point",
@@ -4977,7 +4977,7 @@
         "marker-symbol": "circle-stroked",
         "title": "Milkovo",
         "country": "Russia",
-        "location": "Siberia"
+        "location": "Russian Far East"
       },
       "geometry": {
         "type": "Point",
@@ -5013,7 +5013,7 @@
         "marker-symbol": "circle-stroked",
         "title": "Esso",
         "country": "Russia",
-        "location": "Siberia"
+        "location": "Russian Far East"
       },
       "geometry": {
         "type": "Point",
@@ -5488,6 +5488,78 @@
         "coordinates": [
           129.17037963867188,
           35.15991570498811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "heliport",
+        "country": "Russia",
+        "title": "Kamchatka Heliport",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.308846950531,
+          53.04310947831025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "title": "Camel Mountain",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.76396417617798,
+          53.2715204200613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Uzon",
+        "country": "Russia",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.9671173095703,
+          54.49975450077774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "title": "Valley of Geysers",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.14779090881348,
+          54.43308578441171
         ]
       }
     }
