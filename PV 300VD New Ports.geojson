@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "title": "",
+        "description": "Gulf of Finland",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.736801147460938,
+          60.70712821381297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Gulf of Finland",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.335886001586914,
+          59.67190150776964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Gulf of Finland",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.803547859191895,
+          59.98415509133276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001d57",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "description": "",
+        "title": "Gulf of Finland",
+        "country": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5869140625,
+          59.91097597079679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Black Sea coast",
+        "title": "",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.518900871276855,
+          44.614789327392714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "title": "",
+        "description": "Black Sea coast",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.169583320617676,
+          44.492204295629676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Black Sea coast",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38293957710266,
+          45.035200014059704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Strait of Kerch",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.48046731948852,
+          45.351670245101424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "title": "",
+        "description": "Black Sea coast",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77899980545044,
+          44.72676567277721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Black Sea coast",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70928907394409,
+          43.57812137338189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Black Sea coast",
+        "country": "Abkhazia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.992136001586914,
+          42.993661773113836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Sea of Azov",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.949666023254395,
+          47.20140598447816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Sea of Azov",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2808518409729,
+          46.732816349966896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.850195646286004,
+          40.342913478251766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Dagestan, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29044818878174,
+          42.10487725758452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Dagestan, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.50887393951416,
+          42.98969086885876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.120028495788574,
+          43.67705963623325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.99577236175537,
+          39.997588613125686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46341037750244,
+          37.478161685715826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "title": "",
+        "country": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.041619300842285,
+          36.89796666607537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "marker-color": "#001d57",
+        "description": "Caspian Sea",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.252323150634766,
+          44.548911133114885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001d57",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "description": "",
+        "title": "Black Sea",
+        "country": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8701171875,
+          43.42100882994726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001d57",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "description": "",
+        "title": "Caspian Sea",
+        "country": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.328125,
+          41.902277040963696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001d57",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "description": "Caspian Sea",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.016144037246704,
+          46.34774967133736
+        ]
+      }
+    }
+  ]
+}
