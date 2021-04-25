@@ -5562,6 +5562,24 @@
           54.43308578441171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "Russian Far East",
+        "title": "Avacha Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.6700439453125,
+          52.8674717557389
+        ]
+      }
     }
   ]
 }
