@@ -7,7 +7,7 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
-        "title": "",
+        "title": "Vyborg",
         "description": "Gulf of Finland",
         "country": "Russia"
       },
@@ -26,7 +26,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Gulf of Finland",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Ust-Luga"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Gulf of Finland",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Saint Petersburg"
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +80,7 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Black Sea coast",
-        "title": "",
+        "title": "Sevastopol",
         "country": "Russia"
       },
       "geometry": {
@@ -95,7 +97,7 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
-        "title": "",
+        "title": "Yalta",
         "description": "Black Sea coast",
         "country": "Russia"
       },
@@ -114,7 +116,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Black Sea coast",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Feodosia"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +134,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Strait of Kerch",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Kerch"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +151,7 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
-        "title": "",
+        "title": "Novorossiysk",
         "description": "Black Sea coast",
         "country": "Russia"
       },
@@ -166,7 +170,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Black Sea coast",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Sochi"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +188,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Black Sea coast",
-        "country": "Abkhazia"
+        "country": "Abkhazia",
+        "title": "Sukhumi"
       },
       "geometry": {
         "type": "Point",
@@ -200,7 +206,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Sea of Azov",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Taganrog"
       },
       "geometry": {
         "type": "Point",
@@ -217,7 +224,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Sea of Azov",
-        "country": "Russia"
+        "country": "Russia",
+        "title": "Yeysk"
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +242,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Azerbaijan"
+        "country": "Azerbaijan",
+        "title": "Baku"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +260,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Dagestan, Russia"
+        "country": "Dagestan, Russia",
+        "title": "Derbent"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +278,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Dagestan, Russia"
+        "country": "Dagestan, Russia",
+        "title": "Makhachkala"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +296,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Kazakhstan"
+        "country": "Kazakhstan",
+        "title": "Aktau"
       },
       "geometry": {
         "type": "Point",
@@ -302,7 +314,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Turkmenistan"
+        "country": "Turkmenistan",
+        "title": "Turkmenbashy"
       },
       "geometry": {
         "type": "Point",
@@ -319,7 +332,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Iran"
+        "country": "Iran",
+        "title": "Bandar-e Anzali"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +350,7 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "title": "",
+        "title": "Bandar-e Torkaman",
         "country": "Iran"
       },
       "geometry": {
@@ -354,7 +368,8 @@
         "marker-symbol": "harbor",
         "marker-color": "#001d57",
         "description": "Caspian Sea",
-        "country": "Kazakhstan"
+        "country": "Kazakhstan",
+        "title": "Fort Shevchenko"
       },
       "geometry": {
         "type": "Point",
@@ -406,14 +421,33 @@
         "marker-color": "#001d57",
         "marker-size": "small",
         "marker-symbol": "harbor",
-        "description": "Caspian Sea",
-        "country": "Russia"
+        "description": "Volga River",
+        "country": "Russia",
+        "title": "Astrakhan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           48.016144037246704,
           46.34774967133736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#001d57",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "description": "Don River",
+        "country": "Russia",
+        "title": "Rostov-on-Don"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71132755279541,
+          47.21289286848399
         ]
       }
     }
