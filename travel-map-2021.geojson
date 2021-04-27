@@ -8,7 +8,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Southern Asia",
         "REGION_WB": "South Asia",
-        "country": "Afghanistan"
+        "country": "Afghanistan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -301,7 +303,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Albania"
+        "country": "Albania",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -414,7 +418,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Armenia"
+        "country": "Armenia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -511,7 +517,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -580,7 +588,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -645,7 +655,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -750,7 +762,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -807,7 +821,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -856,7 +872,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -929,7 +947,9 @@
         "REGION_UN": "Antarctica",
         "SUBREGION": "Antarctica",
         "REGION_WB": "Antarctica",
-        "country": "Antarctica"
+        "country": "Antarctica",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1050,7 +1070,9 @@
         "REGION_UN": "Seven seas (open ocean)",
         "SUBREGION": "Seven seas (open ocean)",
         "REGION_WB": "Sub-Saharan Africa",
-        "country": "French Southern and Antarctic Lands"
+        "country": "French Southern and Antarctic Lands",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1103,7 +1125,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Western Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Austria"
+        "country": "Austria",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1268,7 +1292,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Azerbaijan"
+        "country": "Azerbaijan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1425,7 +1451,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Azerbaijan"
+        "country": "Azerbaijan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1478,7 +1506,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Bulgaria"
+        "country": "Bulgaria",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,7 +1637,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Bosnia and Herzegovina"
+        "country": "Bosnia and Herzegovina",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,7 +1748,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Belarus"
+        "country": "Belarus",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1913,7 +1947,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1994,7 +2030,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2055,7 +2093,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2116,7 +2156,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2157,7 +2199,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2218,7 +2262,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2295,7 +2341,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2356,7 +2404,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2405,7 +2455,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2474,7 +2526,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2579,7 +2633,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2644,7 +2700,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2689,7 +2747,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2734,7 +2794,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2779,7 +2841,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "Canada"
+        "country": "Canada",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2840,7 +2904,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Western Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Switzerland"
+        "country": "Switzerland",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2953,7 +3019,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Caribbean",
         "REGION_WB": "Latin America & Caribbean",
-        "country": "Cuba"
+        "country": "Cuba",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3138,7 +3206,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Northern Cyprus"
+        "country": "Northern Cyprus",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3219,7 +3289,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Czechia"
+        "country": "Czechia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3376,7 +3448,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Western Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Germany"
+        "country": "Germany",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3625,7 +3699,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Denmark"
+        "country": "Denmark",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3714,7 +3790,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Denmark"
+        "country": "Denmark",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3755,7 +3833,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Spain"
+        "country": "Spain",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3976,7 +4056,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Estonia"
+        "country": "Estonia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4069,7 +4151,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Finland"
+        "country": "Finland",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4246,7 +4330,9 @@
         "REGION_UN": "Oceania",
         "SUBREGION": "Melanesia",
         "REGION_WB": "East Asia & Pacific",
-        "country": "Fiji"
+        "country": "Fiji",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4283,7 +4369,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Georgia"
+        "country": "Georgia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4396,7 +4484,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Greece"
+        "country": "Greece",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4585,7 +4675,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Croatia"
+        "country": "Croatia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4774,7 +4866,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Hungary"
+        "country": "Hungary",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4919,7 +5013,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Southern Asia",
         "REGION_WB": "Middle East & North Africa",
-        "country": "Iran"
+        "country": "Iran",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5240,7 +5336,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Italy"
+        "country": "Italy",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5521,7 +5619,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Italy"
+        "country": "Italy",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5582,7 +5682,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Central Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Kazakhstan"
+        "country": "Kazakhstan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6047,7 +6149,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Central Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Kyrgyzstan"
+        "country": "Kyrgyzstan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6204,7 +6308,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Eastern Asia",
         "REGION_WB": "East Asia & Pacific",
-        "country": "South Korea"
+        "country": "South Korea",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6297,7 +6403,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Lithuania"
+        "country": "Lithuania",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6390,7 +6498,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Western Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Luxembourg"
+        "country": "Luxembourg",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6435,7 +6545,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Latvia"
+        "country": "Latvia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6540,7 +6652,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Moldova"
+        "country": "Moldova",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6665,7 +6779,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Montenegro"
+        "country": "Montenegro",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6754,7 +6870,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Eastern Asia",
         "REGION_WB": "East Asia & Pacific",
-        "country": "Mongolia"
+        "country": "Mongolia",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7071,7 +7189,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Western Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Netherlands"
+        "country": "Netherlands",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7148,7 +7268,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Norway"
+        "country": "Norway",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7365,7 +7487,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Middle East & North Africa",
-        "country": "Oman"
+        "country": "Oman",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7406,7 +7530,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Poland"
+        "country": "Poland",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7603,7 +7729,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Eastern Asia",
         "REGION_WB": "East Asia & Pacific",
-        "country": "North Korea"
+        "country": "North Korea",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7636,7 +7764,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Portugal"
+        "country": "Portugal",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7781,6 +7911,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "",
+        "stroke-width": "",
+        "stroke-opacity": 0,
+        "fill": "",
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -7974,9 +8109,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "fill": "#555555",
+        "stroke": "",
+        "stroke-width": "",
+        "fill": "",
         "stroke-opacity": 0,
         "fill-opacity": 0,
         "CONTINENT": "Europe",
@@ -9820,8 +9955,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke": "",
+        "stroke-width": "",
+        "fill": "",
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -9875,13 +10013,15 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Russia"
+        "country": "Russia",
+        "stroke": "",
+        "stroke-width": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -9966,8 +10106,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10073,8 +10213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10188,8 +10328,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10227,8 +10367,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10278,8 +10418,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10329,8 +10469,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10376,8 +10516,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10431,8 +10571,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10554,8 +10694,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10601,8 +10741,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10680,8 +10820,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
@@ -10747,7 +10887,9 @@
         "REGION_UN": "Africa",
         "SUBREGION": "Western Africa",
         "REGION_WB": "Sub-Saharan Africa",
-        "country": "Senegal"
+        "country": "Senegal",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -10940,7 +11082,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Slovakia"
+        "country": "Slovakia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11089,7 +11233,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Southern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Slovenia"
+        "country": "Slovenia",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11178,7 +11324,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Northern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Sweden"
+        "country": "Sweden",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11355,7 +11503,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Central Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Tajikistan"
+        "country": "Tajikistan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11536,7 +11686,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Central Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Turkmenistan"
+        "country": "Turkmenistan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11769,7 +11921,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Caribbean",
         "REGION_WB": "Latin America & Caribbean",
-        "country": "Trinidad and Tobago"
+        "country": "Trinidad and Tobago",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -11818,7 +11972,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Turkey"
+        "country": "Turkey",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -12051,7 +12207,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Western Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Turkey"
+        "country": "Turkey",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -12124,7 +12282,9 @@
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Ukraine"
+        "country": "Ukraine",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -12513,7 +12673,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -13462,7 +13624,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14035,7 +14199,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14120,7 +14286,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14173,7 +14341,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14210,7 +14380,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "fill-opacity": 0,
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14263,7 +14435,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14308,7 +14482,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14361,7 +14537,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14406,7 +14584,9 @@
         "REGION_UN": "Americas",
         "SUBREGION": "Northern America",
         "REGION_WB": "North America",
-        "country": "United States of America"
+        "country": "United States of America",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14471,7 +14651,9 @@
         "REGION_UN": "Asia",
         "SUBREGION": "Central Asia",
         "REGION_WB": "Europe & Central Asia",
-        "country": "Uzbekistan"
+        "country": "Uzbekistan",
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14704,7 +14886,10 @@
         "REGION_UN": "Oceania",
         "SUBREGION": "Melanesia",
         "REGION_WB": "East Asia & Pacific",
-        "country": "Vanuatu"
+        "country": "Vanuatu",
+        "stroke-opacity": 0,
+        "fill": "",
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14742,7 +14927,8 @@
         "marker-color": "#990000",
         "marker-symbol": "harbor",
         "country": "Ukraine",
-        "title": "Odessa"
+        "title": "Odessa",
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
