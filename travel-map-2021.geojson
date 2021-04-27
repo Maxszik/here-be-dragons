@@ -46311,6 +46311,5586 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Black Sea",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Odessa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.745213,
+          46.489937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Black Sea",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Sevastopol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.518822,
+          44.614735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Black Sea",
+        "marker-size": "small",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Turkey",
+        "title": "Istanbul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.976959,
+          41.005268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Black Sea",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Yalta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.167576,
+          44.494984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Kiev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52659,
+          50.460793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Kremenchug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.410034,
+          49.065784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Cherkasy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.059722,
+          49.444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Kaniv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4697,
+          49.751034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Dnipro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.046185,
+          48.464718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Kherson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.616867,
+          46.635418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Dnepr river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Ukraine",
+        "title": "Zaporizhia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.139568,
+          47.838799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kama river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Perm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.252113,
+          58.021362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kama river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Chaykovsky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.116669,
+          56.766666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kama river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Yelabuga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.066666,
+          55.766666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kama river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Votkinsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.959351,
+          57.053802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Khimki Reservoir",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Moscow North River Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.466942,
+          55.851131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lake Onega",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kizhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.238056,
+          62.066667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lower Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Saratov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.055824,
+          51.525948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lower Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Volgograd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.520432,
+          48.701336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lower Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Astrakhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.018398,
+          46.348526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Middle Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kazan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.091431,
+          55.773232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Middle Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Ulyanovsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.394775,
+          54.298519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Middle Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Samara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.077583,
+          53.18634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Neva river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "St Petersburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498648,
+          59.856197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Neva river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Shlisselburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0326,
+          59.9296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sheksna river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kirillov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.383331,
+          59.866669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sheksna river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Goritsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.251453,
+          59.868866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sheksna river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Cherepovets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.916668,
+          59.133331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sheksna river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Sheksna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          59.216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sheksna river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kuzino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.28519,
+          59.759521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Svir river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Mandrogy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8191,
+          60.897853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Svir river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Svirstroi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.717991,
+          60.813171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Nizhny Novgorod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.987518,
+          56.329899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Cheboksary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.258678,
+          56.148548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Yaroslavl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.892731,
+          57.634651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Uglich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.322823,
+          57.530731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kostroma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.927292,
+          57.76181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Rybinsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.833332,
+          58.049999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Plyos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.515999,
+          57.456501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Gorodets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.483334,
+          56.650002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Kalyazin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.847195,
+          57.240669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Tutayev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.549999,
+          57.883331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Upper Volga",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Dubna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.166667,
+          56.733333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Vytegra river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia",
+        "title": "Vytegra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.451023,
+          61.01643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Balaklava",
+        "location": "Black Sea",
+        "country": "Ukraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.59687805175781,
+          44.503545487379675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Berlin",
+        "country": "Germany",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410530090332031,
+          52.52126087913385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Budapest",
+        "country": "Hungary",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051837921142578,
+          47.491804845637155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tiksi",
+        "location": "Buor-Khaya Gulf",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.856548,
+          71.746906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Krasnoyarsk",
+        "location": "Enisey river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.864349,
+          56.014107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Listvyanka",
+        "location": "Lake Baikal",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.866669,
+          51.849998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Circum-Baikal Railway",
+        "location": "Lake Baikal",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767659,
+          51.709528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yakutsk",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.733337,
+          62.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lenskie Shyoki",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.895836,
+          58.710556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Polar circle",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.510243,
+          66.593696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dapparai",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.933365,
+          60.187408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kyusyur",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.366501,
+          70.684196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lena Pillars",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.985031,
+          60.948444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lensk",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.91568,
+          60.728085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olyokminsk",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.433334,
+          60.383331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siktyakh",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1069832,
+          69.90973124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sottintsy",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.03699,
+          62.52762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vitim",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.557602,
+          59.425941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhigansk",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.373596,
+          66.767303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Stop",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.102437,
+          60.572158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Stop",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.677982,
+          63.28476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mouth of the river Buotama",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.763885,
+          61.263383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ura River",
+        "location": "Lena river",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05778,
+          60.26111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bykov Mys'",
+        "location": "Neelova bay",
+        "marker-size": "small",
+        "marker-color": "#990000",
+        "marker-symbol": "harbor",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099951,
+          72.003894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "location": "Scandinavia",
+        "title": "Baltic Ferry",
+        "country": "Sweden-Finland/Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7861328125,
+          59.46740794183742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "title": "Tirano",
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169563293457031,
+          46.216188883247376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Switzerland",
+        "title": "Chur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.529266357421875,
+          46.86394700508323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Liechtenstein",
+        "title": "Vaduz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522593021392822,
+          47.13930025253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Feldkirch",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.598145484924316,
+          47.23553136209811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "title": "Lindau",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683074951171875,
+          47.54436948930047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "title": "Mainau",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19731616973877,
+          47.70490995475603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor",
+        "location": "Central Europe",
+        "title": "Piran",
+        "country": "Slovenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.566167950630188,
+          45.52853888712295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "title": "Trieste",
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.771952390670775,
+          45.65183332001162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Debrecen",
+        "location": "Central Europe",
+        "country": "Hungary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.62429630756378,
+          47.5316470761959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "harbor",
+        "title": "Bratislava",
+        "location": "Central Europe",
+        "country": "Slovakia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10871696472168,
+          48.141921577810756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Warzaw",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.030943393707275,
+          52.233476974672165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Gdansk",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653690814971924,
+          54.34835266874757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "title": "Lübeck",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689139366149902,
+          53.871533312265676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "title": "Dresden",
+        "location": "Central Europe",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741868734359741,
+          51.05232425799958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Amsterdam",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900224208831786,
+          52.372376573760796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Yerevan",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51440215110778,
+          40.18471766285408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Asia",
+        "country": "Uzbekistan",
+        "title": "Tashkent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27966713905334,
+          41.31139605689106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc6633",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Mongolia",
+        "country": "Mongolia",
+        "title": "Ulaanbaatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91679954528807,
+          47.919160688958485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Tajikistan",
+        "title": "Dushanbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.77859830856323,
+          38.57412204801412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Tajikistan",
+        "title": "Khudjand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.63836431503296,
+          40.29309507439909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Tajikistan",
+        "title": "Istaravshan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.00343179702759,
+          39.909748578965434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Bishkek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.60388422012329,
+          42.87808691272639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kazakhstan",
+        "title": "Almaty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94540977478027,
+          43.238332784270796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Karakol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.39417815208435,
+          42.491652455597176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "location": "Central Asia",
+        "country": "Kyrgyzstan",
+        "title": "Cholpon-Ata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07705795764923,
+          42.63766445067894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Bokonbaevo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.99242353439331,
+          42.11450803503512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Alma-Too"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02613353729248,
+          42.1649621092606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Tamga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.54495859146118,
+          42.149540571748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Jeti-Oguz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.23896408081055,
+          42.33301057643343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "title": "Son-Kul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.23506164550781,
+          41.774896327485244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Samarkand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.97576761245728,
+          39.654770994185654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Bukhara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.42061483860016,
+          39.7731244262685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Nukus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60217118263244,
+          42.46072395147524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Muynak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.02558207511902,
+          43.76038596280906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "title": "Konya-Urgench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1524076461792,
+          42.32710947244817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "title": "Dashoguz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.98103857040405,
+          41.83567678758121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Khiva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.3595009446144,
+          41.37810270122849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "title": "Ashgabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.384029865264885,
+          37.942530690981215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "title": "Mary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.84412240982055,
+          37.605103230541516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Asia",
+        "marker-size": "small",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "title": "Turkmenabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.57367515563965,
+          39.096096161002315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ulan-Ude",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57926225662231,
+          51.84487232546464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Irkutsk",
+        "location": "Siberia",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2797589302063,
+          52.29271609801493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "Siberia",
+        "title": "Novosibirsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.93750762939453,
+          55.008031226507335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "East",
+        "title": "Yekaterinburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6044590473175,
+          56.83861522077344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "May-Saz",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9927,
+          42.2031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia",
+        "title": "Raduga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94459438323975,
+          42.5999141128937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Grigorievka Valley",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3843,
+          42.8401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tokmok",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.29136657714844,
+          42.827638636242284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Chon-Kemin",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0808,
+          42.7294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Asia",
+        "country": "Kyrgyzstan",
+        "title": "Kochkor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.75759887695312,
+          42.21682214109948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkmenistan",
+        "location": "Central Asia",
+        "title": "Darwaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.44067,
+          40.25203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Shahrisabz",
+        "country": "Uzbekistan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.82970523834229,
+          39.058091943505104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Baku",
+        "country": "Azerbaijan",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8430609703064,
+          40.36773532535434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "Caucasus",
+        "title": "Tbilisi",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.80979919433594,
+          41.69174180482722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Haghpat",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.71119,
+          41.09363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia",
+        "location": "Caucasus",
+        "title": "Sanahin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66606,
+          41.08734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Mikoyan's birtplace",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66690182685852,
+          41.090308662057126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sevanavank",
+        "country": "Armenia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.008883476257324,
+          40.56402086322716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia",
+        "title": "Ananuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.70210313796997,
+          42.16392829184089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia",
+        "title": "Mtskheta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.72113609313965,
+          41.842718792909075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia",
+        "title": "Gudauri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.48496222496032,
+          42.47060121021198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia",
+        "title": "Stepansminda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62047815322876,
+          42.66287253883418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Georgia",
+        "title": "Gori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.10909891128539,
+          41.982861798913454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "harbor",
+        "country": "Georgia",
+        "title": "Batumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.62569522857665,
+          41.64925034504577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia",
+        "title": "Dilijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8626708984375,
+          40.73529128534676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Caucasus",
+        "marker-size": "small",
+        "marker-color": "#375719",
+        "marker-symbol": "circle-stroked",
+        "country": "Armenia",
+        "title": "Lake Sevan eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.94884490966797,
+          40.621510014009715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "location": "Scandinavia",
+        "title": "Gdynia-Karlskrona ferry",
+        "country": "Poland-Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77587890625,
+          55.32914440840507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sighnagi",
+        "country": "Georgia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.92409610748291,
+          41.61929232960735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "location": "Central Europe",
+        "title": "Bucharest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.097614765167236,
+          44.43674459073639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Brasov",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.589089393615723,
+          45.64197793192625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Rasnov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.468926429748535,
+          45.590561566105116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Bran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36995828151703,
+          45.51578633060227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Sibiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.151768684387207,
+          45.796538862863876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Medias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35072422027588,
+          46.164049762952914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Sighisoara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79362666606903,
+          46.21768845065342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "Viscri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08819222450256,
+          46.05436682639843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania",
+        "title": "The Romas of Viscri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.09130895137787,
+          46.04828347762427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Basel",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591445446014403,
+          47.556618186569025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Lausanne",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.626193523406982,
+          46.50645658475189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Bern",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.455757856369018,
+          46.9486949137639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Lüzern",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.307133913040161,
+          47.05127991405642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Appenzell",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409103393554688,
+          47.330446391855595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Freiburg",
+        "location": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846083641052246,
+          47.99480410499141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "harbor",
+        "country": "France",
+        "title": "Kembs",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.507739067077637,
+          47.68684248248156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "harbor",
+        "country": "France",
+        "title": "Strasbourg",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74585485458374,
+          48.58337854409589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "harbor",
+        "country": "Germany",
+        "title": "Speyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45023512840271,
+          49.31718464845774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "harbor",
+        "country": "Germany",
+        "title": "Koblenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605371475219727,
+          50.363751223238445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bremen",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809361457824705,
+          53.07626429626342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Wilhelmshaven",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.141244649887085,
+          53.512468368013984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Emden",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.206113934516907,
+          53.36527530212792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Jever",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.90440559387207,
+          53.57369007089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Langeoog",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.481517791748047,
+          53.74897091071104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Flensburg",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.434326887130736,
+          54.78960100515044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Husum",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049547910690308,
+          54.47587923481497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kropp",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.509375095367432,
+          54.411094732634716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Westerland",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.309386968612671,
+          54.907575632189975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "List",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.438937664031982,
+          55.01681614216379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hörnum",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.293642401695251,
+          54.757553910945234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rostock",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132360935211182,
+          54.09140336138744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Puttgarden",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.225988864898682,
+          54.50432728824159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stralsund",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09768795967102,
+          54.316103938379065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Neubrandenburg",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262343406677246,
+          53.557161352708725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Cologne",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.963057518005371,
+          50.9372966523592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Strömstad",
+        "location": "Scandinavia",
+        "country": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.171690225601196,
+          58.93573365952485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Sandefjord",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22875428199768,
+          59.12703158380608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kristansand",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.996029853820801,
+          58.14627294340876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Egersund",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.001346111297607,
+          58.45266448378466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stavanger",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730528831481933,
+          58.970499269258184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lauvvik",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.055043935775757,
+          58.89434057227734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lysebotn",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.652157306671143,
+          59.046570071012106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Vrådal",
+        "location": "Scandinavia",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.493654727935791,
+          59.32310816370157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hamburg",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95361328125,
+          53.54525463575623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Pechory",
+        "country": "Russia",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6141357421875,
+          57.817332325351025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "title": "Pskov",
+        "marker-color": "#990000",
+        "location": "East",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.329877853393555,
+          57.82048653374497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Narva",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19514513015747,
+          59.37579102381507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Narva",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74518060684204,
+          59.43734022280603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Haapsalu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.528906106948853,
+          58.95569649118698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Riga",
+        "location": "The Baltics",
+        "country": "Latvia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.113681316375732,
+          56.94960866230919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Vilnius",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.287179946899414,
+          54.6786944055201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Pärnu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.505949020385742,
+          58.385878008137354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tartu",
+        "location": "The Baltics",
+        "country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.735047101974487,
+          58.37929730139323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hill of Crosses",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.417417407035828,
+          56.01544045047749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Stettin",
+        "country": "Poland",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.562077522277832,
+          53.42377834195493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Krakow",
+        "country": "Poland",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.940743446350098,
+          50.06169852334754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Prague",
+        "country": "Czechia",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419319629669188,
+          50.087753776548794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Vienna",
+        "country": "Austria",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.407265663146973,
+          48.22492996513955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lvov",
+        "country": "Ukraine",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02682065963745,
+          49.843026560732795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Poltava",
+        "country": "Ukraine",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.552109241485596,
+          49.58755413119622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zmievka - Gammalsvenskby",
+        "country": "Ukraine",
+        "location": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.58293056488037,
+          46.86529674959398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Pula",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.841485977172852,
+          44.871153818885595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rovinj",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.632059097290039,
+          45.083092954932745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Porec",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.595935106277466,
+          45.227966777376146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Opatija",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.301629662513733,
+          45.329235115051816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lake Bled",
+        "country": "Slovenia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.093554615974426,
+          46.35973480189232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ljubljana",
+        "country": "Slovenia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.509527683258058,
+          46.05113536347768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Dubrovnik",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.111664652824402,
+          42.64140941909794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Split",
+        "country": "Croatia",
+        "location": "The Balkans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43902838230133,
+          43.50737094090731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "The Corinth Canal",
+        "country": "Greece",
+        "location": "Mediterraneo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.003482818603516,
+          37.920300127029186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sofia",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32170009613037,
+          42.69702465043094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Ruse",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95341920852661,
+          43.848641360290195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Plovdiv",
+        "location": "Central Europe",
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7482168674469,
+          42.15323126625016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Chisinau",
+        "location": "East",
+        "country": "Moldavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85437846183777,
+          47.01424911057734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tiraspol",
+        "location": "East",
+        "country": "Transnistria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6120810508728,
+          46.83627710312707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Dalaman",
+        "location": "Mediterraneo",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.797397613525387,
+          36.72829094580334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Göcek",
+        "location": "Mediterraneo",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.941866755485538,
+          36.75254046067212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Fethiye",
+        "location": "Mediterraneo",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.11507844924927,
+          36.624948105891185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kayaköy",
+        "location": "Mediterraneo",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.087870121002197,
+          36.57866133286715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Velikiye Novgorod",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.276187896728512,
+          58.52129089471434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Staraya Russa",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.353456974029537,
+          57.98951723225566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Velikiye Luki",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.517938137054443,
+          56.344266752974875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Arkhangelsk",
+        "location": "East",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.56336879730224,
+          64.55181496363863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Helsinki",
+        "location": "The Baltics",
+        "country": "Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.953534603118893,
+          60.165041439763215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rudesheim",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.926292419433593,
+          49.97781810035125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Assmanshausen",
+        "location": "West",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.867417931556702,
+          49.98814560949752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lublin",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.569254636764526,
+          51.24874070550547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hildesheim",
+        "country": "Germany",
+        "location": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.953066110610962,
+          52.1526612269682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Kotor",
+        "location": "The Balkans",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.768446445465088,
+          42.42495334300206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Genoa",
+        "location": "Mediterraneo",
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.92714262008667,
+          44.40841632431717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Lisbon",
+        "location": "Mediterraneo",
+        "country": "Portugal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.136505126953125,
+          38.70741489866617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Veliko Tarnovo",
+        "country": "Bulgaria",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.632841587066647,
+          43.082351585470704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Linz",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.286539554595947,
+          48.305406177863944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Schlögen",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.870523571968077,
+          48.424775863636306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Melk",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.334489345550535,
+          48.22839645163034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Krems and der Donau",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.613374710083008,
+          48.412083439755385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kirchberg in Tirol",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314134240150452,
+          47.44761550506372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Dürnstein",
+        "location": "Central Europe",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.51967978477478,
+          48.3931510669101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Wrocław",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0308256149292,
+          51.11015047774303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Wieliczka",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.055123567581177,
+          49.983044221260094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Torun",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.603758811950684,
+          53.01036809843098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kętrzyn",
+        "location": "Central Europe",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.493608355522156,
+          54.07986150062328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Brig",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.988090515136719,
+          46.316621232403044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zermatt",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747979164123534,
+          46.02367519394668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gornergrat",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783840298652649,
+          45.983394976783835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Laax",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.257569313049316,
+          46.806316499418024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "St. Moritz",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.839286804199219,
+          46.494330102900896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Davos",
+        "location": "West",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.819062948226929,
+          46.7916347770813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Uplistsikhe",
+        "country": "Georgia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.207133,
+          41.96673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Jvari",
+        "country": "Georgia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.733208,
+          41.838053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Amberd",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2264,
+          40.3886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Geghard",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.818511,
+          40.140425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Garni",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.723056,
+          40.119444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zvartnots",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.403333,
+          40.1625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Khor Virap",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.576111,
+          39.878333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Etchmiadzin",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.291164,
+          40.161769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tsinandali",
+        "country": "Armenia",
+        "location": "Caucasus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.566667,
+          41.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Havana",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37205505371092,
+          23.13152007723789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Cienfuegos",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45116424560547,
+          22.143527814513806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Trinidad",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98445987701416,
+          21.804969980879065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Camagüey",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91687369346619,
+          21.37996634865908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Santiago de Cuba ",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83046913146973,
+          20.021843021668037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sancti Spiritus ",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44190263748169,
+          21.934944705401335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dfedd3",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Varadero",
+        "location": "Caribbean",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25556945800781,
+          23.150619867578374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "New York",
+        "location": "North America",
+        "country": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95593762397766,
+          40.719444831389104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "David Gareja",
+        "location": "Caucasus",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3765,
+          41.4473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gremi",
+        "location": "Caucasus",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.660031,
+          42.002047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Shaki",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.170556,
+          41.191944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Shamakhi",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.641389,
+          40.630278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Noravank",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.232872,
+          39.684061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Areni",
+        "location": "Caucasus",
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.183889,
+          39.720833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#375719",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gobustan",
+        "location": "Caucasus",
+        "country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3889,
+          40.1056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "The Burana tower",
+        "country": "Kyrgyzstan",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.250456,
+          42.746406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc6633",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "The Gobi desert",
+        "location": "Mongolia",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25976562499999,
+          45.82114340079471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Rothenburg ob der Tauber",
+        "country": "Germany",
+        "location": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.178961753845215,
+          49.37716901748125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0dd8b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Trakai",
+        "location": "The Baltics",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93344485759735,
+          54.65216793954194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "location": "Central Asia",
+        "marker-color": "#804000",
+        "marker-symbol": "circle-stroked",
+        "country": "Uzbekistan",
+        "title": "Gijduvon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.68080520629883,
+          40.10065983986402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#804000",
+        "country": "Tajikistan",
+        "title": "The Anzob tunnel",
+        "marker-size": "small",
+        "location": "Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.69304656982422,
+          39.08530414503412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Petropavlovsk-Kamchatka",
+        "country": "Russia",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.64704132080078,
+          53.015609422105435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Milkovo",
+        "country": "Russia",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.62047672271729,
+          54.69516621851467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Elizovo",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.38336944580078,
+          53.1882676238061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Esso",
+        "country": "Russia",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.69961261749268,
+          55.92090678126957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tekhtyur",
+        "country": "Russia",
+        "location": "Siberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.46675300598145,
+          61.71310581998996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Rotterdam",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.414701461791992,
+          51.91388516594948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bautzen",
+        "country": "Germany",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.423954486846926,
+          51.18136065824012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Görlitz",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.986252784729002,
+          51.151947615465026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Maribor",
+        "location": "The Balkans",
+        "country": "Slovenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.67474365234375,
+          46.5720787149159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Zagreb",
+        "location": "The Balkans",
+        "country": "Croatia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97686767578125,
+          45.82879925192134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Banja Luka",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.193603515625,
+          44.74673324024678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Iaice",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.269134521484375,
+          44.342511749598444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Mostar",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.808837890625,
+          43.33316939281732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sarajevo",
+        "location": "The Balkans",
+        "country": "Bosnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.380126953125,
+          43.84245116699039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Sinaia",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.54939270019531,
+          45.347560945211946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Iasi",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.586669921875,
+          47.137424646293866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Agabia",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.282386779785153,
+          47.17355308790045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Voronet",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.864133834838867,
+          47.53224107479268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Bistrita",
+        "location": "Central Europe",
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.492988586425778,
+          47.136140146265845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Hunedoara",
+        "country": "Romania",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.907352447509766,
+          45.76009821236529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Charyn Canyon",
+        "location": "Central Asia",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.39020574092864,
+          43.77284082927104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Osh",
+        "location": "Central Asia",
+        "country": "Kyrgyzstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80519485473633,
+          40.53298071625918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Fergana",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78732872009277,
+          40.38192447539731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Margilan",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.72473669052124,
+          40.47432594901607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Rishton",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2790983915329,
+          40.36092984868157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kokand",
+        "location": "Central Asia",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.94777584075926,
+          40.53594880070839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Targu Mures",
+        "country": "Romania",
+        "location": "Central Europe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56019401550293,
+          46.54575673490221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Cricova winery",
+        "location": "East",
+        "country": "Moldavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86318683624268,
+          47.13958487181999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Seoul",
+        "country": "South Korea",
+        "location": "Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9525146484375,
+          37.55111016010861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Busan",
+        "country": "South Korea",
+        "location": "Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.17037963867188,
+          35.15991570498811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "heliport",
+        "country": "Russia",
+        "title": "Kamchatka Heliport",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.308846950531,
+          53.04310947831025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "title": "Camel Mountain",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.76396417617798,
+          53.2715204200613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Uzon",
+        "country": "Russia",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.9671173095703,
+          54.49975450077774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "title": "Valley of Geysers",
+        "location": "Russian Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.14779090881348,
+          54.43308578441171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Russia",
+        "location": "Russian Far East",
+        "title": "Avacha Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.6700439453125,
+          52.8674717557389
+        ]
+      }
     }
   ]
 }
