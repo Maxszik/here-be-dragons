@@ -7974,8 +7974,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.9,
-        "fill-opacity": 0.4,
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "fill": "#555555",
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
         "CONTINENT": "Europe",
         "REGION_UN": "Europe",
         "SUBREGION": "Eastern Europe",
