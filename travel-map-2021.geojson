@@ -8109,9 +8109,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "",
+        "stroke": "#000000",
         "stroke-width": "",
-        "fill": "",
+        "fill": "#000000",
         "stroke-opacity": 0,
         "fill-opacity": 0,
         "CONTINENT": "Europe",
