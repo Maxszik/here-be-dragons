@@ -13,8 +13,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          177.53258228302002,
-          64.73574392639652
+          177.532,
+          64.735
         ]
       }
     },
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          179.36899423599243,
-          63.063125683351984
+          179.368,
+          63.063
         ]
       }
     },
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          180.88905572891235,
-          66.31398755770223
+          180.889,
+          66.313
         ]
       }
     },
@@ -59,13 +59,13 @@
         "marker-size": "small",
         "marker-symbol": "harbor",
         "title": "Provideniya",
-        "description": "About two every month"
+        "description": "About two trips every month"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          186.78522437810898,
-          64.4269471682695
+          186.785,
+          64.426
         ]
       }
     },
@@ -81,8 +81,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          188.9881467819214,
-          65.58793721113571
+          188.988,
+          65.587
         ]
       }
     }
