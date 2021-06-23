@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "title": "Anadyr",
+        "description": "Home port of Kapitan Sotnikov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.53258228302002,
+          64.73574392639652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Beringovskii",
+        "description": "About three trips every month"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.36899423599243,
+          63.063125683351984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Egvekinot",
+        "description": "About three trips every month"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          180.88905572891235,
+          66.31398755770223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Provideniya",
+        "description": "About two every month"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          186.78522437810898,
+          64.4269471682695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#990000",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Lavrentiya",
+        "description": "About one trip every month"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          188.9881467819214,
+          65.58793721113571
+        ]
+      }
+    }
+  ]
+}
