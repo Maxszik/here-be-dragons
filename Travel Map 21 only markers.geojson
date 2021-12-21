@@ -5634,6 +5634,24 @@
           50.02185841773444
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Celle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.081586837768555,
+          52.62410212661485
+        ]
+      }
     }
   ]
 }
