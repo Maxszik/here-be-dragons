@@ -5656,10 +5656,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Belgrade"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Belgrade",
+        "location": "The Balkans",
+        "country": "Serbia"
       },
       "geometry": {
         "type": "Point",
@@ -5672,10 +5674,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Budva"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Budva",
+        "location": "The Balkans",
+        "country": "Montenegro"
       },
       "geometry": {
         "type": "Point",
@@ -5688,10 +5692,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Dûrres"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "title": "Dûrres",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5704,10 +5710,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Tirana"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Tirana",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5720,10 +5728,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Kruje"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Kruje",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5736,10 +5746,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Fushë-Krujë"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Fushë-Krujë",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5752,10 +5764,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Fier"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Fier",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5768,10 +5782,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Berat"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Berat",
+        "location": "The Balkans",
+        "country": "Albania"
       },
       "geometry": {
         "type": "Point",
@@ -5784,10 +5800,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Skopje"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Skopje",
+        "location": "The Balkans",
+        "country": "North Macedonia"
       },
       "geometry": {
         "type": "Point",
@@ -5800,10 +5818,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "Prishtina"
+        "marker-color": "#10053b",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Prishtina",
+        "location": "The Balkans",
+        "country": "Kosovo"
       },
       "geometry": {
         "type": "Point",
