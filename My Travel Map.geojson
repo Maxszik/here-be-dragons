@@ -5652,6 +5652,166 @@
           52.6241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Belgrade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.449934005737305,
+          44.81204450516513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Budva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.83829116821289,
+          42.282008036957656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Dûrres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.481592178344727,
+          41.31082388091818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Tirana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817447662353516,
+          41.32793863517167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Kruje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.793951511383057,
+          41.50773368426899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Fushë-Krujë"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.716639518737793,
+          41.47873081255735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Fier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.559483528137207,
+          40.72784416587385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Berat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.950013160705566,
+          40.70445674541596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Skopje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.43123626708984,
+          41.9959079318153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Prishtina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.162285804748535,
+          42.66157864879939
+        ]
+      }
     }
   ]
 }
