@@ -5832,6 +5832,60 @@
           42.66157864879939
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Valkenburg",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.831122398376465,
+          50.86456590667681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Gouda",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.710860252380371,
+          52.011738429228146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "title": "Keukenhof",
+        "location": "West",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.548768997192383,
+          52.26950988530383
+        ]
+      }
     }
   ]
 }
