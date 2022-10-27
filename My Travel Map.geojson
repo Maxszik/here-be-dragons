@@ -5904,6 +5904,96 @@
           41.111951454467416
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "country": "Romania",
+        "title": "Turnu Magurele",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          24.88582943504244,
+          43.712753533109264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-symbol": "harbor",
+        "country": "Bulgaria",
+        "marker-color": "#004080",
+        "title": "Vidin"
+      },
+      "geometry": {
+        "coordinates": [
+          22.87999697006495,
+          43.985232585140636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iron Gates",
+        "marker-symbol": "harbor",
+        "country": "Romania and Serbia",
+        "marker-color": "#004080",
+        "location": "Central Europe",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          22.03313086651221,
+          44.550393443201585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Novi Sad",
+        "marker-symbol": "harbor",
+        "country": "Serbia",
+        "marker-color": "#004080",
+        "location": "The Balkans",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          19.851235760788768,
+          45.23842035937335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vukovar",
+        "marker-symbol": "harbor",
+        "country": "Croatia",
+        "marker-color": "#004080",
+        "location": "The Balkans",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          19.00853170890329,
+          45.348331159438516
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
