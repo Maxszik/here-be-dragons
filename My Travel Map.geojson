@@ -5994,6 +5994,276 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quedlinburg",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          11.144569190492092,
+          51.788119846904266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Karlskrona",
+        "country": "Sweden",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          15.57869158199054,
+          56.16219192006034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulda",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          9.675224368655847,
+          50.553206415869454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martigny",
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          7.076858719335149,
+          46.104313440262416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bernkastel-Kues",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          7.075699689595211,
+          49.91548384184475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trier",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          6.641289304137473,
+          49.75669835827421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nittel",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          6.441519221961727,
+          49.65429612155344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trittenheim",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          6.9034842778129075,
+          49.82280488437863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Traben-Trarbach",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1155953272425165,
+          49.95040307352491
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cochem",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1666701016641525,
+          50.14713967166469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saalbach",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#004080",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          12.595761630810358,
+          47.377895861757594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Küssnacht",
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          8.4396288916966,
+          47.08062769298556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Neustadt an der Weinstrasse",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          8.136031648380907,
+          49.35358681432572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bad Dürkheim",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          8.170808970443687,
+          49.46133981568096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alsfeld",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          9.271134475355723,
+          50.75083818218525
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
