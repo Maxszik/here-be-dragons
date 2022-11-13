@@ -6288,7 +6288,7 @@
       "properties": {
         "location": "West",
         "marker-size": "small",
-        "marker-color": "#74a7fe",
+        "marker-color": "#3333cc",
         "marker-symbol": "harbor",
         "country": "France",
         "title": "Marseille"
