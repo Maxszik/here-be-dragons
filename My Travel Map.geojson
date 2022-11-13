@@ -6264,6 +6264,42 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "country": "France",
+        "title": "Paris"
+      },
+      "geometry": {
+        "coordinates": [
+          2.372541522806273,
+          48.845545939775945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-symbol": "harbor",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "title": "Marseille",
+        "country": "France"
+      },
+      "geometry": {
+        "coordinates": [
+          5.374136684156838,
+          43.2947294205444
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
