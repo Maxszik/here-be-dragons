@@ -5656,252 +5656,252 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#10053b",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked",
-        "title": "Belgrade",
         "location": "The Balkans",
-        "country": "Serbia"
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Serbia",
+        "title": "Belgrade"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.449934005737305,
-          44.81204450516513
+          20.4499,
+          44.812
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#10053b",
+        "location": "The Balkans",
         "marker-size": "small",
+        "marker-color": "#10053b",
         "marker-symbol": "harbor",
-        "title": "Budva",
-        "location": "The Balkans",
-        "country": "Montenegro"
+        "country": "Montenegro",
+        "title": "Budva"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.83829116821289,
-          42.282008036957656
+          18.8382,
+          42.282
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#10053b",
+        "location": "The Balkans",
         "marker-size": "small",
+        "marker-color": "#10053b",
         "marker-symbol": "harbor",
-        "title": "Dûrres",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Dûrres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.481592178344727,
-          41.31082388091818
+          19.4815,
+          41.3108
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Tirana",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Tirana"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.817447662353516,
-          41.32793863517167
+          19.8174,
+          41.3279
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Kruje",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Kruje"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.793951511383057,
-          41.50773368426899
+          19.7939,
+          41.5077
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Fushë-Krujë",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Fushë-Krujë"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.716639518737793,
-          41.47873081255735
+          19.7166,
+          41.4787
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Fier",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Fier"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.559483528137207,
-          40.72784416587385
+          19.5594,
+          40.7278
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Berat",
-        "location": "The Balkans",
-        "country": "Albania"
+        "country": "Albania",
+        "title": "Berat"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.950013160705566,
-          40.70445674541596
+          19.95,
+          40.7044
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Skopje",
-        "location": "The Balkans",
-        "country": "North Macedonia"
+        "country": "North Macedonia",
+        "title": "Skopje"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.43123626708984,
-          41.9959079318153
+          21.4312,
+          41.9959
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "The Balkans",
+        "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Prishtina",
-        "location": "The Balkans",
-        "country": "Kosovo"
+        "country": "Kosovo",
+        "title": "Prishtina"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.162285804748535,
-          42.66157864879939
+          21.1622,
+          42.6615
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#74a7fe",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked",
-        "title": "Valkenburg",
         "location": "West",
-        "country": "The Netherlands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.831122398376465,
-          50.86456590667681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Gouda",
-        "location": "West",
-        "country": "The Netherlands"
+        "country": "The Netherlands",
+        "title": "Valkenburg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.710860252380371,
-          52.011738429228146
+          5.8311,
+          50.8645
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "location": "West",
+        "marker-size": "small",
         "marker-color": "#74a7fe",
-        "marker-size": "small",
         "marker-symbol": "circle-stroked",
-        "title": "Keukenhof",
-        "location": "West",
-        "country": "The Netherlands"
+        "country": "The Netherlands",
+        "title": "Gouda"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.548768997192383,
-          52.26950988530383
+          4.7108,
+          52.0117
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#10053b",
+        "location": "West",
         "marker-size": "small",
+        "marker-color": "#74a7fe",
         "marker-symbol": "circle-stroked",
-        "title": "Ohrid",
+        "country": "The Netherlands",
+        "title": "Keukenhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5487,
+          52.2695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "location": "The Balkans",
-        "country": "North Macedonia"
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "North Macedonia",
+        "title": "Ohrid"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.79935073852539,
-          41.111951454467416
+          20.7993,
+          41.1119
         ]
       }
     },
@@ -5910,17 +5910,17 @@
       "properties": {
         "location": "Central Europe",
         "marker-size": "small",
+        "marker-color": "#004080",
         "marker-symbol": "harbor",
         "country": "Romania",
-        "title": "Turnu Magurele",
-        "marker-color": "#004080"
+        "title": "Turnu Magurele"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          24.88582943504244,
-          43.712753533109264
-        ],
-        "type": "Point"
+          24.8858,
+          43.7127
+        ]
       }
     },
     {
@@ -5928,377 +5928,377 @@
       "properties": {
         "location": "Central Europe",
         "marker-size": "small",
+        "marker-color": "#004080",
         "marker-symbol": "harbor",
         "country": "Bulgaria",
-        "marker-color": "#004080",
         "title": "Vidin"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          22.87999697006495,
-          43.985232585140636
-        ],
-        "type": "Point"
+          22.8799,
+          43.9852
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Iron Gates",
+        "location": "Central Europe",
+        "marker-size": "small",
+        "marker-color": "#004080",
         "marker-symbol": "harbor",
         "country": "Romania and Serbia",
-        "marker-color": "#004080",
-        "location": "Central Europe",
-        "marker-size": "small"
+        "title": "Iron Gates"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          22.03313086651221,
-          44.550393443201585
-        ],
-        "type": "Point"
+          22.0331,
+          44.5503
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Novi Sad",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#004080",
         "marker-symbol": "harbor",
         "country": "Serbia",
-        "marker-color": "#004080",
-        "location": "The Balkans",
-        "marker-size": "small"
+        "title": "Novi Sad"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          19.851235760788768,
-          45.23842035937335
-        ],
-        "type": "Point"
+          19.8512,
+          45.2384
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Vukovar",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#004080",
         "marker-symbol": "harbor",
         "country": "Croatia",
-        "marker-color": "#004080",
-        "location": "The Balkans",
-        "marker-size": "small"
+        "title": "Vukovar"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          19.00853170890329,
-          45.348331159438516
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Quedlinburg",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          11.144569190492092,
-          51.788119846904266
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Karlskrona",
-        "country": "Sweden",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          15.57869158199054,
-          56.16219192006034
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fulda",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          9.675224368655847,
-          50.553206415869454
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Martigny",
-        "country": "Switzerland",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          7.076858719335149,
-          46.104313440262416
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bernkastel-Kues",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          7.075699689595211,
-          49.91548384184475
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Trier",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          6.641289304137473,
-          49.75669835827421
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Nittel",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          6.441519221961727,
-          49.65429612155344
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Trittenheim",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          6.9034842778129075,
-          49.82280488437863
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Traben-Trarbach",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          7.1155953272425165,
-          49.95040307352491
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cochem",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          7.1666701016641525,
-          50.14713967166469
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Saalbach",
-        "country": "Austria",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#004080",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          12.595761630810358,
-          47.377895861757594
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Küssnacht",
-        "country": "Switzerland",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          8.4396288916966,
-          47.08062769298556
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Neustadt an der Weinstrasse",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          8.136031648380907,
-          49.35358681432572
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bad Dürkheim",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          8.170808970443687,
-          49.46133981568096
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Alsfeld",
-        "country": "Germany",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
-        "location": "West",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          9.271134475355723,
-          50.75083818218525
-        ],
-        "type": "Point"
+          19.0085,
+          45.3483
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "location": "West",
-        "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe",
         "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Quedlinburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1445,
+          51.7881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Sweden",
+        "title": "Karlskrona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5786,
+          56.1621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Fulda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6752,
+          50.5532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Switzerland",
+        "title": "Martigny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0768,
+          46.1043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Bernkastel-Kues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0756,
+          49.9154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Trier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6412,
+          49.7566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Nittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4415,
+          49.6542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Trittenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9034,
+          49.8228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Traben-Trarbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1155,
+          49.9504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Cochem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1666,
+          50.1471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Austria",
+        "title": "Saalbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5957,
+          47.3778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Switzerland",
+        "title": "Küssnacht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4396,
+          47.0806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Neustadt an der Weinstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.136,
+          49.3535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Bad Dürkheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1708,
+          49.4613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany",
+        "title": "Alsfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2711,
+          50.7508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
         "country": "France",
         "title": "Paris"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          2.372541522806273,
-          48.845545939775945
-        ],
-        "type": "Point"
+          2.3725,
+          48.8455
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "location": "West",
-        "marker-symbol": "harbor",
-        "marker-color": "#74a7fe",
         "marker-size": "small",
-        "title": "Marseille",
-        "country": "France"
+        "marker-color": "#74a7fe",
+        "marker-symbol": "harbor",
+        "country": "France",
+        "title": "Marseille"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          5.374136684156838,
-          43.2947294205444
-        ],
-        "type": "Point"
+          5.3741,
+          43.2947
+        ]
       }
     }
   ]
