@@ -6300,6 +6300,258 @@
           43.2947
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Porto",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.613084715755406,
+          41.140516300357035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Régua",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.791361972714469,
+          41.161092354223854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vila Real",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.7464979005995644,
+          41.29632265850617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pinhão",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.544579186503455,
+          41.1898298029318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vega de Terrón",
+        "country": "Spain",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.929618794588606,
+          41.027506377856554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salamanca",
+        "country": "Spain",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.664558290931154,
+          40.962729066539936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ferradosa",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.951277671074081,
+          41.25475976051868
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folgosa",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.681669954754142,
+          41.15194824745765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leverinho",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.472005375250603,
+          41.082415691014944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guimarães",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.293832214017783,
+          41.4423694315808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brussels",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          4.348139603233847,
+          50.847665377737826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Antwerp",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3991069021752764,
+          51.21550072337817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liège",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          5.574397184980057,
+          50.64158160223025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aachen",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          6.08317096980187,
+          50.77462935736307
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
