@@ -6552,6 +6552,42 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Passau",
+        "location": "West",
+        "marker-symbol": "harbor",
+        "country": "Germany",
+        "marker-size": "small",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.475160350484003,
+          48.574012614683284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burg",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.196614538630257,
+          54.437309748869666
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
