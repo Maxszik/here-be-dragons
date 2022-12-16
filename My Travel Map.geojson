@@ -6588,6 +6588,42 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bruges",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          3.225189604386344,
+          51.206867234936084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ostende",
+        "location": "West",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          2.9206970135849986,
+          51.23520628473469
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
