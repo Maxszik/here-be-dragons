@@ -6624,6 +6624,114 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hurghada",
+        "country": "Egypt",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          33.80494734191234,
+          27.26600008416581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Luxor",
+        "country": "Egypt",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.63990760600146,
+          25.700912240202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Idfu",
+        "country": "Egypt",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.87948559245865,
+          24.97008741494551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kom Ombo",
+        "country": "Egypt",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.925719511220365,
+          24.457151233602204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aswan",
+        "country": "Egypt",
+        "marker-symbol": "harbor",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.89809850579317,
+          24.097937285834547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Abu Simbel",
+        "country": "Egypt",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          31.626715078290772,
+          22.337378166557556
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
