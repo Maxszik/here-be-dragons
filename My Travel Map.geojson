@@ -2663,7 +2663,8 @@
           6.6262,
           46.5065
         ]
-      }
+      },
+      "id": 147
     },
     {
       "type": "Feature",
@@ -4373,7 +4374,8 @@
           9.2576,
           46.8063
         ]
-      }
+      },
+      "id": 242
     },
     {
       "type": "Feature",
@@ -4391,7 +4393,8 @@
           9.8393,
           46.4943
         ]
-      }
+      },
+      "id": 243
     },
     {
       "type": "Feature",
@@ -4409,7 +4412,8 @@
           9.8191,
           46.7916
         ]
-      }
+      },
+      "id": 244
     },
     {
       "type": "Feature",
@@ -6732,6 +6736,44 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montreux",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          6.902962957387928,
+          46.43977594832356
+        ],
+        "type": "Point"
+      },
+      "id": 374
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lugano",
+        "marker-size": "small",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "country": "Switzerland",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          8.961866127967312,
+          46.00308547521786
+        ],
+        "type": "Point"
+      },
+      "id": 375
     }
   ]
 }
