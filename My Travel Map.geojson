@@ -1511,7 +1511,8 @@
           4.9002,
           52.3724
         ]
-      }
+      },
+      "id": 83
     },
     {
       "type": "Feature",
@@ -2483,7 +2484,8 @@
           26.0976,
           44.4367
         ]
-      }
+      },
+      "id": 137
     },
     {
       "type": "Feature",
@@ -2609,7 +2611,8 @@
           25.0882,
           46.0544
         ]
-      }
+      },
+      "id": 144
     },
     {
       "type": "Feature",
@@ -3384,7 +3387,8 @@
           25.2872,
           54.6787
         ]
-      }
+      },
+      "id": 187
     },
     {
       "type": "Feature",
@@ -3420,7 +3424,8 @@
           26.735,
           58.3793
         ]
-      }
+      },
+      "id": 189
     },
     {
       "type": "Feature",
@@ -3438,7 +3443,8 @@
           23.4174,
           56.0154
         ]
-      }
+      },
+      "id": 190
     },
     {
       "type": "Feature",
@@ -4050,7 +4056,8 @@
           9.9531,
           52.1527
         ]
-      }
+      },
+      "id": 224
     },
     {
       "type": "Feature",
@@ -4086,7 +4093,8 @@
           8.9271,
           44.4084
         ]
-      }
+      },
+      "id": 226
     },
     {
       "type": "Feature",
@@ -4302,7 +4310,8 @@
           21.4936,
           54.0799
         ]
-      }
+      },
+      "id": 238
     },
     {
       "type": "Feature",
@@ -4917,7 +4926,8 @@
           24.9334,
           54.6522
         ]
-      }
+      },
+      "id": 272
     },
     {
       "type": "Feature",
@@ -5061,7 +5071,8 @@
           4.4147,
           51.9139
         ]
-      }
+      },
+      "id": 280
     },
     {
       "type": "Feature",
@@ -5871,7 +5882,8 @@
           4.7108,
           52.0117
         ]
-      }
+      },
+      "id": 325
     },
     {
       "type": "Feature",
@@ -5889,7 +5901,8 @@
           4.5487,
           52.2695
         ]
-      }
+      },
+      "id": 326
     },
     {
       "type": "Feature",
@@ -6015,7 +6028,8 @@
           11.1445,
           51.7881
         ]
-      }
+      },
+      "id": 333
     },
     {
       "type": "Feature",
@@ -6774,6 +6788,177 @@
         "type": "Point"
       },
       "id": 375
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Giardini Naxos",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Italy"
+      },
+      "geometry": {
+        "coordinates": [
+          15.274785344996815,
+          37.83870283725926
+        ],
+        "type": "Point"
+      },
+      "id": 376
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Etna",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "circle-stroked",
+        "country": "Italy"
+      },
+      "geometry": {
+        "coordinates": [
+          15.060640609789715,
+          37.7698920494817
+        ],
+        "type": "Point"
+      },
+      "id": 377
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lipari",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Italy"
+      },
+      "geometry": {
+        "coordinates": [
+          14.951386255865799,
+          38.46706135141579
+        ],
+        "type": "Point"
+      },
+      "id": 378
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vulcano",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Italy"
+      },
+      "geometry": {
+        "coordinates": [
+          14.960352390213615,
+          38.41489808512355
+        ],
+        "type": "Point"
+      },
+      "id": 379
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Asendorf",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.981070160066878,
+          53.29245859428602
+        ],
+        "type": "Point"
+      },
+      "id": 380
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jork",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.683744310062139,
+          53.53232236515777
+        ],
+        "type": "Point"
+      },
+      "id": 381
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stade",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.478522451201883,
+          53.599209034123675
+        ],
+        "type": "Point"
+      },
+      "id": 382
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Biertan",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080",
+        "marker-symbol": "circle-stroked",
+        "country": "Romania"
+      },
+      "geometry": {
+        "coordinates": [
+          24.52329689482451,
+          46.13425017940696
+        ],
+        "type": "Point"
+      },
+      "id": 383
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Šiauliai",
+        "marker-size": "small",
+        "location": "The Baltics",
+        "marker-color": "#b0dd8b",
+        "marker-symbol": "circle-stroked",
+        "country": "Lithuania"
+      },
+      "geometry": {
+        "coordinates": [
+          23.315646043742447,
+          55.9169028963268
+        ],
+        "type": "Point"
+      },
+      "id": 384
     }
   ]
 }
