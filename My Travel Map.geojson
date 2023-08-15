@@ -53,7 +53,8 @@
           28.977,
           41.0053
         ]
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -1259,7 +1260,8 @@
           10.1696,
           46.2162
         ]
-      }
+      },
+      "id": 69
     },
     {
       "type": "Feature",
@@ -1349,7 +1351,8 @@
           9.1973,
           47.7049
         ]
-      }
+      },
+      "id": 74
     },
     {
       "type": "Feature",
@@ -3243,7 +3246,8 @@
           8.4937,
           59.3231
         ]
-      }
+      },
+      "id": 179
     },
     {
       "type": "Feature",
@@ -4112,7 +4116,8 @@
           -9.1365,
           38.7074
         ]
-      }
+      },
+      "id": 227
     },
     {
       "type": "Feature",
@@ -4220,7 +4225,8 @@
           12.3141,
           47.4476
         ]
-      }
+      },
+      "id": 233
     },
     {
       "type": "Feature",
@@ -5522,7 +5528,8 @@
           158.3088,
           53.0431
         ]
-      }
+      },
+      "id": 305
     },
     {
       "type": "Feature",
@@ -5540,7 +5547,8 @@
           158.764,
           53.2715
         ]
-      }
+      },
+      "id": 306
     },
     {
       "type": "Feature",
@@ -6209,7 +6217,8 @@
           12.5957,
           47.3778
         ]
-      }
+      },
+      "id": 343
     },
     {
       "type": "Feature",
@@ -6479,7 +6488,8 @@
           41.082415691014944
         ],
         "type": "Point"
-      }
+      },
+      "id": 358
     },
     {
       "type": "Feature",
@@ -6959,6 +6969,386 @@
         "type": "Point"
       },
       "id": 384
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Faro",
+        "marker-size": "small",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.932869610290112,
+          37.01303862244035
+        ],
+        "type": "Point"
+      },
+      "id": 385
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lagos",
+        "marker-size": "small",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.672505963611854,
+          37.111449076301014
+        ],
+        "type": "Point"
+      },
+      "id": 386
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portimão",
+        "marker-size": "small",
+        "country": "Portugal",
+        "marker-symbol": "harbor",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.530229583422312,
+          37.1336893836731
+        ],
+        "type": "Point"
+      },
+      "id": 387
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "title": "Constance",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          9.170632153325755,
+          47.661554383479086
+        ],
+        "type": "Point"
+      },
+      "id": 388
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "title": "Bregenz",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          9.749307763683106,
+          47.49878185505395
+        ],
+        "type": "Point"
+      },
+      "id": 389
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meißen",
+        "marker-size": "small",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.474006810066896,
+          51.16084907020257
+        ],
+        "type": "Point"
+      },
+      "id": 390
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spreewald",
+        "marker-size": "small",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.970281085982094,
+          51.86918280778701
+        ],
+        "type": "Point"
+      },
+      "id": 391
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kiens",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          11.83865115411848,
+          46.80706264462066
+        ],
+        "type": "Point"
+      },
+      "id": 392
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bruneck",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          11.936874866098151,
+          46.79971859533643
+        ],
+        "type": "Point"
+      },
+      "id": 393
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cortina d'Ampezzo",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          12.135202029814309,
+          46.5390050317084
+        ],
+        "type": "Point"
+      },
+      "id": 394
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brixen",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          11.656977365459596,
+          46.714060866523454
+        ],
+        "type": "Point"
+      },
+      "id": 395
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bolzano",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          11.345817222609156,
+          46.49581752252499
+        ],
+        "type": "Point"
+      },
+      "id": 396
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Malcesine",
+        "marker-size": "small",
+        "country": "Italy",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          10.808048621372023,
+          45.76342377280824
+        ],
+        "type": "Point"
+      },
+      "id": 397
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grossglockner",
+        "marker-size": "small",
+        "country": "Austria",
+        "marker-symbol": "mountain",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          12.751170136245321,
+          47.075343452074435
+        ],
+        "type": "Point"
+      },
+      "id": 398
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salzburg",
+        "marker-size": "small",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "geometry": {
+        "coordinates": [
+          13.042543718525991,
+          47.80379620349288
+        ],
+        "type": "Point"
+      },
+      "id": 399
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eagle’s Nest",
+        "marker-size": "small",
+        "country": "Germany",
+        "marker-symbol": "mountain",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.04196215672016,
+          47.61148864180973
+        ],
+        "type": "Point"
+      },
+      "id": 401
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hennigsdorf",
+        "marker-size": "small",
+        "country": "Germany",
+        "marker-symbol": "circle-stroked",
+        "location": "West",
+        "marker-color": "#74a7fe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.204677007286165,
+          52.637388728479635
+        ],
+        "type": "Point"
+      },
+      "id": 401
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eidfjord",
+        "marker-size": "small",
+        "country": "Norway",
+        "marker-symbol": "harbor",
+        "location": "Scandinavia",
+        "marker-color": "#006666"
+      },
+      "geometry": {
+        "coordinates": [
+          7.068001165901194,
+          60.46779412965037
+        ],
+        "type": "Point"
+      },
+      "id": 402
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bergen",
+        "marker-size": "small",
+        "country": "Norway",
+        "marker-symbol": "harbor",
+        "location": "Scandinavia",
+        "marker-color": "#006666"
+      },
+      "geometry": {
+        "coordinates": [
+          5.32477615683942,
+          60.39447560321972
+        ],
+        "type": "Point"
+      },
+      "id": 403
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gol",
+        "marker-size": "small",
+        "country": "Norway",
+        "marker-symbol": "circle-stroked",
+        "location": "Scandinavia",
+        "marker-color": "#006666"
+      },
+      "geometry": {
+        "coordinates": [
+          8.943048291605379,
+          60.70160175769888
+        ],
+        "type": "Point"
+      },
+      "id": 404
     }
   ]
 }
