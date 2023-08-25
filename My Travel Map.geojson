@@ -7349,6 +7349,25 @@
         "type": "Point"
       },
       "id": 404
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enkirch",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.122691785875958,
+          49.983821553076325
+        ],
+        "type": "Point"
+      },
+      "id": 405
     }
   ]
 }
