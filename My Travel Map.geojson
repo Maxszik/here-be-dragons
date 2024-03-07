@@ -7575,6 +7575,13 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.35026,
+          46.200517
+        ]
+      },
       "properties": {
         "title": "Bilhorod-Dnistrovskyi",
         "marker-symbol": "circle-stroked",
@@ -7583,17 +7590,17 @@
         "location": "East",
         "marker-color": "#990000"
       },
-      "geometry": {
-        "coordinates": [
-          30.350259802834756,
-          46.20051659100585
-        ],
-        "type": "Point"
-      },
       "id": 416
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.280536,
+          44.542631
+        ]
+      },
       "properties": {
         "title": "Gurzuf",
         "marker-symbol": "harbor",
@@ -7602,17 +7609,17 @@
         "location": "East",
         "marker-color": "#990000"
       },
-      "geometry": {
-        "coordinates": [
-          34.28053596333643,
-          44.54263135198494
-        ],
-        "type": "Point"
-      },
       "id": 417
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.856307,
+          44.758776
+        ]
+      },
       "properties": {
         "title": "Bakhchysarai",
         "marker-symbol": "circle-stroked",
@@ -7621,17 +7628,17 @@
         "location": "East",
         "marker-color": "#990000"
       },
-      "geometry": {
-        "coordinates": [
-          33.85630679133911,
-          44.758776371626624
-        ],
-        "type": "Point"
-      },
       "id": 418
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.189227,
+          48.428478
+        ]
+      },
       "properties": {
         "title": "Chop",
         "marker-symbol": "circle-stroked",
@@ -7640,17 +7647,17 @@
         "location": "East",
         "marker-color": "#990000"
       },
-      "geometry": {
-        "coordinates": [
-          22.18922676789461,
-          48.42847773309177
-        ],
-        "type": "Point"
-      },
       "id": 419
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.569837,
+          48.319363
+        ]
+      },
       "properties": {
         "title": "Sárospatak",
         "marker-symbol": "circle-stroked",
@@ -7659,17 +7666,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          21.56983671874869,
-          48.319363293235796
-        ],
-        "type": "Point"
-      },
       "id": 420
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.622936,
+          48.10475
+        ]
+      },
       "properties": {
         "title": "Lillafüred",
         "marker-symbol": "circle-stroked",
@@ -7678,17 +7685,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          20.62293555741627,
-          48.104750380728376
-        ],
-        "type": "Point"
-      },
       "id": 421
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.296697,
+          46.184227
+        ]
+      },
       "properties": {
         "title": "Arad",
         "marker-symbol": "circle-stroked",
@@ -7697,17 +7704,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          21.296697223795093,
-          46.18422694251217
-        ],
-        "type": "Point"
-      },
       "id": 422
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.117084,
+          46.254793
+        ]
+      },
       "properties": {
         "title": "Szeged",
         "marker-symbol": "circle-stroked",
@@ -7716,17 +7723,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          20.117083816565895,
-          46.25479310437916
-        ],
-        "type": "Point"
-      },
       "id": 423
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.586016,
+          47.682046
+        ]
+      },
       "properties": {
         "title": "Sopron",
         "marker-symbol": "circle-stroked",
@@ -7735,17 +7742,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          16.58601632276637,
-          47.68204637407615
-        ],
-        "type": "Point"
-      },
       "id": 424
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.653589,
+          47.68209
+        ]
+      },
       "properties": {
         "title": "Györ",
         "marker-symbol": "circle-stroked",
@@ -7754,17 +7761,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          17.65358888737282,
-          47.682089758213664
-        ],
-        "type": "Point"
-      },
       "id": 425
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.821206,
+          47.943086
+        ]
+      },
       "properties": {
         "title": "Neusiedl am See",
         "marker-symbol": "circle-stroked",
@@ -7773,17 +7780,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          16.82120581292878,
-          47.943085514932335
-        ],
-        "type": "Point"
-      },
       "id": 426
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.510306,
+          47.83157
+        ]
+      },
       "properties": {
         "title": "Eisenstadt",
         "marker-symbol": "circle-stroked",
@@ -7792,17 +7799,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          16.510306168585146,
-          47.83156955398175
-        ],
-        "type": "Point"
-      },
       "id": 427
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.754374,
+          47.708016
+        ]
+      },
       "properties": {
         "title": "Tegernsee",
         "marker-symbol": "circle-stroked",
@@ -7811,17 +7818,17 @@
         "location": "West",
         "marker-color": "#74a7fe"
       },
-      "geometry": {
-        "coordinates": [
-          11.754374212047054,
-          47.70801576210198
-        ],
-        "type": "Point"
-      },
       "id": 428
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.188782,
+          47.332157
+        ]
+      },
       "properties": {
         "title": "Seefeld",
         "marker-symbol": "circle-stroked",
@@ -7830,17 +7837,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          11.188782199913902,
-          47.332156528344626
-        ],
-        "type": "Point"
-      },
       "id": 429
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.797396,
+          47.325205
+        ]
+      },
       "properties": {
         "title": "Zell am See",
         "marker-symbol": "circle-stroked",
@@ -7849,17 +7856,17 @@
         "marker-size": "small",
         "location": "Central Europe"
       },
-      "geometry": {
-        "coordinates": [
-          12.797395855132493,
-          47.32520536435436
-        ],
-        "type": "Point"
-      },
       "id": 430
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.127556,
+          40.871086
+        ]
+      },
       "properties": {
         "title": "Princess Islands",
         "marker-symbol": "harbor",
@@ -7868,17 +7875,17 @@
         "location": "Sea of Marmara",
         "marker-color": "#3333cc"
       },
-      "geometry": {
-        "coordinates": [
-          29.12755563360949,
-          40.87108591479003
-        ],
-        "type": "Point"
-      },
       "id": 431
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.765411,
+          31.514841
+        ]
+      },
       "properties": {
         "title": "Essaouira",
         "marker-symbol": "circle-stroked",
@@ -7887,17 +7894,17 @@
         "location": "Africa",
         "marker-color": "#e32400"
       },
-      "geometry": {
-        "coordinates": [
-          -9.765410695634898,
-          31.51484066912576
-        ],
-        "type": "Point"
-      },
       "id": 432
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.458098,
+          14.703313
+        ]
+      },
       "properties": {
         "title": "Dakar",
         "marker-symbol": "circle-stroked",
@@ -7906,17 +7913,17 @@
         "location": "Africa",
         "marker-color": "#e32400"
       },
-      "geometry": {
-        "coordinates": [
-          -17.458097702059092,
-          14.703313365915704
-        ],
-        "type": "Point"
-      },
       "id": 433
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.595053,
+          42.336858
+        ]
+      },
       "properties": {
         "title": "Shymkent",
         "marker-symbol": "circle-stroked",
@@ -7925,17 +7932,17 @@
         "marker-color": "#804000",
         "location": "Central Asia"
       },
-      "geometry": {
-        "coordinates": [
-          69.5950531486254,
-          42.33685752604288
-        ],
-        "type": "Point"
-      },
       "id": 434
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.38031,
+          42.908481
+        ]
+      },
       "properties": {
         "title": "Taraz",
         "marker-symbol": "circle-stroked",
@@ -7944,17 +7951,17 @@
         "marker-color": "#804000",
         "location": "Central Asia"
       },
-      "geometry": {
-        "coordinates": [
-          71.38031035175825,
-          42.908480740509276
-        ],
-        "type": "Point"
-      },
       "id": 435
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.622786,
+          39.500292
+        ]
+      },
       "properties": {
         "title": "Panjakent",
         "marker-symbol": "circle-stroked",
@@ -7962,13 +7969,6 @@
         "marker-size": "small",
         "marker-color": "#804000",
         "location": "Central Asia"
-      },
-      "geometry": {
-        "coordinates": [
-          67.62278556274978,
-          39.50029181119686
-        ],
-        "type": "Point"
       },
       "id": 436
     }
