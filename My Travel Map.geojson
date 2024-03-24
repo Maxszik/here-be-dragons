@@ -1627,7 +1627,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Tajikistan",
         "title": "Istaravshan"
-      }
+      },
+      "id": 89
     },
     {
       "type": "Feature",
@@ -3749,7 +3750,8 @@
         "marker-symbol": "harbor",
         "country": "Greece",
         "title": "The Corinth Canal"
-      }
+      },
+      "id": 206
     },
     {
       "type": "Feature",
@@ -4982,7 +4984,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Tajikistan",
         "title": "The Anzob tunnel"
-      }
+      },
+      "id": 274
     },
     {
       "type": "Feature",
@@ -7451,7 +7454,7 @@
         ]
       },
       "properties": {
-        "title": "Meksnes",
+        "title": "Meknes",
         "marker-color": "#e32400",
         "marker-symbol": "circle-stroked",
         "country": "Morocco",
@@ -7644,8 +7647,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Ukraine",
         "marker-size": "small",
-        "location": "East",
-        "marker-color": "#990000"
+        "location": "Central Europe",
+        "marker-color": "#004080"
       },
       "id": 419
     },
@@ -7971,6 +7974,177 @@
         "location": "Central Asia"
       },
       "id": 436
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.729957,
+          32.677883
+        ]
+      },
+      "properties": {
+        "title": "Midelt",
+        "marker-symbol": "circle-stroked",
+        "country": "Morocco",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "id": 437
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.111626,
+          33.525478
+        ]
+      },
+      "properties": {
+        "title": "Ifren",
+        "marker-symbol": "circle-stroked",
+        "country": "Morocco",
+        "marker-size": "small",
+        "marker-color": "#e32400",
+        "location": "Africa"
+      },
+      "id": 438
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.920997,
+          42.38943
+        ]
+      },
+      "properties": {
+        "title": "Cetinje",
+        "marker-symbol": "circle-stroked",
+        "country": "Montenegro",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "location": "The Balkans"
+      },
+      "id": 439
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.717115,
+          37.960272
+        ]
+      },
+      "properties": {
+        "title": "Athens",
+        "marker-symbol": "circle-stroked",
+        "country": "Greece",
+        "marker-size": "small",
+        "marker-color": "#3333cc",
+        "location": "Mediterraneo"
+      },
+      "id": 440
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.432207,
+          36.387406
+        ]
+      },
+      "properties": {
+        "title": "Santorini",
+        "marker-symbol": "harbor",
+        "country": "Greece",
+        "marker-size": "small",
+        "marker-color": "#3333cc",
+        "location": "Mediterraneo"
+      },
+      "id": 441
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.598783,
+          49.194565
+        ]
+      },
+      "properties": {
+        "title": "Brno",
+        "marker-symbol": "circle-stroked",
+        "country": "Czechia",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "id": 442
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.031831,
+          50.661596
+        ]
+      },
+      "properties": {
+        "title": "Usti nad Labem",
+        "marker-symbol": "circle-stroked",
+        "country": "Czechia",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "id": 443
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.932221,
+          52.403359
+        ]
+      },
+      "properties": {
+        "title": "Poznan",
+        "marker-symbol": "circle-stroked",
+        "country": "Poland",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "id": 444
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.012057,
+          50.274901
+        ]
+      },
+      "properties": {
+        "title": "Katowice",
+        "marker-symbol": "circle-stroked",
+        "country": "Poland",
+        "marker-size": "small",
+        "location": "Central Europe",
+        "marker-color": "#004080"
+      },
+      "id": 445
     }
   ]
 }
