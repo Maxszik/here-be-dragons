@@ -5220,7 +5220,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Bosnia",
         "title": "Mostar"
-      }
+      },
+      "id": 287
     },
     {
       "type": "Feature",
@@ -5744,7 +5745,8 @@
         "marker-symbol": "harbor",
         "country": "Albania",
         "title": "Dûrres"
-      }
+      },
+      "id": 316
     },
     {
       "type": "Feature",
@@ -5798,7 +5800,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Albania",
         "title": "Fushë-Krujë"
-      }
+      },
+      "id": 319
     },
     {
       "type": "Feature",
@@ -5852,7 +5855,8 @@
         "marker-symbol": "circle-stroked",
         "country": "North Macedonia",
         "title": "Skopje"
-      }
+      },
+      "id": 322
     },
     {
       "type": "Feature",
@@ -5870,7 +5874,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Kosovo",
         "title": "Prishtina"
-      }
+      },
+      "id": 323
     },
     {
       "type": "Feature",
@@ -8145,6 +8150,291 @@
         "marker-color": "#004080"
       },
       "id": 445
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445212,
+          47.070569
+        ]
+      },
+      "properties": {
+        "title": "Graz",
+        "location": "Central Europe",
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked"
+      },
+      "id": 446
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.711029,
+          47.483772
+        ]
+      },
+      "properties": {
+        "title": "Achensee",
+        "location": "Central Europe",
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked"
+      },
+      "id": 447
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.453479,
+          47.737368
+        ]
+      },
+      "properties": {
+        "title": "St Wolfgang",
+        "location": "Central Europe",
+        "marker-color": "#004080",
+        "marker-size": "small",
+        "country": "Austria",
+        "marker-symbol": "circle-stroked"
+      },
+      "id": 448
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.962724,
+          43.652329
+        ]
+      },
+      "properties": {
+        "title": "Konjic",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
+      },
+      "id": 449
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.902774,
+          43.256897
+        ]
+      },
+      "properties": {
+        "title": "Blagaj",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
+      },
+      "id": 450
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.347263,
+          42.710307
+        ]
+      },
+      "properties": {
+        "title": "Trebinje",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
+      },
+      "id": 451
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.261533,
+          42.440469
+        ]
+      },
+      "properties": {
+        "title": "Podgorica",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Montenegro"
+      },
+      "id": 452
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.82788,
+          42.431302
+        ]
+      },
+      "properties": {
+        "title": "Njeguši",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Montenegro"
+      },
+      "id": 453
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.520441,
+          42.824038
+        ]
+      },
+      "properties": {
+        "title": "Kolašin",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Montenegro"
+      },
+      "id": 454
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.305209,
+          41.938849
+        ]
+      },
+      "properties": {
+        "title": "Matka Canyon",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "North Macedonia"
+      },
+      "id": 455
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.489871,
+          40.464829
+        ]
+      },
+      "properties": {
+        "title": "Vlorë",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor",
+        "country": "Albania"
+      },
+      "id": 456
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.280701,
+          40.490288
+        ]
+      },
+      "properties": {
+        "title": "Sazan Island",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor",
+        "country": "Albania"
+      },
+      "id": 457
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.749942,
+          40.10049
+        ]
+      },
+      "properties": {
+        "title": "Himarë",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Albania"
+      },
+      "id": 458
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.695292,
+          40.140734
+        ]
+      },
+      "properties": {
+        "title": "Vuno",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Albania"
+      },
+      "id": 459
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.477403,
+          40.877877
+        ]
+      },
+      "properties": {
+        "title": "Karavasta",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked",
+        "country": "Albania"
+      },
+      "id": 460
     }
   ]
 }
