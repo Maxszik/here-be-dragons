@@ -8684,7 +8684,7 @@
         ],
         "type": "Point"
       },
-      "id": 474
+      "id": 473
     },
     {
       "type": "Feature",
@@ -8722,7 +8722,7 @@
         ],
         "type": "Point"
       },
-      "id": 476
+      "id": 475
     },
     {
       "type": "Feature",
@@ -8760,7 +8760,7 @@
         ],
         "type": "Point"
       },
-      "id": 478
+      "id": 477
     },
     {
       "type": "Feature",
@@ -8825,8 +8825,9 @@
         "title": "Hvar",
         "marker-size": "small",
         "location": "The Balkans",
-        "marker-color": "#74a7fe",
-        "marker-symbol": "harbor"
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor",
+        "country": "Croatia"
       },
       "geometry": {
         "coordinates": [
@@ -8836,6 +8837,139 @@
         "type": "Point"
       },
       "id": 482
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Astana",
+        "marker-color": "#804000",
+        "marker-size": "small",
+        "location": "Central Asia",
+        "marker-symbol": "circle-stroked",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "coordinates": [
+          71.42101062865814,
+          51.12949062452935
+        ],
+        "type": "Point"
+      },
+      "id": 482
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Odense",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "country": "Denmark",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38696967309329,
+          55.3954450422967
+        ],
+        "type": "Point"
+      },
+      "id": 483
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "title": "Humlebæk",
+        "marker-symbol": "circle-stroked",
+        "country": "Denmark"
+      },
+      "geometry": {
+        "coordinates": [
+          12.542844013572392,
+          55.969380505039425
+        ],
+        "type": "Point"
+      },
+      "id": 484
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Helsingør",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "country": "Denmark"
+      },
+      "geometry": {
+        "coordinates": [
+          12.613028767382815,
+          56.03523741925298
+        ],
+        "type": "Point"
+      },
+      "id": 485
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copenhagen",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "country": "Denmark"
+      },
+      "geometry": {
+        "coordinates": [
+          12.574058635188976,
+          55.67569413624844
+        ],
+        "type": "Point"
+      },
+      "id": 486
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herrenberg",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.868575213440579,
+          48.59452935952808
+        ],
+        "type": "Point"
+      },
+      "id": 487
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Linderhof",
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked",
+        "country": "Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10.960790474053965,
+          47.570508409112676
+        ],
+        "type": "Point"
+      },
+      "id": 488
     }
   ]
 }
