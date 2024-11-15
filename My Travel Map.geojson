@@ -5367,7 +5367,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Kazakhstan",
         "title": "Charyn Canyon"
-      }
+      },
+      "id": 295
     },
     {
       "type": "Feature",
@@ -5675,7 +5676,8 @@
         "marker-symbol": "mountain",
         "country": "Russia",
         "title": "Altai"
-      }
+      },
+      "id": 312
     },
     {
       "type": "Feature",
@@ -8646,7 +8648,7 @@
         ],
         "type": "Point"
       },
-      "id": 472
+      "id": 471
     },
     {
       "type": "Feature",
@@ -8970,6 +8972,247 @@
         "type": "Point"
       },
       "id": 488
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Agadir",
+        "country": "Morocco",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.601083981458487,
+          30.415650882876037
+        ],
+        "type": "Point"
+      },
+      "id": 489
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zagora",
+        "country": "Morocco",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.835140141501597,
+          30.354719326434505
+        ],
+        "type": "Point"
+      },
+      "id": 490
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boumalne Dades",
+        "country": "Morocco",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.987711662792464,
+          31.36650718909229
+        ],
+        "type": "Point"
+      },
+      "id": 491
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flåm",
+        "country": "Norway",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          7.117156126095267,
+          60.86352295351861
+        ],
+        "type": "Point"
+      },
+      "id": 492
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gudvangen",
+        "country": "Norway",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          6.843374775556896,
+          60.880337463618986
+        ],
+        "type": "Point"
+      },
+      "id": 493
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Niš",
+        "country": "Serbis",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          21.90418335905403,
+          43.33002694300822
+        ],
+        "type": "Point"
+      },
+      "id": 494
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merki",
+        "country": "Kazakhstan",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          73.17618555992289,
+          42.872060843041595
+        ],
+        "type": "Point"
+      },
+      "id": 495
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Schweich",
+        "country": "Germany",
+        "marker-size": "small",
+        "location": "West",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          6.747830470524775,
+          49.81757920527974
+        ],
+        "type": "Point"
+      },
+      "id": 496
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kyzyl-Suu",
+        "country": "Kyrgyzstan",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          78.0051367976198,
+          42.33961123431743
+        ],
+        "type": "Point"
+      },
+      "id": 497
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Luxembourg",
+        "country": "Luxemburg",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "location": "West"
+      },
+      "geometry": {
+        "coordinates": [
+          6.132372920664039,
+          49.61698985213732
+        ],
+        "type": "Point"
+      },
+      "id": 498
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frankfurt",
+        "country": "Germany",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          8.68247372166607,
+          50.11001390918378
+        ],
+        "type": "Point"
+      },
+      "id": 499
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peja",
+        "country": "Kosova",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          20.288849626279585,
+          42.65934062699682
+        ],
+        "type": "Point"
+      },
+      "id": 500
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barskon Valley",
+        "country": "Kazakhstan",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          77.59566109038025,
+          42.12385629784259
+        ],
+        "type": "Point"
+      },
+      "id": 501
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kegen",
+        "country": "Kazakhstan",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          79.18155461457224,
+          42.80117619283408
+        ],
+        "type": "Point"
+      },
+      "id": 502
     }
   ]
 }
