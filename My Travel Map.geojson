@@ -3861,7 +3861,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Turkey",
         "title": "Dalaman"
-      }
+      },
+      "id": 212
     },
     {
       "type": "Feature",
@@ -9318,6 +9319,63 @@
         "country": "Kyrgyzstan"
       },
       "id": 506
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Turda",
+        "marker-color": "#004080",
+        "country": "Romania",
+        "marker-symbol": "circle-stroked",
+        "location": "Central Europe",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          23.787296909059506,
+          46.5876960441575
+        ],
+        "type": "Point"
+      },
+      "id": 507
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kemer",
+        "marker-color": "#3333cc",
+        "country": "Turkey",
+        "marker-symbol": "harbor",
+        "location": "Mediterraneo",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          30.569417478139655,
+          36.60038494633642
+        ],
+        "type": "Point"
+      },
+      "id": 508
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Antalya",
+        "marker-color": "#3333cc",
+        "country": "Turkey",
+        "marker-symbol": "harbor",
+        "location": "Mediterraneo",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          30.703423546102897,
+          36.8846108807831
+        ],
+        "type": "Point"
+      },
+      "id": 509
     }
   ]
 }
