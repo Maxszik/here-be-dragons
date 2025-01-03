@@ -9376,6 +9376,25 @@
         "type": "Point"
       },
       "id": 509
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tønder",
+        "marker-color": "#74a7fe",
+        "location": "West",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "country": "Denmark"
+      },
+      "geometry": {
+        "coordinates": [
+          8.870370787814721,
+          54.93597845067299
+        ],
+        "type": "Point"
+      },
+      "id": 510
     }
   ]
 }
