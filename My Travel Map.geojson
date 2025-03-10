@@ -1374,7 +1374,8 @@
         "marker-symbol": "harbor",
         "country": "Slovenia",
         "title": "Piran"
-      }
+      },
+      "id": 75
     },
     {
       "type": "Feature",
@@ -4100,7 +4101,8 @@
         "marker-symbol": "harbor",
         "country": "Montenegro",
         "title": "Kotor"
-      }
+      },
+      "id": 225
     },
     {
       "type": "Feature",
@@ -5736,7 +5738,8 @@
         "marker-symbol": "harbor",
         "country": "Montenegro",
         "title": "Budva"
-      }
+      },
+      "id": 315
     },
     {
       "type": "Feature",
@@ -9395,6 +9398,132 @@
         "type": "Point"
       },
       "id": 510
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Neum",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          17.61437415664807,
+          42.92349433473268
+        ],
+        "type": "Point"
+      },
+      "id": 511
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herzeg Novi",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          18.534904181003014,
+          42.45091871898424
+        ],
+        "type": "Point"
+      },
+      "id": 512
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tivat",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          18.700508628209434,
+          42.42962430409716
+        ],
+        "type": "Point"
+      },
+      "id": 513
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Čapljina",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          17.705837080404876,
+          43.11206147918955
+        ],
+        "type": "Point"
+      },
+      "id": 514
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hutovo Blata",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          17.82369701869598,
+          42.93657875995203
+        ],
+        "type": "Point"
+      },
+      "id": 515
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kravica",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "coordinates": [
+          17.60378800455689,
+          43.154277810809134
+        ],
+        "type": "Point"
+      },
+      "id": 516
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bar",
+        "location": "The Balkans",
+        "marker-size": "small",
+        "marker-color": "#10053b",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          19.093345944459855,
+          42.096158559831224
+        ],
+        "type": "Point"
+      },
+      "id": 517
     }
   ]
 }
