@@ -9406,7 +9406,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "harbor"
+        "marker-symbol": "harbor",
+        "country": "Bosnia"
       },
       "geometry": {
         "coordinates": [
@@ -9424,7 +9425,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "harbor"
+        "marker-symbol": "harbor",
+        "country": "Montenegro"
       },
       "geometry": {
         "coordinates": [
@@ -9442,7 +9444,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "harbor"
+        "marker-symbol": "harbor",
+        "country": "Montenegro"
       },
       "geometry": {
         "coordinates": [
@@ -9460,7 +9463,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
       },
       "geometry": {
         "coordinates": [
@@ -9478,7 +9482,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
       },
       "geometry": {
         "coordinates": [
@@ -9496,7 +9501,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "country": "Bosnia"
       },
       "geometry": {
         "coordinates": [
@@ -9514,7 +9520,8 @@
         "location": "The Balkans",
         "marker-size": "small",
         "marker-color": "#10053b",
-        "marker-symbol": "harbor"
+        "marker-symbol": "harbor",
+        "country": "Montenegro"
       },
       "geometry": {
         "coordinates": [
@@ -9524,6 +9531,120 @@
         "type": "Point"
       },
       "id": 517
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaş",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "coordinates": [
+          29.63975893781148,
+          36.199026012899424
+        ],
+        "type": "Point"
+      },
+      "id": 518
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kalkan",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "harbor",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "coordinates": [
+          29.414785076813928,
+          36.26348944623433
+        ],
+        "type": "Point"
+      },
+      "id": 519
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gelemis",
+        "marker-size": "small",
+        "location": "Mediterraneo",
+        "marker-color": "#3333cc",
+        "marker-symbol": "circle-stroked",
+        "country": "Turkey"
+      },
+      "geometry": {
+        "coordinates": [
+          29.318938601359093,
+          36.27544759715886
+        ],
+        "type": "Point"
+      },
+      "id": 520
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Putten",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "coordinates": [
+          5.6074907537208105,
+          52.259588534185156
+        ],
+        "type": "Point"
+      },
+      "id": 521
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Groningen",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "coordinates": [
+          6.571328227717913,
+          53.216950941522725
+        ],
+        "type": "Point"
+      },
+      "id": 522
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Hague",
+        "marker-size": "small",
+        "location": "West",
+        "marker-color": "#74a7fe",
+        "marker-symbol": "circle-stroked",
+        "country": "The Netherlands"
+      },
+      "geometry": {
+        "coordinates": [
+          4.315709782190709,
+          52.07644544418014
+        ],
+        "type": "Point"
+      },
+      "id": 523
     }
   ]
 }
