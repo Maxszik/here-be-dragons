@@ -3173,7 +3173,8 @@
         "marker-symbol": "circle-stroked",
         "country": "Norway",
         "title": "Kristansand"
-      }
+      },
+      "id": 174
     },
     {
       "type": "Feature",
@@ -6471,7 +6472,8 @@
         "marker-color": "#3333cc",
         "marker-size": "small",
         "location": "West"
-      }
+      },
+      "id": 355
     },
     {
       "type": "Feature",
@@ -7024,7 +7026,7 @@
         "country": "Portugal",
         "marker-symbol": "harbor",
         "location": "West",
-        "marker-color": "#74a7fe"
+        "marker-color": "#3333cc"
       },
       "id": 385
     },
@@ -7043,7 +7045,7 @@
         "country": "Portugal",
         "marker-symbol": "harbor",
         "location": "West",
-        "marker-color": "#74a7fe"
+        "marker-color": "#3333cc"
       },
       "id": 386
     },
@@ -7062,7 +7064,7 @@
         "country": "Portugal",
         "marker-symbol": "harbor",
         "location": "West",
-        "marker-color": "#74a7fe"
+        "marker-color": "#3333cc"
       },
       "id": 387
     },
@@ -9654,7 +9656,10 @@
       "properties": {
         "title": "Cluj-Napoca",
         "country": "Romania",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "#004080",
+        "location": "Central Europe"
       },
       "geometry": {
         "coordinates": [
@@ -9671,7 +9676,9 @@
         "title": "Tórshavn",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9688,7 +9695,9 @@
         "title": "Bøur",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9705,7 +9714,9 @@
         "title": "Gásadalur",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9722,7 +9733,9 @@
         "title": "Vestmanna",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9739,7 +9752,9 @@
         "title": "Gjógv",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9756,7 +9771,9 @@
         "title": "Eiði",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9773,7 +9790,9 @@
         "title": "Klaksvík",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9790,7 +9809,9 @@
         "title": "Syðradalur",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9807,7 +9828,9 @@
         "title": "Mikladalur",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9824,7 +9847,9 @@
         "title": "Trøllanes",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9841,7 +9866,9 @@
         "title": "Kunoy",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9858,7 +9885,9 @@
         "title": "Viðareiði",
         "country": "Faroe Islands",
         "marker-symbol": "harbor",
-        "marker-color": "#006666"
+        "marker-color": "#006666",
+        "marker-size": "small",
+        "location": "Scandinavia"
       },
       "geometry": {
         "coordinates": [
@@ -9875,7 +9904,9 @@
         "title": "Schaffhausen",
         "country": "Switzerland",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9892,7 +9923,9 @@
         "title": "Simonswald",
         "country": "Germany",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9909,7 +9942,9 @@
         "title": "Colmar ",
         "country": "France",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9926,7 +9961,9 @@
         "title": "Friedrichshafen",
         "country": "Germany",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9943,7 +9980,9 @@
         "title": "Schwägalp",
         "country": "Switzerland",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9960,7 +9999,9 @@
         "title": "Weil am Rhein",
         "country": "Germany",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9977,7 +10018,9 @@
         "title": "Affoltern im Emmental.",
         "country": "Switzerland",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#74a7fe"
+        "marker-color": "#74a7fe",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -9994,7 +10037,9 @@
         "title": "Arraiolos",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10011,7 +10056,9 @@
         "title": "Évora",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10028,7 +10075,9 @@
         "title": "Reguengos de Monsaraz",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10045,7 +10094,9 @@
         "title": "Corval",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10062,7 +10113,9 @@
         "title": "Portalegre",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10079,7 +10132,9 @@
         "title": "Alpalhão",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10096,7 +10151,9 @@
         "title": "Nisa",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10113,7 +10170,9 @@
         "title": "Castelo Branco",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10130,7 +10189,9 @@
         "title": "Caldas da Rainha",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10147,7 +10208,9 @@
         "title": "Peniche",
         "country": "Portugal",
         "marker-symbol": "circle-stroked",
-        "marker-color": "#3333cc"
+        "marker-color": "#3333cc",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10164,7 +10227,9 @@
         "title": "Madrid",
         "marker-color": "#3333cc",
         "marker-symbol": "circle-stroked",
-        "country": "Spain"
+        "country": "Spain",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
@@ -10181,7 +10246,9 @@
         "title": "Granada",
         "marker-symbol": "circle-stroked",
         "marker-color": "#3333cc",
-        "country": "Spain"
+        "country": "Spain",
+        "marker-size": "small",
+        "location": "West"
       },
       "geometry": {
         "coordinates": [
